@@ -1,0 +1,6563 @@
+year_month,Country,AverageTemperature
+1768-09,United States,15.42
+1768-10,United States,8.162
+1768-11,United States,1.591
+1768-12,United States,-2.882
+1769-01,United States,-3.952
+1769-02,United States,-2.684
+1769-03,United States,1.828
+1769-04,United States,8.843
+1769-05,United States,15.724
+1769-06,United States,20.933000000000003
+1769-07,United States,22.093000000000004
+1769-08,United States,20.787
+1774-10,United States,9.244
+1774-11,United States,0.5219999999999998
+1774-12,United States,-4.957
+1775-01,United States,-1.5510000000000002
+1775-02,United States,1.5060000000000002
+1775-03,United States,5.02
+1775-04,United States,7.662999999999999
+1775-05,United States,14.452
+1775-06,United States,17.684
+1775-07,United States,21.601
+1775-08,United States,20.844
+1775-09,United States,15.081
+1775-10,United States,10.255999999999998
+1775-11,United States,5.371
+1775-12,United States,-3.937
+1776-01,United States,-6.3580000000000005
+1776-02,United States,-0.54
+1776-03,United States,1.541
+1776-04,United States,7.254
+1776-06,United States,19.836
+1776-07,United States,20.94
+1776-08,United States,21.476
+1776-09,United States,14.999
+1776-10,United States,8.351
+1776-11,United States,2.7030000000000003
+1776-12,United States,-0.9919999999999998
+1777-01,United States,0.1739999999999995
+1777-02,United States,-0.1859999999999999
+1777-03,United States,2.504
+1777-04,United States,5.836
+1777-05,United States,13.739
+1777-06,United States,17.463
+1777-07,United States,19.176
+1777-08,United States,19.398
+1777-09,United States,15.27
+1777-10,United States,7.042000000000001
+1777-11,United States,1.882
+1777-12,United States,-2.641
+1778-01,United States,-3.402
+1778-05,United States,13.835
+1778-06,United States,16.855
+1778-10,United States,8.203
+1778-11,United States,0.6299999999999999
+1778-12,United States,-3.949
+1779-01,United States,-5.337999999999999
+1779-02,United States,-0.2930000000000001
+1779-03,United States,3.49
+1781-09,United States,14.316
+1781-10,United States,9.031
+1781-11,United States,3.832
+1781-12,United States,-2.166
+1782-01,United States,-5.98
+1782-02,United States,-4.058
+1782-03,United States,-0.121
+1782-04,United States,8.792
+1782-05,United States,14.02
+1782-06,United States,19.578
+1782-07,United States,21.014
+1796-06,United States,19.877
+1796-07,United States,21.441
+1796-08,United States,21.54
+1796-09,United States,16.315
+1796-10,United States,9.388
+1796-11,United States,2.317
+1796-12,United States,-5.261
+1797-01,United States,-1.7630000000000003
+1797-02,United States,0.4489999999999998
+1797-03,United States,1.266
+1797-04,United States,6.311
+1797-05,United States,12.630999999999998
+1797-06,United States,19.247
+1811-08,United States,20.167
+1811-09,United States,15.193
+1811-10,United States,6.885
+1811-11,United States,0.484
+1811-12,United States,-2.512
+1812-01,United States,-5.972
+1812-02,United States,-5.1
+1812-03,United States,-1.2830000000000004
+1812-04,United States,5.917000000000001
+1812-05,United States,11.998
+1812-06,United States,17.495
+1812-07,United States,21.197
+1812-08,United States,21.686
+1812-09,United States,14.715
+1812-10,United States,7.593
+1812-11,United States,0.6269999999999998
+1812-12,United States,-4.721
+1813-01,United States,-7.130000000000001
+1813-02,United States,-2.972
+1813-03,United States,-0.8590000000000001
+1813-04,United States,8.391
+1813-05,United States,14.684
+1813-06,United States,18.636
+1813-07,United States,21.586
+1813-08,United States,19.987
+1813-09,United States,16.947
+1814-10,United States,7.711
+1814-11,United States,3.907
+1814-12,United States,-0.2649999999999997
+1815-01,United States,-4.428999999999999
+1815-02,United States,-2.027
+1815-03,United States,0.94
+1815-04,United States,6.694000000000001
+1815-05,United States,12.268
+1815-06,United States,16.72
+1815-07,United States,21.953000000000003
+1815-08,United States,19.859
+1815-09,United States,15.042
+1815-10,United States,7.084
+1815-11,United States,0.4020000000000001
+1815-12,United States,-4.49
+1816-01,United States,-3.803
+1816-02,United States,-4.955
+1816-03,United States,0.446
+1816-04,United States,7.034000000000002
+1816-05,United States,13.479
+1816-06,United States,17.105
+1816-10,United States,5.442
+1816-11,United States,0.4249999999999998
+1817-01,United States,-5.267
+1817-02,United States,-1.734
+1817-03,United States,2.069
+1817-04,United States,7.718000000000001
+1817-05,United States,12.088
+1817-06,United States,16.718
+1817-07,United States,19.23
+1817-08,United States,20.296
+1817-09,United States,13.048
+1817-10,United States,6.25
+1817-11,United States,1.754
+1817-12,United States,-5.4110000000000005
+1818-01,United States,-5.0310000000000015
+1818-02,United States,-4.476000000000001
+1818-03,United States,3.104
+1818-04,United States,9.506
+1818-05,United States,14.081
+1818-06,United States,19.965
+1818-08,United States,19.928
+1818-10,United States,6.872999999999999
+1818-11,United States,2.603
+1818-12,United States,-3.806
+1819-01,United States,-4.9990000000000006
+1819-02,United States,-2.342
+1819-03,United States,-0.983
+1820-01,United States,-6.928999999999999
+1820-02,United States,-2.158
+1820-03,United States,1.227
+1820-04,United States,8.978
+1820-05,United States,13.647
+1820-06,United States,18.656
+1820-07,United States,20.031
+1820-08,China,16.684
+1820-08,United States,18.438
+1820-09,China,13.292
+1820-09,United States,15.276
+1820-10,China,5.624
+1820-10,United States,7.785
+1820-11,China,-1.981
+1820-11,United States,0.845
+1820-12,China,-8.551
+1820-12,United States,-5.029999999999999
+1821-01,China,-7.4689999999999985
+1821-01,United States,-4.464
+1821-02,China,-4.029
+1821-02,United States,-1.6840000000000002
+1821-03,China,1.381
+1821-03,United States,1.953
+1821-04,China,7.45
+1821-04,United States,6.2810000000000015
+1821-05,China,13.463
+1821-05,United States,13.429
+1821-06,China,16.799
+1821-06,United States,18.779
+1821-07,China,18.608
+1821-07,United States,19.775
+1821-08,China,18.011
+1821-08,United States,20.527
+1821-09,China,12.107
+1821-09,United States,14.48
+1821-10,China,6.414
+1821-10,United States,8.802999999999999
+1821-11,China,-0.304
+1821-11,United States,2.184
+1821-12,China,-7.021
+1821-12,United States,-4.013999999999999
+1822-01,China,-8.174
+1822-01,United States,-3.755
+1822-02,China,-3.866000000000001
+1822-02,United States,-0.841
+1822-03,China,3.924
+1822-03,United States,5.106
+1822-04,China,7.91
+1822-04,United States,7.528
+1822-05,China,12.932
+1822-05,United States,13.527
+1822-06,China,17.335
+1822-06,United States,18.64
+1822-07,China,19.751
+1822-07,United States,21.539
+1822-08,China,17.994
+1822-08,United States,20.211
+1822-09,China,12.82
+1822-09,United States,15.117
+1822-10,China,5.925
+1822-10,United States,7.702000000000001
+1822-11,China,-1.745
+1822-11,United States,1.5119999999999998
+1822-12,China,-8.709
+1822-12,United States,-5.644
+1823-01,China,-9.109
+1823-01,United States,-3.994
+1823-02,China,-6.11
+1823-02,United States,-4.542
+1823-03,China,0.8360000000000001
+1823-03,United States,2.172
+1823-04,China,7.403
+1823-04,United States,7.855
+1823-05,China,12.767
+1823-05,United States,13.135
+1823-06,China,18.12
+1823-06,United States,19.397
+1823-07,China,19.602
+1823-07,United States,21.453000000000003
+1823-08,China,17.686
+1823-08,United States,20.076
+1823-09,China,12.135000000000002
+1823-09,United States,14.138
+1823-10,China,5.528
+1823-10,United States,7.79
+1823-11,China,-1.59
+1823-11,United States,1.158
+1823-12,United States,-3.706
+1824-01,United States,-2.7780000000000005
+1824-02,United States,-2.8920000000000003
+1824-03,United States,1.779
+1824-04,United States,7.206
+1824-05,United States,13.308
+1824-06,United States,18.61
+1824-07,United States,21.696
+1824-08,United States,20.063
+1824-09,United States,15.616
+1824-10,United States,7.966
+1824-11,United States,2.241
+1824-12,United States,-0.7879999999999999
+1825-01,Indonesia,25.915
+1825-01,United States,-2.982
+1825-02,Indonesia,25.385
+1825-02,United States,-0.8140000000000001
+1825-03,Indonesia,25.687
+1825-03,United States,3.479
+1825-04,Indonesia,26.302
+1825-04,United States,9.148
+1825-05,Indonesia,25.705
+1825-05,United States,13.561
+1825-06,Indonesia,26.161
+1825-06,United States,19.291
+1825-07,Indonesia,25.567
+1825-07,United States,21.659
+1825-08,Indonesia,24.97
+1825-08,United States,20.304
+1825-09,Indonesia,24.87
+1825-09,United States,15.717
+1825-10,Indonesia,24.788
+1825-10,United States,8.367
+1825-11,Indonesia,26.069000000000003
+1825-11,United States,2.843
+1825-12,Indonesia,25.207
+1825-12,United States,-2.975
+1826-01,United States,-4.033
+1826-02,United States,-2.8960000000000004
+1826-03,United States,2.506
+1826-04,United States,7.631
+1826-05,United States,15.149
+1826-06,United States,18.736
+1826-07,United States,21.247
+1826-08,United States,19.518
+1826-09,United States,14.648
+1826-10,United States,8.75
+1826-11,United States,3.073
+1826-12,United States,-1.3809999999999998
+1827-01,United States,-2.641
+1827-02,United States,0.1980000000000001
+1827-03,United States,3.415
+1827-04,United States,8.883000000000003
+1827-05,United States,14.424
+1827-06,United States,18.98
+1827-07,United States,21.709
+1827-08,United States,20.468
+1827-09,United States,15.255999999999998
+1827-10,United States,8.908
+1827-11,United States,2.777
+1827-12,United States,-3.153
+1828-01,United States,-4.3820000000000014
+1828-02,United States,-1.644
+1828-03,United States,3.02
+1828-04,United States,7.510000000000002
+1828-05,United States,14.023
+1828-06,United States,20.228
+1828-07,United States,21.908
+1828-08,United States,20.612
+1828-09,United States,14.216
+1828-10,United States,8.968
+1828-11,United States,3.0700000000000003
+1828-12,United States,-1.347
+1829-01,United States,-3.462
+1829-02,United States,-4.2810000000000015
+1829-03,United States,1.813
+1829-04,United States,7.411
+1829-05,United States,14.96
+1829-06,United States,19.282
+1829-07,United States,21.577
+1829-08,United States,20.675
+1829-09,United States,14.646
+1829-10,United States,9.41
+1829-11,United States,0.8500000000000001
+1829-12,United States,-2.21
+1830-01,United States,-3.184
+1830-02,United States,-0.3959999999999999
+1830-03,United States,2.605
+1830-04,United States,8.823
+1830-05,United States,12.994000000000002
+1830-06,United States,18.292
+1830-07,United States,22.816
+1830-08,United States,20.417
+1830-09,United States,14.802
+1830-10,United States,9.557
+1830-11,United States,5.51
+1830-12,United States,-1.6549999999999998
+1831-01,United States,-4.921
+1831-02,United States,-3.167
+1831-03,United States,2.504
+1831-04,United States,7.258999999999999
+1831-05,United States,13.387
+1831-06,United States,18.701
+1831-07,United States,20.806
+1831-08,United States,19.725
+1831-09,United States,14.002
+1831-10,United States,8.537
+1831-11,United States,1.45
+1831-12,United States,-5.634
+1832-01,United States,-3.4920000000000004
+1832-02,United States,-3.378
+1832-03,United States,3.056
+1832-04,United States,8.014000000000001
+1832-05,United States,12.851
+1832-06,United States,18.596
+1832-07,United States,21.043000000000003
+1832-08,United States,18.667
+1832-09,United States,14.722
+1832-10,United States,9.104
+1832-11,United States,2.089
+1832-12,United States,-2.303
+1833-01,China,-8.636999999999999
+1833-01,United States,-2.264
+1833-02,China,-5.766
+1833-02,United States,-1.473
+1833-03,China,-0.2119999999999997
+1833-03,United States,2.461
+1833-04,China,6.847
+1833-04,United States,8.215
+1833-05,China,12.857
+1833-05,United States,13.602
+1833-06,China,17.132
+1833-06,United States,18.105
+1833-07,China,19.432
+1833-07,United States,21.092
+1833-08,China,17.803
+1833-08,United States,20.136
+1833-09,China,13.409
+1833-09,United States,15.81
+1833-10,China,6.034
+1833-10,United States,7.8610000000000015
+1833-11,China,0.426
+1833-11,United States,3.764
+1833-12,China,-6.853
+1833-12,United States,-1.5659999999999998
+1834-01,China,-10.880999999999998
+1834-01,United States,-5.445
+1834-02,China,-5.7970000000000015
+1834-02,United States,-0.1399999999999999
+1834-03,China,1.896
+1834-03,United States,3.033
+1834-04,China,7.279
+1834-04,United States,8.405000000000001
+1834-05,China,13.542
+1834-05,United States,13.831
+1834-06,China,17.014
+1834-06,United States,18.164
+1834-07,China,19.733
+1834-07,United States,21.747
+1834-08,China,17.908
+1834-08,United States,20.436
+1834-09,China,13.841
+1834-09,United States,15.213
+1834-10,China,6.399
+1834-10,United States,8.843
+1834-11,China,0.373
+1834-11,United States,3.726
+1834-12,China,-6.089
+1834-12,United States,-1.858
+1835-01,China,-7.7799999999999985
+1835-01,United States,-2.3020000000000005
+1835-02,China,-4.743
+1835-02,United States,-4.543
+1835-03,China,-0.1869999999999998
+1835-03,United States,1.642
+1835-04,China,7.346
+1835-04,United States,7.097
+1835-05,China,12.049
+1835-05,United States,13.485
+1835-06,China,16.19
+1835-06,United States,18.038
+1835-07,China,18.317
+1835-07,United States,20.119
+1835-08,China,16.826999999999998
+1835-08,United States,18.959
+1835-09,China,11.886
+1835-09,United States,13.626
+1835-10,China,5.555
+1835-10,United States,7.752000000000001
+1835-11,China,-2.156
+1835-11,United States,0.5019999999999998
+1835-12,China,-8.093
+1835-12,United States,-3.904
+1836-01,China,-8.617999999999999
+1836-01,United States,-4.311
+1836-02,China,-6.027
+1836-02,United States,-2.73
+1836-03,China,1.3
+1836-03,United States,0.4989999999999999
+1836-04,China,6.9220000000000015
+1836-04,United States,7.309000000000001
+1836-05,United States,13.747
+1836-06,China,17.034000000000002
+1836-06,United States,17.762
+1836-07,China,19.273
+1836-07,United States,20.591
+1836-08,China,17.874000000000002
+1836-08,United States,18.956
+1836-09,China,12.888
+1836-09,United States,14.76
+1836-10,China,7.053999999999999
+1836-10,United States,7.0310000000000015
+1836-11,China,-2.3680000000000003
+1836-11,United States,0.977
+1836-12,China,-6.319999999999999
+1836-12,United States,-3.824
+1837-01,United States,-3.744
+1837-02,United States,-1.073
+1837-03,United States,0.696
+1837-04,United States,5.57
+1837-05,United States,12.293
+1837-06,United States,17.685
+1837-07,China,19.511
+1837-07,United States,21.028
+1837-08,China,18.208
+1837-08,United States,19.874
+1837-09,China,13.095
+1837-09,United States,14.744000000000002
+1837-10,China,6.185
+1837-10,United States,8.236
+1837-11,China,-1.972
+1837-11,United States,3.022
+1837-12,China,-6.206
+1837-12,United States,-2.518
+1838-01,China,-11.732
+1838-01,United States,-4.79
+1838-02,China,-6.760000000000002
+1838-02,United States,-5.803
+1838-03,China,-0.5939999999999999
+1838-03,United States,2.609
+1838-04,China,7.167999999999999
+1838-04,United States,7.002999999999999
+1838-05,China,12.151
+1838-05,United States,11.79
+1838-06,China,17.238
+1838-06,United States,18.865
+1838-07,China,20.321
+1838-07,United States,21.958
+1838-08,China,18.585
+1838-08,United States,20.545
+1838-09,China,13.085
+1838-09,United States,15.265999999999998
+1838-10,China,6.992999999999999
+1838-10,United States,7.551
+1838-11,China,-1.134
+1838-11,United States,-0.1389999999999998
+1838-12,China,-6.7410000000000005
+1838-12,United States,-4.271
+1839-01,China,-9.02
+1839-01,United States,-2.849
+1839-02,China,-5.002000000000002
+1839-02,United States,-0.5670000000000001
+1839-03,China,-1.7180000000000002
+1839-03,United States,1.227
+1839-04,China,7.152
+1839-04,Indonesia,25.365
+1839-04,United States,9.892
+1839-05,China,12.133
+1839-05,Indonesia,24.954
+1839-05,United States,13.35
+1839-06,China,16.983999999999998
+1839-06,Indonesia,25.013
+1839-06,United States,18.043
+1839-07,China,19.807
+1839-07,Indonesia,25.355
+1839-07,United States,21.384
+1839-08,China,18.542
+1839-08,Indonesia,25.216
+1839-08,United States,20.415
+1839-09,China,13.358
+1839-09,Indonesia,24.486
+1839-09,United States,14.565
+1839-10,China,5.759
+1839-10,Indonesia,24.821
+1839-10,United States,9.663
+1839-11,China,-2.505
+1839-11,Indonesia,24.127
+1839-11,United States,0.81
+1839-12,China,-9.261
+1839-12,Indonesia,23.73
+1839-12,United States,-3.667
+1840-01,China,-8.354
+1840-01,Indonesia,25.636
+1840-01,United States,-3.875
+1840-02,China,-5.882999999999999
+1840-02,Indonesia,24.700000000000006
+1840-02,United States,-1.15
+1840-03,China,-0.5009999999999999
+1840-03,Indonesia,24.353
+1840-03,United States,2.872
+1840-04,China,7.827999999999999
+1840-04,United States,8.145000000000001
+1840-05,China,13.377
+1840-05,United States,13.81
+1840-06,China,17.509999999999998
+1840-06,United States,18.805
+1840-07,China,20.408
+1840-07,United States,21.067
+1840-08,China,18.355
+1840-08,United States,19.613
+1840-09,China,13.24
+1840-09,United States,14.583
+1840-10,China,5.558999999999998
+1840-10,United States,7.772
+1840-11,China,-1.757
+1840-11,Indonesia,24.668000000000003
+1840-11,United States,0.7990000000000002
+1840-12,China,-7.558999999999998
+1840-12,United States,-3.423
+1841-01,China,-10.354
+1841-01,Indonesia,24.103
+1841-01,United States,-4.347
+1841-02,China,-5.737
+1841-02,Indonesia,25.059
+1841-02,United States,-2.389
+1841-03,China,-1.4380000000000002
+1841-03,United States,1.843
+1841-04,China,6.2650000000000015
+1841-04,United States,6.896000000000001
+1841-05,China,12.844
+1841-05,United States,13.302
+1841-06,China,16.733
+1841-06,United States,18.867
+1841-07,China,19.732
+1841-07,United States,21.652
+1841-08,China,18.165
+1841-08,United States,19.897
+1841-09,China,13.047
+1841-09,United States,14.695
+1841-10,China,6.600999999999999
+1841-10,United States,7.849
+1841-11,China,-1.528
+1841-11,United States,1.976
+1841-12,China,-8.181000000000001
+1841-12,United States,-2.45
+1842-01,China,-8.676
+1842-01,United States,-2.712
+1842-02,China,-5.176
+1842-02,United States,-1.6880000000000002
+1842-03,China,2.0420000000000003
+1842-03,United States,4.896000000000001
+1842-04,China,8.524000000000001
+1842-04,United States,8.972000000000003
+1842-05,China,12.774
+1842-05,United States,12.761
+1842-06,China,16.842
+1842-06,United States,17.535
+1842-07,China,18.57
+1842-07,United States,20.01
+1842-08,China,17.789
+1842-08,United States,19.157
+1842-09,China,13.338
+1842-09,United States,15.074000000000002
+1842-10,China,6.289
+1842-10,United States,8.606
+1842-11,China,-1.305
+1842-11,United States,0.2309999999999999
+1842-12,China,-5.669
+1842-12,United States,-2.542
+1843-01,China,-8.042
+1843-01,United States,-2.5900000000000003
+1843-02,China,-3.91
+1843-02,United States,-4.293
+1843-03,China,0.9720000000000002
+1843-03,United States,0.0790000000000001
+1843-04,China,8.101
+1843-04,United States,7.1190000000000015
+1843-05,China,12.334
+1843-05,United States,12.404000000000002
+1843-06,China,16.605
+1843-06,United States,17.669
+1843-07,China,19.379
+1843-07,United States,20.568
+1843-08,China,18.454
+1843-08,United States,19.48
+1843-09,China,13.55
+1843-09,United States,15.611
+1843-10,China,6.48
+1843-10,United States,7.056000000000001
+1843-11,China,-1.301
+1843-11,United States,1.628
+1843-12,China,-5.654999999999999
+1843-12,United States,-1.327
+1844-01,China,-8.011999999999999
+1844-01,United States,-4.2570000000000014
+1844-02,China,-5.7010000000000005
+1844-02,United States,-1.3090000000000002
+1844-03,China,1.6030000000000002
+1844-03,United States,1.879
+1844-04,China,6.928999999999999
+1844-04,United States,9.174
+1844-05,China,12.024
+1844-05,United States,13.044
+1844-06,China,16.802
+1844-06,United States,17.817
+1844-07,China,19.01
+1844-07,United States,21.08
+1844-08,China,18.212
+1844-08,United States,19.314
+1844-09,China,13.024
+1844-09,United States,14.376
+1844-10,China,7.039
+1844-10,United States,7.837999999999999
+1844-11,China,-0.481
+1844-11,United States,1.202
+1844-12,China,-7.830999999999999
+1844-12,United States,-3.164
+1845-01,China,-7.781000000000001
+1845-01,United States,-1.887
+1845-02,China,-6.311
+1845-02,United States,-1.259
+1845-03,China,0.989
+1845-03,United States,2.653
+1845-04,China,7.5870000000000015
+1845-04,United States,8.731
+1845-05,China,13.343
+1845-05,United States,13.1
+1845-06,China,17.814
+1845-06,United States,18.06
+1845-07,China,19.56600000000001
+1845-07,United States,21.317
+1845-08,China,17.965999999999998
+1845-08,United States,20.241
+1845-09,China,13.379
+1845-09,United States,15.442
+1845-10,China,6.178
+1845-10,United States,7.685
+1845-11,China,-1.237
+1845-11,United States,1.414
+1845-12,China,-9.217
+1845-12,United States,-4.59
+1846-01,China,-8.315999999999999
+1846-01,United States,-1.194
+1846-02,China,-4.1450000000000005
+1846-02,United States,-2.186
+1846-03,China,1.82
+1846-03,United States,4.004
+1846-04,China,6.635000000000002
+1846-04,United States,7.489000000000001
+1846-05,China,12.54
+1846-05,United States,14.364
+1846-06,China,17.91
+1846-06,United States,18.358
+1846-07,China,20.339
+1846-07,United States,21.826
+1846-08,China,18.885
+1846-08,United States,20.785
+1846-09,China,13.954
+1846-09,United States,16.308
+1846-10,China,6.212000000000001
+1846-10,United States,8.224
+1846-11,China,-1.173
+1846-11,United States,2.983
+1846-12,China,-5.611000000000001
+1846-12,United States,-1.325
+1847-01,China,-7.4769999999999985
+1847-01,United States,-5.013999999999999
+1847-02,China,-5.0120000000000005
+1847-02,United States,-1.49
+1847-03,China,0.3880000000000001
+1847-03,United States,0.214
+1847-04,China,7.95
+1847-04,United States,8.002
+1847-05,China,12.657
+1847-05,United States,12.332
+1847-06,China,16.72
+1847-06,United States,17.855999999999995
+1847-07,China,19.687
+1847-07,United States,20.932
+1847-08,China,17.967
+1847-08,United States,19.422
+1847-09,China,13.285
+1847-09,United States,15.095999999999998
+1847-10,China,6.553
+1847-10,United States,8.555
+1847-11,China,0.361
+1847-11,United States,2.1950000000000003
+1847-12,China,-7.994
+1847-12,United States,-3.215
+1848-01,China,-10.861999999999998
+1848-01,United States,-3.4910000000000005
+1848-02,China,-4.909000000000002
+1848-02,United States,-0.89
+1848-03,China,0.6740000000000002
+1848-03,United States,1.793
+1848-04,China,6.987
+1848-04,United States,7.301
+1848-05,China,12.685
+1848-05,United States,13.754
+1848-06,China,17.052
+1848-06,United States,18.118
+1848-07,China,19.714
+1848-07,United States,20.497
+1848-08,China,17.895
+1848-08,United States,19.463
+1848-09,China,13.154000000000002
+1848-09,United States,14.119000000000002
+1848-10,China,6.468999999999999
+1848-10,United States,8.721
+1848-11,China,-1.3190000000000002
+1848-11,United States,0.5310000000000001
+1848-12,China,-6.263
+1848-12,United States,-3.714
+1849-01,China,-7.779
+1849-01,United States,-4.8050000000000015
+1849-02,China,-5.032
+1849-02,United States,-3.42
+1849-03,China,1.694
+1849-03,United States,2.8110000000000004
+1849-04,China,6.7730000000000015
+1849-04,United States,7.061
+1849-05,China,12.113
+1849-05,United States,12.376
+1849-06,China,17.051
+1849-06,United States,18.877
+1849-07,China,19.082
+1849-07,United States,21.099
+1849-08,China,18.477
+1849-08,United States,20.072
+1849-09,China,13.438
+1849-09,United States,15.59
+1849-10,China,6.537000000000001
+1849-10,United States,8.195
+1849-11,China,-1.145
+1849-11,United States,3.702
+1849-12,China,-7.951
+1849-12,United States,-4.008
+1850-01,China,-9.667
+1850-01,Indonesia,24.324
+1850-01,United States,-3.5000000000000004
+1850-02,China,-5.662000000000001
+1850-02,Indonesia,25.772
+1850-02,United States,-1.866
+1850-03,China,1.352
+1850-03,Indonesia,25.508000000000003
+1850-03,United States,1.2029999999999998
+1850-04,China,6.279
+1850-04,Indonesia,24.966
+1850-04,United States,6.434000000000001
+1850-05,China,12.577
+1850-05,Indonesia,24.815
+1850-05,United States,12.444
+1850-06,China,16.993
+1850-06,Indonesia,25.238000000000003
+1850-06,United States,18.399
+1850-07,China,19.555
+1850-07,Indonesia,25.406
+1850-07,United States,21.577
+1850-08,China,18.341
+1850-08,Indonesia,25.24
+1850-08,United States,21.305
+1850-09,China,13.558
+1850-09,Indonesia,24.882
+1850-09,United States,16.205
+1850-10,China,6.557
+1850-10,Indonesia,24.705
+1850-10,United States,9.138
+1850-11,China,-1.895
+1850-11,Indonesia,24.71
+1850-11,United States,2.341
+1850-12,China,-7.101999999999999
+1850-12,Indonesia,24.893
+1850-12,United States,-4.699999999999998
+1851-01,China,-8.463
+1851-01,Indonesia,25.513
+1851-01,United States,-3.0860000000000003
+1851-02,China,-5.7010000000000005
+1851-02,Indonesia,25.356
+1851-02,United States,-1.3
+1851-03,China,-0.7230000000000001
+1851-03,Indonesia,24.802
+1851-03,United States,3.1010000000000004
+1851-04,China,5.575
+1851-04,Indonesia,24.874
+1851-04,United States,7.706
+1851-05,China,12.563
+1851-05,Indonesia,25.695
+1851-05,United States,14.004
+1851-06,China,17.627
+1851-06,Indonesia,25.493
+1851-06,United States,18.762
+1851-07,China,19.942
+1851-07,Indonesia,25.423
+1851-07,United States,21.42
+1851-08,China,18.39
+1851-08,Indonesia,25.164
+1851-08,United States,20.416
+1851-09,China,13.148
+1851-09,Indonesia,25.165
+1851-09,United States,16.586
+1851-10,China,6.403
+1851-10,Indonesia,25.388
+1851-10,United States,9.066
+1851-11,China,-2.224
+1851-11,Indonesia,24.695
+1851-11,United States,1.196
+1851-12,China,-7.143
+1851-12,Indonesia,25.406
+1851-12,United States,-3.981
+1852-01,China,-8.866999999999997
+1852-01,Indonesia,25.315
+1852-01,United States,-4.5600000000000005
+1852-02,China,-6.925000000000002
+1852-02,Indonesia,25.03700000000001
+1852-02,United States,-0.86
+1852-03,China,-1.233
+1852-03,Indonesia,24.544
+1852-03,United States,1.5099999999999998
+1852-04,China,6.6640000000000015
+1852-04,Indonesia,25.099
+1852-04,United States,6.4220000000000015
+1852-05,China,13.003
+1852-05,Indonesia,25.782
+1852-05,United States,14.034
+1852-06,China,17.581
+1852-06,Indonesia,25.444000000000003
+1852-06,United States,18.787
+1852-07,China,20.164
+1852-07,Indonesia,25.327
+1852-07,United States,21.327
+1852-08,China,17.961
+1852-08,Indonesia,24.774
+1852-08,United States,19.911
+1852-09,China,13.287
+1852-09,Indonesia,25.082
+1852-09,United States,14.864
+1852-10,China,7.2349999999999985
+1852-10,Indonesia,25.181
+1852-10,United States,9.341
+1852-11,China,-2.132
+1852-11,Indonesia,24.553
+1852-11,United States,0.5740000000000003
+1852-12,China,-6.448
+1852-12,Indonesia,25.409
+1852-12,United States,-3.153
+1853-01,China,-10.412
+1853-01,Indonesia,24.929
+1853-01,United States,-3.65
+1853-02,China,-7.018000000000002
+1853-02,Indonesia,24.506
+1853-02,United States,-2.9210000000000003
+1853-03,China,0.5700000000000001
+1853-03,Indonesia,24.937
+1853-03,United States,1.896
+1853-04,China,6.508000000000001
+1853-04,Indonesia,25.046
+1853-04,United States,8.517999999999999
+1853-05,China,12.977
+1853-05,Indonesia,25.603
+1853-05,United States,13.762
+1853-06,China,17.816
+1853-06,Indonesia,25.393
+1853-06,United States,19.101
+1853-07,China,20.668000000000003
+1853-07,Indonesia,25.435
+1853-07,United States,20.894
+1853-08,China,18.727
+1853-08,Indonesia,25.295
+1853-08,United States,19.869
+1853-09,China,14.271
+1853-09,United States,15.895
+1853-10,China,6.108
+1853-10,United States,8.011000000000001
+1853-11,China,-1.21
+1853-11,United States,2.7260000000000004
+1853-12,China,-7.034
+1853-12,Indonesia,25.469
+1853-12,United States,-2.582
+1854-01,China,-8.36
+1854-01,Indonesia,24.832
+1854-01,United States,-4.9860000000000015
+1854-02,China,-7.285
+1854-02,Indonesia,24.537
+1854-02,United States,-1.785
+1854-03,China,1.277
+1854-03,United States,3.089
+1854-04,China,7.468
+1854-04,Indonesia,25.268
+1854-04,United States,8.219000000000001
+1854-05,China,13.737
+1854-05,Indonesia,25.348000000000003
+1854-05,United States,13.403
+1854-06,China,17.213
+1854-06,Indonesia,25.163
+1854-06,United States,18.509
+1854-07,China,20.464
+1854-07,Indonesia,25.637
+1854-07,United States,22.205
+1854-08,China,18.893
+1854-08,Indonesia,25.221
+1854-08,United States,20.667
+1854-09,China,13.767
+1854-09,Indonesia,25.027
+1854-09,United States,16.235
+1854-10,China,7.606
+1854-10,Indonesia,25.771
+1854-10,United States,10.026
+1854-11,China,-0.5529999999999999
+1854-11,Indonesia,25.299
+1854-11,United States,2.748
+1854-12,China,-6.55
+1854-12,Indonesia,25.267000000000003
+1854-12,United States,-2.475
+1855-01,China,-8.636999999999999
+1855-01,Indonesia,25.872
+1855-01,United States,-3.133
+1855-02,China,-4.503
+1855-02,Indonesia,25.339
+1855-02,United States,-2.983
+1855-03,China,1.137
+1855-03,Indonesia,25.355
+1855-03,United States,1.827
+1855-04,China,9.113
+1855-04,Indonesia,26.177
+1855-04,United States,9.182
+1855-05,China,13.485
+1855-05,Indonesia,26.117
+1855-05,United States,14.383
+1855-06,China,17.564
+1855-06,Indonesia,25.467
+1855-06,United States,18.57
+1855-07,China,19.643
+1855-07,Indonesia,25.086
+1855-07,United States,21.358
+1855-08,China,18.485
+1855-08,Indonesia,25.184
+1855-08,United States,20.053
+1855-09,China,13.575
+1855-09,Indonesia,25.056
+1855-09,United States,16.241
+1855-10,China,6.504
+1855-10,Indonesia,24.527
+1855-10,United States,8.497
+1855-11,China,-1.259
+1855-11,Indonesia,24.972
+1855-11,United States,2.21
+1855-12,China,-6.92
+1855-12,Indonesia,24.077
+1855-12,United States,-4.692
+1856-01,China,-8.836
+1856-01,Indonesia,25.569000000000003
+1856-01,United States,-6.784000000000002
+1856-02,China,-7.404
+1856-02,Indonesia,24.832
+1856-02,United States,-3.514
+1856-03,China,0.8550000000000001
+1856-03,Indonesia,25.099
+1856-03,United States,1.005
+1856-04,China,7.6110000000000015
+1856-04,Indonesia,25.289
+1856-04,United States,8.661000000000001
+1856-05,China,12.691
+1856-05,Indonesia,25.307
+1856-05,United States,13.892
+1856-06,China,17.713
+1856-06,Indonesia,26.115
+1856-06,United States,19.978
+1856-07,China,19.882
+1856-07,Indonesia,25.229
+1856-07,United States,22.019
+1856-08,China,18.102
+1856-08,Indonesia,24.94
+1856-08,United States,19.801
+1856-09,China,13.106
+1856-09,Indonesia,24.656
+1856-09,United States,15.327
+1856-10,China,6.4270000000000005
+1856-10,Indonesia,24.644
+1856-10,United States,8.573
+1856-11,China,-0.809
+1856-11,Indonesia,25.012
+1856-11,United States,1.418
+1856-12,China,-6.191
+1856-12,Indonesia,24.933000000000003
+1856-12,United States,-5.057
+1857-01,China,-9.388
+1857-01,United States,-7.097
+1857-02,China,-5.527
+1857-02,United States,-0.3140000000000001
+1857-03,China,0.6500000000000001
+1857-03,United States,2.048
+1857-04,China,7.0070000000000014
+1857-04,United States,5.974
+1857-05,China,11.994000000000002
+1857-05,United States,13.08
+1857-06,China,16.758
+1857-06,United States,18.802
+1857-07,China,19.457
+1857-07,United States,21.27
+1857-08,China,17.924
+1857-08,United States,19.998
+1857-09,China,13.398
+1857-09,United States,15.482
+1857-10,China,6.6370000000000005
+1857-10,United States,8.168000000000001
+1857-11,China,-1.271
+1857-11,United States,1.411
+1857-12,China,-6.122999999999998
+1857-12,United States,-1.138
+1858-01,China,-7.7799999999999985
+1858-01,United States,-1.6700000000000004
+1858-02,China,-5.114000000000001
+1858-02,United States,-3.389
+1858-03,China,0.7110000000000001
+1858-03,United States,2.79
+1858-04,China,8.311
+1858-04,United States,7.782
+1858-05,China,12.869000000000002
+1858-05,United States,13.287
+1858-06,China,17.118
+1858-06,United States,18.995
+1858-07,China,19.355
+1858-07,United States,21.112
+1858-08,China,18.221
+1858-08,United States,19.787
+1858-09,China,13.661
+1858-09,United States,15.665
+1858-10,China,7.098999999999998
+1858-10,United States,8.946
+1858-11,China,0.121
+1858-11,United States,0.7330000000000001
+1858-12,China,-7.603
+1858-12,United States,-3.084
+1859-01,China,-8.218
+1859-01,United States,-4.056
+1859-02,China,-5.759
+1859-02,United States,-1.518
+1859-03,China,1.1980000000000002
+1859-03,United States,2.693
+1859-04,China,8.828
+1859-04,United States,6.471
+1859-05,China,13.896
+1859-05,United States,14.088
+1859-06,China,17.472
+1859-06,United States,18.836
+1859-07,China,19.473
+1859-07,United States,20.808000000000003
+1859-08,China,18.432
+1859-08,United States,19.616
+1859-09,China,13.275
+1859-09,United States,14.634
+1859-10,China,7.019
+1859-10,United States,7.811
+1859-11,China,-0.371
+1859-11,United States,2.337
+1859-12,China,-6.823
+1859-12,United States,-5.518
+1860-01,China,-9.758
+1860-01,United States,-3.784
+1860-02,China,-5.915
+1860-02,United States,-2.008
+1860-03,China,-1.899
+1860-03,United States,3.3120000000000003
+1860-04,China,7.167999999999999
+1860-04,United States,7.939
+1860-05,China,12.469
+1860-05,United States,13.918
+1860-06,China,17.229
+1860-06,United States,18.693
+1860-07,China,19.237
+1860-07,United States,21.548
+1860-08,China,18.647
+1860-08,United States,20.256
+1860-09,China,14.458
+1860-09,United States,15.433
+1860-10,China,6.335
+1860-10,United States,9.236
+1860-11,China,-2.123
+1860-11,United States,1.876
+1860-12,China,-8.536
+1860-12,United States,-3.448
+1861-01,China,-11.228
+1861-01,United States,-5.307
+1861-02,China,-7.32
+1861-02,United States,-1.211
+1861-03,China,0.381
+1861-03,United States,2.317
+1861-04,China,7.928999999999999
+1861-04,United States,8.307
+1861-05,China,12.404000000000002
+1861-05,United States,13.165
+1861-06,China,17.579
+1861-06,United States,19.429
+1861-07,China,19.694000000000003
+1861-07,United States,21.232
+1861-08,China,18.638
+1861-08,United States,19.954
+1861-09,China,13.232
+1861-09,United States,15.71
+1861-10,China,6.792000000000001
+1861-10,United States,8.788
+1861-11,China,-0.105
+1861-11,United States,2.684
+1861-12,China,-7.614
+1861-12,United States,-1.262
+1862-01,China,-11.247
+1862-01,United States,-4.437
+1862-02,China,-6.587000000000001
+1862-02,United States,-4.321000000000001
+1862-03,China,-0.2459999999999997
+1862-03,United States,1.3259999999999998
+1862-04,China,6.586
+1862-04,United States,6.7620000000000005
+1862-05,China,13.364
+1862-05,United States,13.759
+1862-06,China,17.365
+1862-06,United States,18.554
+1862-07,China,19.297
+1862-07,United States,21.368
+1862-08,China,18.367
+1862-08,United States,20.505
+1862-09,China,13.185
+1862-09,United States,15.929
+1862-10,China,6.696999999999999
+1862-10,United States,8.931000000000003
+1862-11,China,-2.424
+1862-11,United States,1.883
+1862-12,China,-8.98
+1862-12,United States,-1.6909999999999998
+1863-01,China,-7.265
+1863-01,United States,-2.595
+1863-02,China,-3.661000000000001
+1863-02,United States,-2.232
+1863-03,China,1.036
+1863-03,United States,2.419
+1863-04,China,7.564
+1863-04,United States,8.4
+1863-05,China,13.049
+1863-05,United States,14.146
+1863-06,China,17.566
+1863-06,United States,18.404
+1863-07,China,19.941
+1863-07,United States,21.136
+1863-08,China,18.234
+1863-08,United States,19.922
+1863-09,China,13.039
+1863-09,United States,15.775
+1863-10,China,6.169
+1863-10,United States,7.412999999999999
+1863-11,China,-1.3730000000000002
+1863-11,United States,1.683
+1863-12,China,-6.964
+1863-12,United States,-3.116
+1864-01,China,-8.793999999999999
+1864-01,United States,-4.711
+1864-02,China,-6.392
+1864-02,United States,-0.944
+1864-03,China,-0.1269999999999997
+1864-03,United States,1.3609999999999998
+1864-04,China,7.104
+1864-04,United States,7.272
+1864-05,China,12.652
+1864-05,United States,14.569
+1864-06,China,16.934
+1864-06,United States,19.062
+1864-07,China,19.699
+1864-07,United States,21.837
+1864-08,China,17.705
+1864-08,United States,20.748
+1864-09,China,13.1
+1864-09,United States,16.122
+1864-10,China,7.117999999999999
+1864-10,United States,7.545
+1864-11,China,-0.643
+1864-11,United States,1.575
+1864-12,China,-8.738
+1864-12,United States,-3.863
+1865-01,China,-7.802
+1865-01,United States,-4.758
+1865-02,China,-6.5680000000000005
+1865-02,United States,-2.03
+1865-03,China,-0.359
+1865-03,United States,1.3059999999999998
+1865-04,China,7.56
+1865-04,United States,7.276000000000002
+1865-05,China,13.52
+1865-05,United States,14.495
+1865-06,China,17.707
+1865-06,United States,19.625
+1865-07,China,19.83
+1865-07,United States,20.81
+1865-08,China,18.59
+1865-08,United States,20.363
+1865-09,China,14.169
+1865-09,United States,17.28
+1865-10,China,7.145
+1865-10,United States,8.857000000000001
+1865-11,China,-1.253
+1865-11,United States,3.4960000000000004
+1865-12,China,-7.611000000000001
+1865-12,United States,-4.772
+1866-01,China,-7.890999999999999
+1866-01,Indonesia,25.57
+1866-01,United States,-4.378
+1866-02,China,-5.785
+1866-02,Indonesia,24.786
+1866-02,United States,-2.927
+1866-03,China,-0.1649999999999998
+1866-03,Indonesia,25.313
+1866-03,United States,1.614
+1866-04,China,7.298999999999999
+1866-04,Indonesia,25.428
+1866-04,United States,8.654
+1866-05,China,12.911
+1866-05,Indonesia,25.547
+1866-05,United States,13.259
+1866-06,China,17.014
+1866-06,Indonesia,25.291
+1866-06,United States,18.236
+1866-07,China,20.193
+1866-07,Indonesia,25.352
+1866-07,United States,21.679
+1866-08,China,18.815
+1866-08,Indonesia,25.112
+1866-08,United States,19.507
+1866-09,China,13.284
+1866-09,Indonesia,25.263
+1866-09,United States,14.729
+1866-10,China,6.8020000000000005
+1866-10,Indonesia,24.759
+1866-10,United States,9.139
+1866-11,China,-0.299
+1866-11,Indonesia,25.402
+1866-11,United States,3.008
+1866-12,China,-5.252999999999999
+1866-12,Indonesia,25.314
+1866-12,United States,-2.508
+1867-01,China,-8.443999999999999
+1867-01,Indonesia,25.056
+1867-01,United States,-4.7940000000000005
+1867-02,China,-5.8980000000000015
+1867-02,Indonesia,24.994
+1867-02,United States,-1.556
+1867-03,China,1.2919999999999998
+1867-03,Indonesia,25.258000000000003
+1867-03,United States,-1.0100000000000002
+1867-04,China,8.445
+1867-04,Indonesia,25.481
+1867-04,United States,7.772
+1867-05,China,12.908
+1867-05,Indonesia,25.607
+1867-05,United States,12.576
+1867-06,China,17.372
+1867-06,Indonesia,25.384
+1867-06,United States,19.347
+1867-07,China,20.031
+1867-07,Indonesia,25.261
+1867-07,United States,21.011
+1867-08,China,18.281
+1867-08,Indonesia,25.012
+1867-08,United States,20.424
+1867-09,China,13.720999999999998
+1867-09,Indonesia,25.235
+1867-09,United States,16.492
+1867-10,China,7.351
+1867-10,Indonesia,25.301
+1867-10,United States,9.517
+1867-11,China,1.099
+1867-11,Indonesia,26.004
+1867-11,United States,3.54
+1867-12,China,-5.048
+1867-12,Indonesia,25.22
+1867-12,United States,-1.211
+1868-01,China,-8.197999999999999
+1868-01,Indonesia,24.806
+1868-01,United States,-6.279
+1868-02,China,-5.6800000000000015
+1868-02,Indonesia,24.776
+1868-02,United States,-2.536
+1868-03,China,0.01
+1868-03,Indonesia,25.178
+1868-03,United States,3.702
+1868-04,China,8.35
+1868-04,Indonesia,25.528
+1868-04,United States,7.401000000000002
+1868-05,China,13.109000000000002
+1868-05,Indonesia,25.808000000000003
+1868-05,United States,13.762
+1868-06,China,17.187
+1868-06,Indonesia,25.663
+1868-06,United States,18.911
+1868-07,China,20.124
+1868-07,Indonesia,25.396
+1868-07,United States,22.242
+1868-08,China,18.423
+1868-08,Indonesia,25.312
+1868-08,United States,19.646
+1868-09,China,13.857
+1868-09,Indonesia,25.299
+1868-09,United States,14.564
+1868-10,China,7.665999999999999
+1868-10,Indonesia,25.725
+1868-10,United States,8.801
+1868-11,China,-1.117
+1868-11,Indonesia,25.206
+1868-11,United States,1.7040000000000002
+1868-12,China,-6.744999999999999
+1868-12,Indonesia,25.25500000000001
+1868-12,United States,-3.429
+1869-01,China,-8.37
+1869-01,Indonesia,25.118
+1869-01,United States,-2.7310000000000003
+1869-02,China,-3.973
+1869-02,Indonesia,25.95
+1869-02,United States,-1.941
+1869-03,China,0.351
+1869-03,Indonesia,25.475
+1869-03,United States,1.265
+1869-04,China,7.372000000000001
+1869-04,Indonesia,25.395
+1869-04,United States,7.326
+1869-05,China,13.687
+1869-05,Indonesia,25.759
+1869-05,United States,13.682
+1869-06,China,17.291999999999998
+1869-06,Indonesia,25.509
+1869-06,United States,18.377
+1869-07,China,19.913
+1869-07,Indonesia,25.271
+1869-07,United States,21.268
+1869-08,China,18.552
+1869-08,Indonesia,25.162
+1869-08,United States,20.645
+1869-09,China,14.436
+1869-09,Indonesia,25.413
+1869-09,United States,15.604
+1869-10,China,7.542999999999998
+1869-10,Indonesia,25.282
+1869-10,United States,7.075
+1869-11,China,-0.901
+1869-11,Indonesia,25.212
+1869-11,United States,2.111
+1869-12,China,-8.312000000000001
+1869-12,Indonesia,24.516
+1869-12,United States,-2.946
+1870-01,China,-9.641
+1870-01,Indonesia,24.862
+1870-01,United States,-3.0850000000000004
+1870-02,China,-6.546
+1870-02,Indonesia,24.605
+1870-02,United States,-1.1760000000000002
+1870-03,China,0.5840000000000002
+1870-03,Indonesia,25.193
+1870-03,United States,0.74
+1870-04,China,7.965000000000002
+1870-04,Indonesia,25.358
+1870-04,United States,8.493
+1870-05,China,13.918
+1870-05,Indonesia,25.686
+1870-05,United States,14.711
+1870-06,China,17.634999999999994
+1870-06,Indonesia,25.509
+1870-06,United States,19.418
+1870-07,China,20.095
+1870-07,Indonesia,25.25
+1870-07,United States,22.188
+1870-08,China,18.414
+1870-08,Indonesia,24.675
+1870-08,United States,19.771
+1870-09,China,14.401
+1870-09,Indonesia,25.02
+1870-09,United States,16.215
+1870-10,China,7.148
+1870-10,Indonesia,24.984
+1870-10,United States,9.304
+1870-11,China,-1.579
+1870-11,Indonesia,25.071
+1870-11,United States,3.3200000000000003
+1870-12,China,-8.486
+1870-12,Indonesia,24.269
+1870-12,United States,-3.945
+1871-01,China,-9.293
+1871-01,Indonesia,24.464
+1871-01,United States,-3.1930000000000005
+1871-02,China,-5.987
+1871-02,Indonesia,24.606
+1871-02,United States,-1.4269999999999998
+1871-03,China,1.072
+1871-03,Indonesia,25.121
+1871-03,United States,2.889
+1871-04,China,7.984
+1871-04,Indonesia,25.606
+1871-04,United States,8.361
+1871-05,China,13.136
+1871-05,Indonesia,25.47
+1871-05,United States,14.448
+1871-06,China,17.713
+1871-06,Indonesia,25.159
+1871-06,United States,19.791
+1871-07,China,20.027
+1871-07,Indonesia,24.852
+1871-07,United States,21.367
+1871-08,China,18.952
+1871-08,Indonesia,25.146
+1871-08,United States,20.67
+1871-09,China,14.271
+1871-09,Indonesia,25.057
+1871-09,United States,15.505999999999998
+1871-10,China,7.6309999999999985
+1871-10,Indonesia,25.08
+1871-10,United States,9.436
+1871-11,China,-1.247
+1871-11,Indonesia,24.771
+1871-11,United States,0.444
+1871-12,China,-7.8
+1871-12,Indonesia,24.675
+1871-12,United States,-3.811
+1872-01,China,-10.036
+1872-01,Indonesia,24.457
+1872-01,United States,-4.727
+1872-02,China,-6.835000000000001
+1872-02,Indonesia,24.56900000000001
+1872-02,United States,-1.918
+1872-03,China,0.794
+1872-03,Indonesia,25.246
+1872-03,United States,1.03
+1872-04,China,7.372999999999999
+1872-04,Indonesia,25.611
+1872-04,United States,7.558000000000002
+1872-05,China,13.543
+1872-05,Indonesia,25.936
+1872-05,United States,14.253
+1872-06,China,17.517
+1872-06,Indonesia,25.486
+1872-06,United States,19.09
+1872-07,China,19.949
+1872-07,Indonesia,25.122
+1872-07,United States,21.065
+1872-08,China,18.516
+1872-08,Indonesia,25.126
+1872-08,United States,20.442
+1872-09,China,14.162
+1872-09,Indonesia,25.479
+1872-09,United States,15.574000000000002
+1872-10,China,7.071000000000001
+1872-10,Indonesia,25.489
+1872-10,United States,8.901
+1872-11,China,-0.615
+1872-11,Indonesia,25.106
+1872-11,United States,-0.3080000000000003
+1872-12,China,-6.002999999999999
+1872-12,Indonesia,24.632
+1872-12,United States,-4.9510000000000005
+1873-01,China,-9.928
+1873-01,Indonesia,25.085
+1873-01,United States,-5.1770000000000005
+1873-02,China,-4.767
+1873-02,Indonesia,25.272
+1873-02,United States,-2.979
+1873-03,China,0.4280000000000001
+1873-03,Indonesia,25.256
+1873-03,United States,2.016
+1873-04,China,8.079
+1873-04,Indonesia,25.135
+1873-04,United States,6.508000000000001
+1873-05,China,13.334
+1873-05,Indonesia,25.746
+1873-05,United States,13.091
+1873-06,China,17.625
+1873-06,Indonesia,25.683000000000003
+1873-06,United States,19.304
+1873-07,China,20.077
+1873-07,Indonesia,25.249
+1873-07,United States,21.429
+1873-08,China,18.263
+1873-08,Indonesia,25.239
+1873-08,United States,20.443
+1873-09,China,14.162
+1873-09,Indonesia,25.243
+1873-09,United States,15.390999999999998
+1873-10,China,7.340999999999998
+1873-10,Indonesia,25.356
+1873-10,United States,7.741
+1873-11,China,0.166
+1873-11,Indonesia,25.545
+1873-11,United States,2.115
+1873-12,China,-5.722
+1873-12,Indonesia,25.303
+1873-12,United States,-3.125
+1874-01,China,-9.145
+1874-01,Indonesia,25.286
+1874-01,United States,-3.2920000000000003
+1874-02,China,-5.0790000000000015
+1874-02,Indonesia,25.48
+1874-02,United States,-2.593
+1874-03,China,0.0970000000000002
+1874-03,Indonesia,25.302
+1874-03,United States,1.5499999999999998
+1874-04,China,8.787
+1874-04,Indonesia,25.616
+1874-04,United States,6.25
+1874-05,China,13.295
+1874-05,Indonesia,25.988000000000003
+1874-05,United States,15.054
+1874-06,China,18.275
+1874-06,Indonesia,25.398000000000003
+1874-06,United States,19.671
+1874-07,China,19.711
+1874-07,Indonesia,24.817
+1874-07,United States,22.079
+1874-08,China,18.838
+1874-08,Indonesia,25.027
+1874-08,United States,21.06
+1874-09,China,14.78
+1874-09,Indonesia,25.183000000000003
+1874-09,United States,15.986
+1874-10,China,7.473999999999998
+1874-10,Indonesia,25.271
+1874-10,United States,9.605
+1874-11,China,-0.5870000000000001
+1874-11,Indonesia,25.083
+1874-11,United States,1.937
+1874-12,China,-6.704
+1874-12,Indonesia,24.917
+1874-12,United States,-2.091
+1875-01,China,-9.015
+1875-01,Indonesia,24.452
+1875-01,United States,-7.57
+1875-02,China,-5.186000000000001
+1875-02,Indonesia,24.827
+1875-02,United States,-4.215999999999998
+1875-03,China,1.99
+1875-03,Indonesia,24.798
+1875-03,United States,0.466
+1875-04,China,7.669
+1875-04,Indonesia,25.091
+1875-04,United States,6.622000000000001
+1875-05,China,13.585
+1875-05,Indonesia,25.217
+1875-05,United States,14.171
+1875-06,China,18.167
+1875-06,Indonesia,25.224
+1875-06,United States,18.848
+1875-07,China,19.962
+1875-07,Indonesia,24.989
+1875-07,United States,21.284
+1875-08,China,18.688
+1875-08,Indonesia,24.934
+1875-08,United States,19.652
+1875-09,China,13.831
+1875-09,Indonesia,25.184
+1875-09,United States,15.357
+1875-10,China,6.766
+1875-10,Indonesia,25.047
+1875-10,United States,9.277
+1875-11,China,-1.415
+1875-11,Indonesia,24.647
+1875-11,United States,1.04
+1875-12,China,-6.981999999999998
+1875-12,Indonesia,24.467
+1875-12,United States,-0.7349999999999999
+1876-01,China,-9.259
+1876-01,Indonesia,24.72
+1876-01,United States,-2.7440000000000007
+1876-02,China,-5.356000000000001
+1876-02,Indonesia,24.999
+1876-02,United States,-1.631
+1876-03,China,0.4500000000000001
+1876-03,Indonesia,25.247
+1876-03,United States,0.0769999999999999
+1876-04,China,8.361
+1876-04,Indonesia,25.513
+1876-04,United States,7.835000000000001
+1876-05,China,13.31
+1876-05,Indonesia,25.39
+1876-05,United States,13.645
+1876-06,China,17.846
+1876-06,Indonesia,25.249
+1876-06,United States,18.837
+1876-07,China,19.923
+1876-07,Indonesia,25.1
+1876-07,United States,21.524
+1876-08,China,18.849
+1876-08,Indonesia,24.915
+1876-08,United States,20.152
+1876-09,China,13.651
+1876-09,Indonesia,25.126
+1876-09,United States,15.397
+1876-10,China,7.244
+1876-10,Indonesia,25.1
+1876-10,United States,8.513
+1876-11,China,-1.359
+1876-11,Indonesia,24.881
+1876-11,United States,1.137
+1876-12,China,-7.491
+1876-12,Indonesia,24.352
+1876-12,United States,-5.553999999999999
+1877-01,China,-9.153
+1877-01,Indonesia,24.92
+1877-01,United States,-4.87
+1877-02,China,-6.997000000000001
+1877-02,Indonesia,25.096
+1877-02,United States,-0.304
+1877-03,China,1.12
+1877-03,Indonesia,25.572
+1877-03,United States,2.376
+1877-04,China,7.468999999999999
+1877-04,Indonesia,25.486
+1877-04,United States,7.495000000000001
+1877-05,China,12.68
+1877-05,Indonesia,25.787
+1877-05,United States,13.429
+1877-06,China,17.904
+1877-06,Indonesia,25.343000000000004
+1877-06,United States,18.373
+1877-07,China,19.994
+1877-07,Indonesia,25.404
+1877-07,United States,21.461
+1877-08,China,18.854
+1877-08,Indonesia,25.346
+1877-08,United States,20.481
+1877-09,China,14.362
+1877-09,Indonesia,25.518
+1877-09,United States,15.97
+1877-10,China,6.678999999999999
+1877-10,Indonesia,25.772
+1877-10,United States,8.736
+1877-11,China,-0.575
+1877-11,Indonesia,26.289
+1877-11,United States,1.821
+1877-12,China,-8.158
+1877-12,Indonesia,25.264000000000006
+1877-12,United States,-0.609
+1878-01,China,-10.553
+1878-01,Indonesia,25.43
+1878-01,United States,-3.3840000000000003
+1878-02,China,-5.836
+1878-02,Indonesia,26.118
+1878-02,United States,-0.5549999999999999
+1878-03,China,2.204
+1878-03,Indonesia,26.811
+1878-03,United States,5.106999999999998
+1878-04,China,8.318
+1878-04,Indonesia,26.313
+1878-04,United States,9.132
+1878-05,China,12.759
+1878-05,Indonesia,25.853
+1878-05,United States,13.288
+1878-06,China,17.647000000000002
+1878-06,Indonesia,25.912
+1878-06,United States,18.674
+1878-07,China,20.269
+1878-07,Indonesia,25.696
+1878-07,United States,22.029
+1878-08,China,18.724
+1878-08,Indonesia,25.418000000000003
+1878-08,United States,21.152
+1878-09,China,14.572
+1878-09,Indonesia,25.831
+1878-09,United States,15.402
+1878-10,China,7.13
+1878-10,Indonesia,26.061
+1878-10,United States,8.618
+1878-11,China,-0.52
+1878-11,Indonesia,25.905
+1878-11,United States,3.23
+1878-12,China,-7.741
+1878-12,Indonesia,25.158
+1878-12,United States,-4.487
+1879-01,China,-8.815
+1879-01,Indonesia,25.1
+1879-01,United States,-4.7410000000000005
+1879-02,China,-5.0470000000000015
+1879-02,Indonesia,25.3
+1879-02,United States,-2.352
+1879-03,China,0.5930000000000001
+1879-03,Indonesia,25.16
+1879-03,United States,4.006
+1879-04,China,7.617000000000001
+1879-04,Indonesia,25.202
+1879-04,United States,8.311
+1879-05,China,13.431
+1879-05,Indonesia,25.252
+1879-05,United States,14.541
+1879-06,China,18.084
+1879-06,Indonesia,25.25
+1879-06,United States,18.569000000000003
+1879-07,China,19.905
+1879-07,Indonesia,25.14
+1879-07,United States,21.696
+1879-08,China,18.66
+1879-08,Indonesia,24.648000000000003
+1879-08,United States,19.854
+1879-09,China,14.482
+1879-09,Indonesia,25.054
+1879-09,United States,15.429
+1879-10,China,7.345
+1879-10,Indonesia,25.114
+1879-10,United States,10.308
+1879-11,China,-0.0819999999999999
+1879-11,Indonesia,25.203000000000003
+1879-11,United States,2.1790000000000003
+1879-12,China,-6.164
+1879-12,Indonesia,24.943
+1879-12,United States,-3.6010000000000004
+1880-01,China,-9.346
+1880-01,Indonesia,24.496
+1880-01,United States,-1.0400000000000005
+1880-02,China,-6.167000000000002
+1880-02,Indonesia,25.192
+1880-02,United States,-2.064
+1880-03,China,1.964
+1880-03,Indonesia,25.419
+1880-03,United States,1.101
+1880-04,China,7.782999999999999
+1880-04,Indonesia,25.06900000000001
+1880-04,United States,7.747999999999999
+1880-05,China,13.55
+1880-05,Indonesia,25.729
+1880-05,United States,14.862
+1880-06,China,17.505
+1880-06,Indonesia,25.041
+1880-06,United States,18.939
+1880-07,China,18.916
+1880-07,Indonesia,24.923
+1880-07,United States,20.85
+1880-08,China,18.745
+1880-08,Indonesia,25.382
+1880-08,United States,19.773
+1880-09,China,14.028
+1880-09,Indonesia,25.128
+1880-09,United States,15.112
+1880-10,China,7.294
+1880-10,Indonesia,25.324
+1880-10,United States,8.209
+1880-11,China,-0.296
+1880-11,Indonesia,25.418000000000003
+1880-11,United States,-1.399
+1880-12,China,-7.374
+1880-12,Indonesia,24.759
+1880-12,United States,-4.767
+1881-01,China,-8.158999999999999
+1881-01,Indonesia,25.14
+1881-01,United States,-6.51
+1881-02,China,-5.886
+1881-02,Indonesia,25.124
+1881-02,United States,-2.688
+1881-03,China,-0.0559999999999998
+1881-03,Indonesia,25.539
+1881-03,United States,1.906
+1881-04,China,8.009
+1881-04,Indonesia,25.454
+1881-04,United States,7.926
+1881-05,China,13.217
+1881-05,Indonesia,25.9
+1881-05,United States,15.011
+1881-06,China,17.064
+1881-06,Indonesia,25.252
+1881-06,United States,19.178
+1881-07,China,20.261
+1881-07,Indonesia,25.262
+1881-07,United States,21.669
+1881-08,China,18.616
+1881-08,Indonesia,25.213
+1881-08,United States,21.06
+1881-09,China,14.319
+1881-09,Indonesia,25.253
+1881-09,United States,16.254
+1881-10,China,7.353999999999999
+1881-10,Indonesia,25.552000000000003
+1881-10,United States,9.491
+1881-11,China,-0.622
+1881-11,Indonesia,25.419
+1881-11,United States,1.372
+1881-12,China,-7.882999999999999
+1881-12,Indonesia,25.506
+1881-12,United States,-0.9469999999999998
+1882-01,China,-7.175999999999998
+1882-01,Indonesia,25.917
+1882-01,United States,-3.498
+1882-02,China,-5.8180000000000005
+1882-02,Indonesia,25.745
+1882-02,United States,-1.097
+1882-03,China,1.0610000000000002
+1882-03,Indonesia,25.432
+1882-03,United States,2.623
+1882-04,China,8.388
+1882-04,Indonesia,25.564
+1882-04,United States,7.622000000000001
+1882-05,China,13.159
+1882-05,Indonesia,25.492
+1882-05,United States,12.545
+1882-06,China,17.641
+1882-06,Indonesia,24.987
+1882-06,United States,18.541
+1882-07,China,19.758
+1882-07,Indonesia,24.938
+1882-07,United States,20.368
+1882-08,China,18.358
+1882-08,Indonesia,24.967
+1882-08,United States,20.066
+1882-09,China,14.123
+1882-09,Indonesia,25.459
+1882-09,United States,15.52
+1882-10,China,7.051
+1882-10,Indonesia,25.195
+1882-10,United States,9.383
+1882-11,China,-1.48
+1882-11,Indonesia,25.076
+1882-11,United States,1.544
+1882-12,China,-8.286
+1882-12,Indonesia,24.889000000000006
+1882-12,United States,-3.178
+1883-01,China,-9.172
+1883-01,Indonesia,25.249
+1883-01,United States,-6.158
+1883-02,China,-7.149000000000001
+1883-02,Indonesia,24.873
+1883-02,United States,-3.898
+1883-03,China,0.523
+1883-03,Indonesia,25.903
+1883-03,United States,2.093
+1883-04,China,7.1110000000000015
+1883-04,Indonesia,25.453000000000003
+1883-04,United States,7.540000000000001
+1883-05,China,12.677
+1883-05,Indonesia,25.432
+1883-05,United States,12.981
+1883-06,China,18.091
+1883-06,Indonesia,25.692
+1883-06,United States,19.05
+1883-07,China,19.658
+1883-07,Indonesia,25.411
+1883-07,United States,20.922
+1883-08,China,18.454
+1883-08,Indonesia,25.239
+1883-08,United States,19.683
+1883-09,China,13.165
+1883-09,Indonesia,25.294
+1883-09,United States,15.497
+1883-10,China,7.540999999999999
+1883-10,Indonesia,25.239
+1883-10,United States,8.266
+1883-11,China,-1.904
+1883-11,Indonesia,25.125
+1883-11,United States,1.734
+1883-12,China,-6.672000000000001
+1883-12,Indonesia,24.752
+1883-12,United States,-2.403
+1884-01,China,-7.870999999999999
+1884-01,Indonesia,24.577
+1884-01,United States,-5.94
+1884-02,China,-6.472
+1884-02,Indonesia,24.89
+1884-02,United States,-3.4760000000000004
+1884-03,China,-0.3509999999999997
+1884-03,Indonesia,24.856
+1884-03,United States,1.916
+1884-04,China,7.057
+1884-04,Indonesia,25.092
+1884-04,United States,7.229000000000001
+1884-05,China,12.702
+1884-05,Indonesia,25.144
+1884-05,United States,13.78
+1884-06,China,17.049
+1884-06,Indonesia,25.067
+1884-06,United States,18.677
+1884-07,China,19.502
+1884-07,Indonesia,24.595
+1884-07,United States,20.645
+1884-08,China,17.632
+1884-08,Indonesia,24.725
+1884-08,United States,19.639
+1884-09,China,14.342
+1884-09,Indonesia,24.928
+1884-09,United States,15.802
+1884-10,China,6.329
+1884-10,Indonesia,25.172
+1884-10,United States,9.469
+1884-11,China,-2.227
+1884-11,Indonesia,25.199
+1884-11,United States,2.307
+1884-12,China,-8.033999999999999
+1884-12,Indonesia,24.918000000000006
+1884-12,United States,-4.552
+1885-01,China,-9.413
+1885-01,Indonesia,24.962
+1885-01,United States,-6.103
+1885-02,China,-8.138
+1885-02,Indonesia,25.040000000000006
+1885-02,United States,-4.119
+1885-03,China,0.5329999999999999
+1885-03,Indonesia,25.441
+1885-03,United States,1.775
+1885-04,China,6.997000000000001
+1885-04,Indonesia,25.511000000000006
+1885-04,United States,8.417
+1885-05,China,12.887
+1885-05,Indonesia,25.5
+1885-05,United States,13.598
+1885-06,China,17.518
+1885-06,Indonesia,25.095
+1885-06,United States,18.295
+1885-07,China,19.147
+1885-07,Indonesia,24.933000000000003
+1885-07,United States,21.241
+1885-08,China,18.688
+1885-08,Indonesia,25.093000000000004
+1885-08,United States,19.644
+1885-09,China,13.526
+1885-09,Indonesia,25.12
+1885-09,United States,15.656
+1885-10,China,7.215
+1885-10,Indonesia,25.517000000000003
+1885-10,United States,8.602
+1885-11,China,-1.4380000000000002
+1885-11,Indonesia,25.233
+1885-11,United States,2.767
+1885-12,China,-5.948
+1885-12,Indonesia,25.13000000000001
+1885-12,United States,-1.872
+1886-01,China,-8.854999999999997
+1886-01,Indonesia,24.867
+1886-01,United States,-7.581
+1886-02,China,-7.8980000000000015
+1886-02,Indonesia,24.788
+1886-02,United States,-2.065
+1886-03,China,0.7120000000000001
+1886-03,Indonesia,25.227
+1886-03,United States,1.17
+1886-04,China,7.722
+1886-04,Indonesia,25.343000000000004
+1886-04,United States,8.099
+1886-05,China,13.197
+1886-05,Indonesia,25.582
+1886-05,United States,14.96
+1886-06,China,17.469
+1886-06,Indonesia,25.292
+1886-06,United States,18.672
+1886-07,China,19.539
+1886-07,Indonesia,25.275
+1886-07,United States,21.862
+1886-08,China,18.506
+1886-08,Indonesia,25.14
+1886-08,United States,20.64
+1886-09,China,13.815
+1886-09,Indonesia,25.419
+1886-09,United States,15.755
+1886-10,China,7.138999999999999
+1886-10,Indonesia,25.574
+1886-10,United States,9.223
+1886-11,China,-1.423
+1886-11,Indonesia,25.146
+1886-11,United States,0.8280000000000001
+1886-12,China,-6.545999999999999
+1886-12,Indonesia,24.986
+1886-12,United States,-3.381
+1887-01,China,-11.114999999999998
+1887-01,Indonesia,24.415
+1887-01,United States,-5.627000000000002
+1887-02,China,-6.297999999999999
+1887-02,Indonesia,24.679
+1887-02,United States,-3.27
+1887-03,China,0.3920000000000001
+1887-03,Indonesia,24.87
+1887-03,United States,2.608
+1887-04,China,8.191
+1887-04,Indonesia,24.741
+1887-04,United States,7.865
+1887-05,China,13.09
+1887-05,Indonesia,25.193
+1887-05,United States,14.755
+1887-06,China,16.409000000000002
+1887-06,Indonesia,24.586
+1887-06,United States,18.888
+1887-07,China,20.295
+1887-07,Indonesia,24.768
+1887-07,United States,21.419
+1887-08,China,18.282
+1887-08,Indonesia,24.587
+1887-08,United States,19.511
+1887-09,China,13.972
+1887-09,Indonesia,24.957
+1887-09,United States,15.661
+1887-10,China,7.592
+1887-10,Indonesia,25.117
+1887-10,United States,8.152999999999999
+1887-11,China,0.258
+1887-11,Indonesia,24.968000000000004
+1887-11,United States,2.029
+1887-12,China,-6.702000000000001
+1887-12,Indonesia,24.703000000000007
+1887-12,United States,-4.269
+1888-01,China,-8.571
+1888-01,Indonesia,24.241
+1888-01,United States,-7.093
+1888-02,China,-7.348000000000001
+1888-02,Indonesia,24.872
+1888-02,United States,-1.344
+1888-03,China,1.4409999999999998
+1888-03,Indonesia,25.373
+1888-03,United States,0.2989999999999999
+1888-04,China,7.247999999999999
+1888-04,Indonesia,25.491
+1888-04,United States,8.676
+1888-05,China,13.065
+1888-05,Indonesia,25.784
+1888-05,United States,12.962
+1888-06,China,17.044
+1888-06,Indonesia,25.525
+1888-06,United States,18.356
+1888-07,China,19.909
+1888-07,Indonesia,25.205
+1888-07,United States,21.189
+1888-08,China,18.973
+1888-08,Indonesia,25.281
+1888-08,United States,19.89
+1888-09,China,13.779000000000002
+1888-09,Indonesia,25.306
+1888-09,United States,15.946
+1888-10,China,7.002000000000001
+1888-10,Indonesia,25.85
+1888-10,United States,8.729000000000001
+1888-11,China,-0.504
+1888-11,Indonesia,25.659
+1888-11,United States,1.912
+1888-12,China,-6.001
+1888-12,Indonesia,25.289
+1888-12,United States,-1.4480000000000002
+1889-01,China,-10.173
+1889-01,Indonesia,25.624
+1889-01,United States,-3.82
+1889-02,China,-5.747999999999999
+1889-02,Indonesia,25.864
+1889-02,United States,-3.2460000000000004
+1889-03,China,1.5530000000000002
+1889-03,Indonesia,26.01
+1889-03,United States,3.852
+1889-04,China,7.875
+1889-04,Indonesia,26.398000000000003
+1889-04,United States,9.301
+1889-05,China,12.847
+1889-05,Indonesia,26.347
+1889-05,United States,13.795
+1889-06,China,18.161
+1889-06,Indonesia,25.98
+1889-06,United States,18.335
+1889-07,China,19.905
+1889-07,Indonesia,25.0
+1889-07,United States,21.122
+1889-08,China,18.73
+1889-08,Indonesia,25.322
+1889-08,United States,20.037
+1889-09,China,13.237
+1889-09,Indonesia,25.323
+1889-09,United States,14.91
+1889-10,China,6.9
+1889-10,Indonesia,25.47600000000001
+1889-10,United States,8.95
+1889-11,China,-0.772
+1889-11,Indonesia,25.14
+1889-11,United States,1.5619999999999998
+1889-12,China,-6.774
+1889-12,Indonesia,24.979000000000006
+1889-12,United States,0.7789999999999999
+1890-01,China,-8.421999999999999
+1890-01,Indonesia,25.241
+1890-01,United States,-4.113
+1890-02,China,-4.538
+1890-02,Indonesia,25.071
+1890-02,United States,-1.66
+1890-03,China,-0.7030000000000001
+1890-03,Indonesia,25.257
+1890-03,United States,1.269
+1890-04,China,7.512
+1890-04,Indonesia,25.241
+1890-04,United States,8.042
+1890-05,China,13.853
+1890-05,Indonesia,25.245
+1890-05,United States,13.593
+1890-06,China,17.194000000000003
+1890-06,Indonesia,25.07
+1890-06,United States,18.823
+1890-07,China,19.638
+1890-07,Indonesia,24.766
+1890-07,United States,21.513
+1890-08,China,18.225
+1890-08,Indonesia,24.646
+1890-08,United States,19.4
+1890-09,China,13.164
+1890-09,Indonesia,24.984
+1890-09,United States,15.342
+1890-10,China,7.183
+1890-10,Indonesia,25.048
+1890-10,United States,8.636000000000001
+1890-11,China,0.283
+1890-11,Indonesia,24.94
+1890-11,United States,3.319
+1890-12,China,-5.817
+1890-12,Indonesia,24.888
+1890-12,United States,-1.454
+1891-01,China,-8.309
+1891-01,Indonesia,24.845
+1891-01,United States,-2.881
+1891-02,China,-6.0390000000000015
+1891-02,Indonesia,24.899
+1891-02,United States,-2.78
+1891-03,China,0.27
+1891-03,Indonesia,25.277
+1891-03,United States,0.29
+1891-04,China,6.766
+1891-04,Indonesia,25.292
+1891-04,United States,8.32
+1891-05,China,13.438
+1891-05,Indonesia,25.707
+1891-05,United States,13.192
+1891-06,China,16.761
+1891-06,Indonesia,25.363000000000003
+1891-06,United States,18.06
+1891-07,China,19.545
+1891-07,Indonesia,24.803
+1891-07,United States,20.225
+1891-08,China,18.861
+1891-08,Indonesia,24.591
+1891-08,United States,19.923
+1891-09,China,14.453
+1891-09,Indonesia,25.267
+1891-09,United States,16.369
+1891-10,China,7.665
+1891-10,Indonesia,25.49
+1891-10,United States,8.834
+1891-11,China,-0.851
+1891-11,Indonesia,25.371
+1891-11,United States,1.817
+1891-12,China,-6.247999999999998
+1891-12,Indonesia,25.290000000000006
+1891-12,United States,-1.5679999999999998
+1892-01,China,-8.484
+1892-01,Indonesia,25.044
+1892-01,United States,-5.101
+1892-02,China,-5.9620000000000015
+1892-02,Indonesia,25.288
+1892-02,United States,-1.033
+1892-03,China,-1.473
+1892-03,Indonesia,25.265
+1892-03,United States,1.474
+1892-04,China,7.936
+1892-04,Indonesia,25.086
+1892-04,United States,7.081
+1892-05,China,13.065
+1892-05,Indonesia,25.233
+1892-05,United States,12.593
+1892-06,China,18.099
+1892-06,Indonesia,25.687
+1892-06,United States,18.433
+1892-07,China,19.532
+1892-07,Indonesia,25.258000000000003
+1892-07,United States,20.737
+1892-08,China,18.255
+1892-08,Indonesia,24.802
+1892-08,United States,20.024
+1892-09,China,13.861
+1892-09,Indonesia,25.439
+1892-09,United States,16.179000000000002
+1892-10,China,7.019
+1892-10,Indonesia,25.528
+1892-10,United States,9.484
+1892-11,China,-1.824
+1892-11,Indonesia,24.912
+1892-11,United States,1.4269999999999998
+1892-12,China,-7.294
+1892-12,Indonesia,25.135
+1892-12,United States,-3.162
+1893-01,China,-10.827
+1893-01,Indonesia,24.273000000000003
+1893-01,United States,-5.757000000000001
+1893-02,China,-8.009
+1893-02,Indonesia,24.664
+1893-02,United States,-2.849
+1893-03,China,1.023
+1893-03,Indonesia,25.25
+1893-03,United States,1.412
+1893-04,China,8.472000000000001
+1893-04,Indonesia,25.44400000000001
+1893-04,United States,7.742000000000001
+1893-05,China,12.929
+1893-05,Indonesia,25.467
+1893-05,United States,13.375
+1893-06,China,17.791
+1893-06,Indonesia,25.06
+1893-06,United States,18.767
+1893-07,China,19.555
+1893-07,Indonesia,25.058000000000003
+1893-07,United States,21.334
+1893-08,China,18.694000000000003
+1893-08,Indonesia,24.778
+1893-08,United States,19.772
+1893-09,China,14.106
+1893-09,Indonesia,25.266
+1893-09,United States,15.69
+1893-10,China,7.073
+1893-10,Indonesia,25.175
+1893-10,United States,8.731
+1893-11,China,-0.64
+1893-11,Indonesia,25.428
+1893-11,United States,1.445
+1893-12,China,-6.867000000000001
+1893-12,Indonesia,24.956000000000003
+1893-12,United States,-1.61
+1894-01,China,-8.959
+1894-01,Indonesia,24.479
+1894-01,United States,-4.3530000000000015
+1894-02,China,-4.674
+1894-02,Indonesia,25.087
+1894-02,United States,-4.817
+1894-03,China,1.0810000000000002
+1894-03,Indonesia,25.244
+1894-03,United States,3.062
+1894-04,China,8.202
+1894-04,Indonesia,25.278
+1894-04,United States,8.001000000000001
+1894-05,China,13.228
+1894-05,Indonesia,25.148000000000003
+1894-05,United States,13.822
+1894-06,China,17.973
+1894-06,Indonesia,24.865
+1894-06,United States,18.301
+1894-07,China,20.06
+1894-07,Indonesia,24.76
+1894-07,United States,21.031
+1894-08,China,18.361
+1894-08,Indonesia,24.959
+1894-08,United States,20.264
+1894-09,China,14.298
+1894-09,Indonesia,25.216
+1894-09,United States,15.808
+1894-10,China,7.407999999999999
+1894-10,Indonesia,25.447000000000006
+1894-10,United States,9.29
+1894-11,China,-0.212
+1894-11,Indonesia,25.002
+1894-11,United States,2.64
+1894-12,China,-7.827000000000001
+1894-12,Indonesia,25.056
+1894-12,United States,-1.4480000000000002
+1895-01,China,-10.142
+1895-01,Indonesia,25.012
+1895-01,United States,-5.412999999999999
+1895-02,China,-6.547999999999999
+1895-02,Indonesia,24.851
+1895-02,United States,-5.196000000000001
+1895-03,China,-0.0949999999999999
+1895-03,Indonesia,25.166
+1895-03,United States,1.745
+1895-04,China,8.812999999999999
+1895-04,Indonesia,25.387
+1895-04,United States,8.433
+1895-05,China,13.067
+1895-05,Indonesia,25.606
+1895-05,United States,13.669
+1895-06,China,17.464000000000002
+1895-06,Indonesia,25.407
+1895-06,United States,18.158
+1895-07,China,19.119
+1895-07,Indonesia,24.946
+1895-07,United States,20.119
+1895-08,China,18.165
+1895-08,Indonesia,24.768
+1895-08,United States,19.95
+1895-09,China,13.992
+1895-09,Indonesia,25.468000000000004
+1895-09,United States,16.125
+1895-10,China,6.606999999999998
+1895-10,Indonesia,25.458
+1895-10,United States,8.107999999999999
+1895-11,China,-0.721
+1895-11,Indonesia,25.31
+1895-11,United States,1.6880000000000002
+1895-12,China,-7.290999999999999
+1895-12,Indonesia,25.137
+1895-12,United States,-3.218
+1896-01,China,-7.814999999999999
+1896-01,Indonesia,24.683000000000003
+1896-01,United States,-3.884
+1896-02,China,-6.232
+1896-02,Indonesia,25.122
+1896-02,United States,-2.2880000000000003
+1896-03,China,-0.343
+1896-03,Indonesia,25.317
+1896-03,United States,0.971
+1896-04,China,7.53
+1896-04,Indonesia,25.337
+1896-04,United States,8.177
+1896-05,China,13.074000000000002
+1896-05,Indonesia,25.611
+1896-05,United States,14.405
+1896-06,China,18.297
+1896-06,Indonesia,25.168000000000003
+1896-06,United States,19.081
+1896-07,China,20.023
+1896-07,Indonesia,24.875
+1896-07,United States,21.129
+1896-08,China,18.685
+1896-08,Indonesia,25.159
+1896-08,United States,20.261
+1896-09,China,13.86
+1896-09,Indonesia,25.338
+1896-09,United States,15.377
+1896-10,China,6.778
+1896-10,Indonesia,25.290000000000006
+1896-10,United States,8.75
+1896-11,China,0.016
+1896-11,Indonesia,25.721
+1896-11,United States,1.287
+1896-12,China,-7.237999999999999
+1896-12,Indonesia,25.399
+1896-12,United States,-1.463
+1897-01,China,-8.795
+1897-01,Indonesia,25.493
+1897-01,United States,-4.413
+1897-02,China,-6.937
+1897-02,Indonesia,25.937
+1897-02,United States,-1.787
+1897-03,China,-0.4930000000000001
+1897-03,Indonesia,25.841
+1897-03,United States,0.6639999999999999
+1897-04,China,7.646000000000001
+1897-04,Indonesia,25.754
+1897-04,United States,7.790000000000001
+1897-05,China,12.542
+1897-05,Indonesia,25.84
+1897-05,United States,14.078
+1897-06,China,17.738
+1897-06,Indonesia,26.071
+1897-06,United States,18.58
+1897-07,China,19.861
+1897-07,Indonesia,25.563
+1897-07,United States,20.935
+1897-08,China,18.946
+1897-08,Indonesia,25.615
+1897-08,United States,19.989
+1897-09,China,14.27
+1897-09,Indonesia,25.445
+1897-09,United States,16.422
+1897-10,China,8.172
+1897-10,Indonesia,25.606
+1897-10,United States,9.505
+1897-11,China,-0.322
+1897-11,Indonesia,25.592
+1897-11,United States,2.6260000000000003
+1897-12,China,-7.891
+1897-12,Indonesia,25.376
+1897-12,United States,-2.7110000000000003
+1898-01,China,-7.523
+1898-01,Indonesia,25.273000000000003
+1898-01,United States,-3.4800000000000004
+1898-02,China,-5.371
+1898-02,Indonesia,25.341
+1898-02,United States,-1.571
+1898-03,China,-1.1469999999999996
+1898-03,Indonesia,25.072
+1898-03,United States,3.1060000000000003
+1898-04,China,7.874
+1898-04,Indonesia,25.432
+1898-04,United States,8.038
+1898-05,China,13.523
+1898-05,Indonesia,25.593000000000004
+1898-05,United States,13.262
+1898-06,China,18.073
+1898-06,Indonesia,25.637
+1898-06,United States,18.922
+1898-07,China,19.838
+1898-07,Indonesia,24.961
+1898-07,United States,21.192
+1898-08,China,18.817
+1898-08,Indonesia,25.273000000000003
+1898-08,United States,20.678
+1898-09,China,13.783
+1898-09,Indonesia,25.249
+1898-09,United States,16.250999999999998
+1898-10,China,7.797999999999999
+1898-10,Indonesia,25.418000000000006
+1898-10,United States,8.219000000000001
+1898-11,China,-0.236
+1898-11,Indonesia,25.282
+1898-11,United States,0.7730000000000001
+1898-12,China,-6.6770000000000005
+1898-12,Indonesia,25.103
+1898-12,United States,-4.255
+1899-01,China,-8.677999999999999
+1899-01,Indonesia,25.165
+1899-01,United States,-4.17
+1899-02,China,-4.816000000000002
+1899-02,Indonesia,25.033
+1899-02,United States,-6.011
+1899-03,China,1.5
+1899-03,Indonesia,24.784
+1899-03,United States,0.7459999999999998
+1899-04,China,7.5550000000000015
+1899-04,Indonesia,25.16
+1899-04,United States,7.7360000000000015
+1899-05,China,13.875
+1899-05,Indonesia,25.687
+1899-05,United States,13.464
+1899-06,China,17.705
+1899-06,Indonesia,24.9
+1899-06,United States,18.397
+1899-07,China,19.912
+1899-07,Indonesia,25.102
+1899-07,United States,21.057
+1899-08,China,18.583
+1899-08,Indonesia,25.084
+1899-08,United States,20.204
+1899-09,China,14.212
+1899-09,Indonesia,25.192
+1899-09,United States,15.951
+1899-10,China,7.02
+1899-10,Indonesia,25.508000000000006
+1899-10,United States,9.434
+1899-11,China,-0.675
+1899-11,Indonesia,25.443
+1899-11,United States,4.258
+1899-12,China,-6.952000000000001
+1899-12,Indonesia,24.905
+1899-12,United States,-3.064
+1900-01,China,-10.736
+1900-01,Indonesia,25.404
+1900-01,United States,-2.5730000000000004
+1900-02,China,-6.315
+1900-02,Indonesia,25.373
+1900-02,United States,-2.912
+1900-03,China,0.7540000000000001
+1900-03,Indonesia,25.842
+1900-03,United States,2.636
+1900-04,China,7.569000000000001
+1900-04,Indonesia,26.225
+1900-04,United States,8.091000000000001
+1900-05,China,13.47
+1900-05,Indonesia,26.369
+1900-05,United States,14.317
+1900-06,China,17.329
+1900-06,Indonesia,25.776
+1900-06,United States,19.28
+1900-07,China,20.148
+1900-07,Indonesia,25.329
+1900-07,United States,21.134
+1900-08,China,19.413
+1900-08,Indonesia,25.613000000000003
+1900-08,United States,20.62
+1900-09,China,14.807
+1900-09,Indonesia,26.056
+1900-09,United States,16.242
+1900-10,China,7.612999999999999
+1900-10,Indonesia,25.781
+1900-10,United States,10.536
+1900-11,China,0.102
+1900-11,Indonesia,25.513
+1900-11,United States,2.414
+1900-12,China,-6.824
+1900-12,Indonesia,25.534
+1900-12,United States,-1.5259999999999998
+1901-01,China,-8.24
+1901-01,Indonesia,25.483
+1901-01,United States,-3.4320000000000004
+1901-02,China,-7.192
+1901-02,Indonesia,25.329
+1901-02,United States,-3.827
+1901-03,China,1.5950000000000002
+1901-03,Indonesia,25.599
+1901-03,United States,2.085
+1901-04,China,8.439
+1901-04,Indonesia,25.983
+1901-04,United States,6.877000000000002
+1901-05,China,13.284
+1901-05,Indonesia,25.893
+1901-05,United States,13.623
+1901-06,China,17.654
+1901-06,Indonesia,25.888
+1901-06,United States,18.365
+1901-07,China,19.559
+1901-07,Indonesia,25.048
+1901-07,United States,22.418000000000003
+1901-08,China,18.968
+1901-08,Indonesia,24.746
+1901-08,United States,20.647
+1901-09,China,14.865
+1901-09,Indonesia,25.245
+1901-09,United States,15.375
+1901-10,China,7.026
+1901-10,Indonesia,25.571
+1901-10,United States,10.224
+1901-11,China,0.1119999999999999
+1901-11,Indonesia,25.105
+1901-11,United States,2.507
+1901-12,China,-7.619999999999999
+1901-12,Indonesia,24.81900000000001
+1901-12,United States,-2.923
+1902-01,China,-7.2719999999999985
+1902-01,Indonesia,24.977
+1902-01,United States,-3.927000000000001
+1902-02,China,-4.9910000000000005
+1902-02,Indonesia,25.085
+1902-02,United States,-2.343
+1902-03,China,2.281
+1902-03,Indonesia,25.191
+1902-03,United States,1.898
+1902-04,China,7.247999999999999
+1902-04,Indonesia,25.48
+1902-04,United States,7.758999999999999
+1902-05,China,12.630999999999998
+1902-05,Indonesia,25.661
+1902-05,United States,14.56
+1902-06,China,17.503
+1902-06,Indonesia,25.541
+1902-06,United States,18.638
+1902-07,China,19.511
+1902-07,Indonesia,25.225
+1902-07,United States,20.688
+1902-08,China,18.0
+1902-08,Indonesia,25.07
+1902-08,United States,19.962
+1902-09,China,14.386
+1902-09,Indonesia,24.942
+1902-09,United States,15.182
+1902-10,China,7.806
+1902-10,Indonesia,25.068
+1902-10,United States,9.996
+1902-11,China,0.255
+1902-11,Indonesia,25.086
+1902-11,United States,3.142
+1902-12,China,-6.422000000000001
+1902-12,Indonesia,25.139000000000006
+1902-12,United States,-4.106999999999998
+1903-01,China,-8.668999999999999
+1903-01,Indonesia,25.665
+1903-01,United States,-4.2730000000000015
+1903-02,China,-5.785
+1903-02,Indonesia,25.465
+1903-02,United States,-4.017
+1903-03,China,0.5290000000000001
+1903-03,Indonesia,25.436
+1903-03,United States,3.036
+1903-04,China,7.499
+1903-04,Indonesia,25.589
+1903-04,United States,7.183000000000002
+1903-05,China,13.11
+1903-05,Indonesia,25.792
+1903-05,United States,13.166
+1903-06,China,16.948999999999998
+1903-06,Indonesia,25.435
+1903-06,United States,17.403
+1903-07,China,19.662
+1903-07,Indonesia,25.323
+1903-07,United States,20.549
+1903-08,China,18.362
+1903-08,Indonesia,25.368
+1903-08,United States,19.818
+1903-09,China,14.092
+1903-09,Indonesia,25.468000000000004
+1903-09,United States,15.046
+1903-10,China,6.783
+1903-10,Indonesia,25.362
+1903-10,United States,9.023
+1903-11,China,-1.4169999999999998
+1903-11,Indonesia,25.332
+1903-11,United States,1.69
+1903-12,China,-7.02
+1903-12,Indonesia,24.841
+1903-12,United States,-2.897
+1904-01,China,-8.828999999999997
+1904-01,Indonesia,24.624
+1904-01,United States,-5.517
+1904-02,China,-4.15
+1904-02,Indonesia,24.971
+1904-02,United States,-3.159
+1904-03,China,0.3790000000000001
+1904-03,Indonesia,25.108
+1904-03,United States,2.627
+1904-04,China,6.837000000000001
+1904-04,Indonesia,24.668000000000003
+1904-04,United States,7.364000000000001
+1904-05,China,12.96
+1904-05,Indonesia,25.386
+1904-05,United States,13.767
+1904-06,China,18.31
+1904-06,Indonesia,24.963
+1904-06,United States,17.948999999999995
+1904-07,China,19.355
+1904-07,Indonesia,25.236
+1904-07,United States,20.264
+1904-08,China,18.68
+1904-08,Indonesia,24.919
+1904-08,United States,19.482
+1904-09,China,13.843
+1904-09,Indonesia,25.12
+1904-09,United States,15.938
+1904-10,China,6.648
+1904-10,Indonesia,25.17
+1904-10,United States,9.629
+1904-11,China,-0.908
+1904-11,Indonesia,25.256
+1904-11,United States,2.753
+1904-12,China,-6.914999999999999
+1904-12,Indonesia,24.931
+1904-12,United States,-2.689
+1905-01,China,-7.172000000000001
+1905-01,Indonesia,25.172
+1905-01,United States,-4.7860000000000005
+1905-02,China,-8.323
+1905-02,Indonesia,25.121
+1905-02,United States,-4.43
+1905-03,China,-1.501
+1905-03,Indonesia,26.118
+1905-03,United States,4.707
+1905-04,China,5.1110000000000015
+1905-04,Indonesia,25.899
+1905-04,United States,8.112
+1905-05,China,12.627
+1905-05,Indonesia,25.937
+1905-05,United States,13.254
+1905-06,China,17.504
+1905-06,Indonesia,26.253
+1905-06,United States,18.337
+1905-07,China,19.775
+1905-07,Indonesia,25.515
+1905-07,United States,20.432
+1905-08,China,18.276
+1905-08,Indonesia,25.406
+1905-08,United States,20.473
+1905-09,China,13.608
+1905-09,Indonesia,25.651
+1905-09,United States,16.206
+1905-10,China,6.819999999999999
+1905-10,Indonesia,25.872
+1905-10,United States,8.391
+1905-11,China,-0.915
+1905-11,Indonesia,25.769
+1905-11,United States,3.51
+1905-12,China,-6.744
+1905-12,Indonesia,25.475
+1905-12,United States,-3.378
+1906-01,China,-9.235
+1906-01,Indonesia,25.585
+1906-01,United States,-3.88
+1906-02,China,-6.924
+1906-02,Indonesia,25.855
+1906-02,United States,-1.597
+1906-03,China,0.4029999999999999
+1906-03,Indonesia,26.108
+1906-03,United States,0.7359999999999998
+1906-04,China,8.062000000000001
+1906-04,Indonesia,25.946
+1906-04,United States,8.731
+1906-05,China,13.199000000000002
+1906-05,Indonesia,26.135
+1906-05,United States,13.517
+1906-06,China,17.96
+1906-06,Indonesia,25.664
+1906-06,United States,18.219
+1906-07,China,19.817
+1906-07,Indonesia,25.395
+1906-07,United States,20.545
+1906-08,China,18.161
+1906-08,Indonesia,25.16
+1906-08,United States,20.239
+1906-09,China,14.166
+1906-09,Indonesia,25.583
+1906-09,United States,16.804000000000002
+1906-10,China,7.127000000000001
+1906-10,Indonesia,25.597
+1906-10,United States,9.172
+1906-11,China,-1.935
+1906-11,Indonesia,25.62
+1906-11,United States,2.007
+1906-12,China,-6.138999999999999
+1906-12,Indonesia,25.200000000000006
+1906-12,United States,-1.7719999999999998
+1907-01,China,-6.765999999999999
+1907-01,Indonesia,25.225
+1907-01,United States,-3.011
+1907-02,China,-7.227
+1907-02,Indonesia,25.074
+1907-02,United States,-2.082
+1907-03,China,-0.4290000000000001
+1907-03,Indonesia,25.118
+1907-03,United States,4.136
+1907-04,China,7.584
+1907-04,Indonesia,25.562
+1907-04,United States,6.417000000000002
+1907-05,China,13.491
+1907-05,Indonesia,25.693
+1907-05,United States,11.935
+1907-06,China,17.424
+1907-06,Indonesia,25.373
+1907-06,United States,17.256999999999998
+1907-07,China,18.87
+1907-07,Indonesia,25.03
+1907-07,United States,20.662
+1907-08,China,18.913
+1907-08,Indonesia,25.011
+1907-08,United States,19.741
+1907-09,China,14.074000000000002
+1907-09,Indonesia,25.079
+1907-09,United States,15.73
+1907-10,China,7.7269999999999985
+1907-10,Indonesia,25.3
+1907-10,United States,9.167
+1907-11,China,-1.274
+1907-11,Indonesia,25.418000000000003
+1907-11,United States,2.046
+1907-12,China,-6.683
+1907-12,Indonesia,25.088
+1907-12,United States,-1.2699999999999998
+1908-01,China,-8.463999999999999
+1908-01,Indonesia,25.434
+1908-01,United States,-2.655
+1908-02,China,-6.857
+1908-02,Indonesia,25.614
+1908-02,United States,-1.5519999999999998
+1908-03,China,-0.329
+1908-03,Indonesia,25.626
+1908-03,United States,3.4530000000000003
+1908-04,China,7.519
+1908-04,Indonesia,25.71
+1908-04,United States,8.501000000000001
+1908-05,China,13.499
+1908-05,Indonesia,25.905
+1908-05,United States,13.127
+1908-06,China,17.765
+1908-06,Indonesia,25.233
+1908-06,United States,17.895
+1908-07,China,19.65
+1908-07,Indonesia,24.705
+1908-07,United States,21.004
+1908-08,China,19.093
+1908-08,Indonesia,25.26
+1908-08,United States,19.591
+1908-09,China,13.902
+1908-09,Indonesia,25.31
+1908-09,United States,15.949000000000002
+1908-10,China,7.170999999999999
+1908-10,Indonesia,25.4
+1908-10,United States,8.173
+1908-11,China,-1.442
+1908-11,Indonesia,25.122
+1908-11,United States,3.0780000000000003
+1908-12,China,-6.068
+1908-12,Indonesia,24.866
+1908-12,United States,-1.497
+1909-01,China,-9.468
+1909-01,Indonesia,25.498
+1909-01,United States,-3.627
+1909-02,China,-5.428000000000001
+1909-02,Indonesia,25.489
+1909-02,United States,-1.809
+1909-03,China,-0.4859999999999998
+1909-03,Indonesia,25.398000000000003
+1909-03,United States,1.745
+1909-04,China,7.984
+1909-04,Indonesia,25.647
+1909-04,United States,6.8050000000000015
+1909-05,China,13.126
+1909-05,Indonesia,25.919
+1909-05,United States,12.705
+1909-06,China,16.686
+1909-06,Indonesia,25.391
+1909-06,United States,18.643
+1909-07,China,19.727
+1909-07,Indonesia,25.462
+1909-07,United States,20.885
+1909-08,China,19.164
+1909-08,Indonesia,25.233
+1909-08,United States,20.72
+1909-09,China,14.385
+1909-09,Indonesia,25.576
+1909-09,United States,15.612
+1909-10,China,7.090999999999998
+1909-10,Indonesia,25.493
+1909-10,United States,8.851
+1909-11,China,0.593
+1909-11,Indonesia,25.143
+1909-11,United States,3.799
+1909-12,China,-6.799
+1909-12,Indonesia,25.014000000000006
+1909-12,United States,-5.667000000000001
+1910-01,China,-8.619
+1910-01,Indonesia,25.422
+1910-01,United States,-4.260000000000002
+1910-02,China,-6.053999999999999
+1910-02,Indonesia,25.104000000000006
+1910-02,United States,-4.243
+1910-03,China,-0.1509999999999998
+1910-03,Indonesia,25.356
+1910-03,United States,5.972
+1910-04,China,7.246
+1910-04,Indonesia,25.236
+1910-04,United States,8.618
+1910-05,China,13.442
+1910-05,Indonesia,25.721
+1910-05,United States,13.182
+1910-06,China,17.143
+1910-06,Indonesia,25.31
+1910-06,United States,18.243
+1910-07,China,19.804
+1910-07,Indonesia,25.679
+1910-07,United States,21.38
+1910-08,China,18.681
+1910-08,Indonesia,25.316
+1910-08,United States,19.847
+1910-09,China,13.525
+1910-09,Indonesia,25.558000000000003
+1910-09,United States,16.63
+1910-10,China,7.5939999999999985
+1910-10,Indonesia,25.771
+1910-10,United States,10.201
+1910-11,China,-1.281
+1910-11,Indonesia,25.232
+1910-11,United States,2.56
+1910-12,China,-8.472000000000001
+1910-12,Indonesia,25.164
+1910-12,United States,-3.035
+1911-01,China,-8.333
+1911-01,Indonesia,25.354
+1911-01,United States,-3.006
+1911-02,China,-5.718999999999999
+1911-02,Indonesia,25.373
+1911-02,United States,-1.433
+1911-03,China,0.286
+1911-03,Indonesia,25.895
+1911-03,United States,3.259
+1911-04,China,8.155000000000001
+1911-04,Indonesia,25.548
+1911-04,United States,7.184000000000001
+1911-05,China,12.999
+1911-05,Indonesia,25.628
+1911-05,United States,14.122
+1911-06,China,17.243
+1911-06,Indonesia,25.36
+1911-06,United States,19.57
+1911-07,China,19.029
+1911-07,Indonesia,25.115
+1911-07,United States,20.892
+1911-08,China,18.49
+1911-08,Indonesia,24.879
+1911-08,United States,19.886
+1911-09,China,14.483
+1911-09,Indonesia,25.23
+1911-09,United States,16.869
+1911-10,China,7.002000000000001
+1911-10,Indonesia,25.279
+1911-10,United States,9.583
+1911-11,China,-0.294
+1911-11,Indonesia,25.398000000000003
+1911-11,United States,0.6240000000000001
+1911-12,China,-7.776999999999999
+1911-12,Indonesia,25.257
+1911-12,United States,-2.695
+1912-01,China,-8.742999999999999
+1912-01,Indonesia,25.468000000000004
+1912-01,United States,-5.591
+1912-02,China,-3.5490000000000004
+1912-02,Indonesia,25.659
+1912-02,United States,-2.417
+1912-03,China,-0.0619999999999998
+1912-03,Indonesia,25.482
+1912-03,United States,0.6949999999999998
+1912-04,China,7.895
+1912-04,Indonesia,26.040000000000006
+1912-04,United States,8.249
+1912-05,China,13.475
+1912-05,Indonesia,26.079
+1912-05,United States,14.127
+1912-06,China,17.902
+1912-06,Indonesia,25.853
+1912-06,United States,17.551
+1912-07,China,19.426
+1912-07,Indonesia,25.271
+1912-07,United States,20.578000000000003
+1912-08,China,18.226
+1912-08,Indonesia,24.861
+1912-08,United States,19.307
+1912-09,China,12.812
+1912-09,Indonesia,25.533
+1912-09,United States,15.134
+1912-10,China,6.127000000000001
+1912-10,Indonesia,25.318
+1912-10,United States,9.256
+1912-11,China,-2.217
+1912-11,Indonesia,25.273000000000003
+1912-11,United States,3.192
+1912-12,China,-8.379
+1912-12,Indonesia,25.151
+1912-12,United States,-2.39
+1913-01,China,-8.652999999999999
+1913-01,Indonesia,25.317
+1913-01,United States,-4.323
+1913-02,China,-5.215000000000002
+1913-02,Indonesia,25.559
+1913-02,United States,-2.982
+1913-03,China,-0.3939999999999999
+1913-03,Indonesia,25.465
+1913-03,United States,1.5699999999999998
+1913-04,China,6.985
+1913-04,Indonesia,25.143
+1913-04,United States,8.020000000000001
+1913-05,China,12.867
+1913-05,Indonesia,25.462
+1913-05,United States,13.767
+1913-06,China,17.214000000000002
+1913-06,Indonesia,25.184
+1913-06,United States,18.731
+1913-07,China,19.351
+1913-07,Indonesia,24.839
+1913-07,United States,21.019
+1913-08,China,18.64
+1913-08,Indonesia,24.989
+1913-08,United States,20.744
+1913-09,China,13.853
+1913-09,Indonesia,25.103
+1913-09,United States,15.332
+1913-10,China,7.649
+1913-10,Indonesia,25.152
+1913-10,United States,8.337
+1913-11,China,-0.802
+1913-11,Indonesia,25.366
+1913-11,United States,4.355
+1913-12,China,-7.834
+1913-12,Indonesia,25.34
+1913-12,United States,-1.944
+1914-01,China,-6.148999999999999
+1914-01,Indonesia,25.456
+1914-01,United States,-1.6730000000000005
+1914-02,China,-4.1450000000000005
+1914-02,Indonesia,25.619
+1914-02,United States,-3.253
+1914-03,China,1.183
+1914-03,Indonesia,25.714
+1914-03,United States,2.188
+1914-04,China,7.896000000000001
+1914-04,Indonesia,25.686
+1914-04,United States,8.026
+1914-05,China,13.288
+1914-05,Indonesia,26.055
+1914-05,United States,14.28
+1914-06,China,18.377
+1914-06,Indonesia,25.335
+1914-06,United States,19.133
+1914-07,China,20.093
+1914-07,Indonesia,24.959
+1914-07,United States,21.429
+1914-08,China,18.438
+1914-08,Indonesia,24.793000000000003
+1914-08,United States,20.253
+1914-09,China,14.017
+1914-09,Indonesia,25.266
+1914-09,United States,15.729
+1914-10,China,7.101999999999999
+1914-10,Indonesia,25.247
+1914-10,United States,10.597
+1914-11,China,-1.128
+1914-11,Indonesia,25.675
+1914-11,United States,3.5860000000000003
+1914-12,China,-7.146999999999999
+1914-12,Indonesia,25.632
+1914-12,United States,-3.777
+1915-01,China,-9.008
+1915-01,Indonesia,25.757
+1915-01,United States,-3.958
+1915-02,China,-6.402
+1915-02,Indonesia,25.99
+1915-02,United States,-0.853
+1915-03,China,0.1220000000000001
+1915-03,Indonesia,26.081
+1915-03,United States,1.043
+1915-04,China,7.154
+1915-04,Indonesia,25.715
+1915-04,United States,10.088
+1915-05,China,13.398
+1915-05,Indonesia,26.355
+1915-05,United States,13.148
+1915-06,China,17.269000000000002
+1915-06,Indonesia,25.865
+1915-06,United States,17.743
+1915-07,China,19.59
+1915-07,Indonesia,25.449
+1915-07,United States,20.383
+1915-08,China,18.654
+1915-08,Indonesia,25.563
+1915-08,United States,19.511
+1915-09,China,13.782
+1915-09,Indonesia,25.52
+1915-09,United States,16.037
+1915-10,China,7.8279999999999985
+1915-10,Indonesia,25.715
+1915-10,United States,9.812
+1915-11,China,0.353
+1915-11,Indonesia,25.533
+1915-11,United States,3.315
+1915-12,China,-4.827
+1915-12,Indonesia,25.136000000000006
+1915-12,United States,-2.49
+1916-01,China,-7.802999999999999
+1916-01,Indonesia,25.294
+1916-01,United States,-4.3180000000000005
+1916-02,China,-5.724
+1916-02,Indonesia,25.487
+1916-02,United States,-2.109
+1916-03,China,0.1460000000000001
+1916-03,Indonesia,25.529
+1916-03,United States,2.256
+1916-04,China,7.558
+1916-04,Indonesia,25.540000000000006
+1916-04,United States,7.941000000000002
+1916-05,China,13.56
+1916-05,Indonesia,25.489
+1916-05,United States,13.277
+1916-06,China,17.573999999999998
+1916-06,Indonesia,25.318
+1916-06,United States,17.62
+1916-07,China,19.397
+1916-07,Indonesia,25.173
+1916-07,United States,21.586
+1916-08,China,19.106
+1916-08,Indonesia,25.326
+1916-08,United States,20.17
+1916-09,China,14.152
+1916-09,Indonesia,25.465
+1916-09,United States,15.54
+1916-10,China,7.212999999999999
+1916-10,Indonesia,25.542
+1916-10,United States,9.053
+1916-11,China,-0.797
+1916-11,Indonesia,25.317
+1916-11,United States,1.962
+1916-12,China,-8.184
+1916-12,Indonesia,24.96
+1916-12,United States,-4.817
+1917-01,China,-10.042
+1917-01,Indonesia,24.934
+1917-01,United States,-5.336
+1917-02,China,-5.4140000000000015
+1917-02,Indonesia,25.19100000000001
+1917-02,United States,-2.875
+1917-03,China,0.2270000000000001
+1917-03,Indonesia,25.49
+1917-03,United States,1.592
+1917-04,China,7.013
+1917-04,Indonesia,25.429
+1917-04,United States,6.957000000000002
+1917-05,China,13.505999999999998
+1917-05,Indonesia,25.476
+1917-05,United States,11.348
+1917-06,China,17.967
+1917-06,Indonesia,25.26
+1917-06,United States,17.805999999999997
+1917-07,China,19.603
+1917-07,Indonesia,25.172
+1917-07,United States,21.49
+1917-08,China,19.185
+1917-08,Indonesia,25.389
+1917-08,United States,19.923
+1917-09,China,13.858
+1917-09,Indonesia,25.566
+1917-09,United States,15.767
+1917-10,China,7.223999999999998
+1917-10,Indonesia,25.200000000000006
+1917-10,United States,7.847
+1917-11,China,-0.6659999999999999
+1917-11,Indonesia,25.456
+1917-11,United States,2.629
+1917-12,China,-8.524
+1917-12,Indonesia,24.646
+1917-12,United States,-5.113999999999999
+1918-01,China,-9.134
+1918-01,Indonesia,24.612
+1918-01,United States,-6.737
+1918-02,China,-5.197
+1918-02,Indonesia,24.813
+1918-02,United States,-1.85
+1918-03,China,1.6190000000000002
+1918-03,Indonesia,25.22
+1918-03,United States,3.915
+1918-04,China,7.627000000000002
+1918-04,Indonesia,25.031
+1918-04,United States,6.667000000000002
+1918-05,China,13.504
+1918-05,Indonesia,25.235
+1918-05,United States,13.792
+1918-06,China,17.188
+1918-06,Indonesia,24.564
+1918-06,United States,19.596
+1918-07,China,19.322
+1918-07,Indonesia,25.016
+1918-07,United States,20.916
+1918-08,China,18.358
+1918-08,Indonesia,25.06
+1918-08,United States,20.485
+1918-09,China,14.129
+1918-09,Indonesia,25.144
+1918-09,United States,14.913
+1918-10,China,7.471
+1918-10,Indonesia,25.296000000000006
+1918-10,United States,10.488
+1918-11,China,-1.885
+1918-11,Indonesia,25.585
+1918-11,United States,1.5690000000000002
+1918-12,China,-8.64
+1918-12,Indonesia,25.268
+1918-12,United States,-1.739
+1919-01,China,-10.255999999999998
+1919-01,Indonesia,25.491
+1919-01,United States,-3.257000000000001
+1919-02,China,-5.013999999999999
+1919-02,Indonesia,25.97
+1919-02,United States,-2.279
+1919-03,China,1.531
+1919-03,Indonesia,25.91
+1919-03,United States,2.229
+1919-04,China,8.104000000000001
+1919-04,Indonesia,25.789
+1919-04,United States,8.193999999999999
+1919-05,China,14.091
+1919-05,Indonesia,25.894
+1919-05,United States,13.702
+1919-06,China,17.819000000000003
+1919-06,Indonesia,25.31
+1919-06,United States,18.615
+1919-07,China,20.099
+1919-07,Indonesia,24.634
+1919-07,United States,21.681
+1919-08,China,19.527
+1919-08,Indonesia,25.253
+1919-08,United States,20.471
+1919-09,China,13.638
+1919-09,Indonesia,25.291
+1919-09,United States,16.578
+1919-10,China,7.252000000000001
+1919-10,Indonesia,25.232000000000006
+1919-10,United States,8.987
+1919-11,China,-0.55
+1919-11,Indonesia,25.212
+1919-11,United States,1.538
+1919-12,China,-6.957000000000001
+1919-12,Indonesia,25.254
+1919-12,United States,-4.003
+1920-01,China,-7.267999999999999
+1920-01,Indonesia,25.484
+1920-01,United States,-4.6240000000000006
+1920-02,China,-7.7040000000000015
+1920-02,Indonesia,25.4
+1920-02,United States,-1.0379999999999998
+1920-03,China,0.6659999999999999
+1920-03,Indonesia,25.578000000000003
+1920-03,United States,1.628
+1920-04,China,8.146
+1920-04,Indonesia,25.654
+1920-04,United States,5.381
+1920-05,China,13.512
+1920-05,Indonesia,25.688
+1920-05,United States,12.99
+1920-06,China,17.444000000000003
+1920-06,Indonesia,25.709
+1920-06,United States,18.076
+1920-07,China,20.549
+1920-07,Indonesia,25.577
+1920-07,United States,20.752
+1920-08,China,18.641
+1920-08,Indonesia,25.303
+1920-08,United States,19.588
+1920-09,China,13.712
+1920-09,Indonesia,25.529
+1920-09,United States,16.247
+1920-10,China,8.341000000000001
+1920-10,Indonesia,25.245
+1920-10,United States,9.667
+1920-11,China,0.226
+1920-11,Indonesia,25.675
+1920-11,United States,1.832
+1920-12,China,-7.180999999999999
+1920-12,Indonesia,25.42
+1920-12,United States,-2.285
+1921-01,China,-8.453999999999999
+1921-01,Indonesia,25.356
+1921-01,United States,-2.321
+1921-02,China,-4.618
+1921-02,Indonesia,25.459
+1921-02,United States,-0.6819999999999999
+1921-03,China,0.8960000000000001
+1921-03,Indonesia,25.58
+1921-03,United States,5.196999999999999
+1921-04,China,7.6400000000000015
+1921-04,Indonesia,25.215
+1921-04,United States,7.935
+1921-05,China,13.372
+1921-05,Indonesia,25.54
+1921-05,United States,13.612
+1921-06,China,16.63
+1921-06,Indonesia,25.483
+1921-06,United States,19.506
+1921-07,China,19.659
+1921-07,Indonesia,25.173
+1921-07,United States,21.784
+1921-08,China,18.829
+1921-08,Indonesia,25.291
+1921-08,United States,20.483
+1921-09,China,13.925
+1921-09,Indonesia,25.41
+1921-09,United States,16.745
+1921-10,China,7.045999999999999
+1921-10,Indonesia,25.47600000000001
+1921-10,United States,10.188
+1921-11,China,-0.679
+1921-11,Indonesia,25.329
+1921-11,United States,3.4330000000000003
+1921-12,China,-6.236999999999999
+1921-12,Indonesia,25.328000000000007
+1921-12,United States,-0.7319999999999998
+1922-01,China,-9.853
+1922-01,Indonesia,25.454
+1922-01,United States,-4.678
+1922-02,China,-3.897
+1922-02,Indonesia,25.506
+1922-02,United States,-2.384
+1922-03,China,1.4240000000000002
+1922-03,Indonesia,25.338
+1922-03,United States,1.7380000000000002
+1922-04,China,8.477
+1922-04,Indonesia,25.46
+1922-04,United States,7.834
+1922-05,China,13.309
+1922-05,Indonesia,25.505
+1922-05,United States,13.851
+1922-06,China,17.783
+1922-06,Indonesia,25.351
+1922-06,United States,19.154
+1922-07,China,20.102
+1922-07,Indonesia,25.042
+1922-07,United States,20.617
+1922-08,China,18.868
+1922-08,Indonesia,24.822
+1922-08,United States,20.55
+1922-09,China,14.1
+1922-09,Indonesia,25.346
+1922-09,United States,17.048
+1922-10,China,7.641999999999999
+1922-10,Indonesia,25.384
+1922-10,United States,10.385
+1922-11,China,-0.971
+1922-11,Indonesia,25.555
+1922-11,United States,2.783
+1922-12,China,-6.856
+1922-12,Indonesia,25.437
+1922-12,United States,-1.6799999999999995
+1923-01,China,-8.911
+1923-01,Indonesia,25.224
+1923-01,United States,-1.9250000000000005
+1923-02,China,-6.415000000000001
+1923-02,Indonesia,25.447000000000006
+1923-02,United States,-3.042
+1923-03,China,2.184
+1923-03,Indonesia,25.281
+1923-03,United States,1.106
+1923-04,China,8.076
+1923-04,Indonesia,25.491
+1923-04,United States,7.5790000000000015
+1923-05,China,13.677
+1923-05,Indonesia,25.512
+1923-05,United States,13.487
+1923-06,China,17.47
+1923-06,Indonesia,25.485
+1923-06,United States,18.438
+1923-07,China,19.281
+1923-07,Indonesia,24.638
+1923-07,United States,21.53
+1923-08,China,19.444000000000003
+1923-08,Indonesia,24.745
+1923-08,United States,20.356
+1923-09,China,13.681
+1923-09,Indonesia,25.008000000000003
+1923-09,United States,16.284000000000002
+1923-10,China,6.973
+1923-10,Indonesia,25.435
+1923-10,United States,9.006
+1923-11,China,-0.134
+1923-11,Indonesia,25.793000000000003
+1923-11,United States,3.682
+1923-12,China,-6.561999999999999
+1923-12,Indonesia,25.683000000000003
+1923-12,United States,-1.3769999999999998
+1924-01,China,-8.03
+1924-01,Indonesia,25.662
+1924-01,United States,-5.417999999999999
+1924-02,China,-5.92
+1924-02,Indonesia,25.82
+1924-02,United States,-1.349
+1924-03,China,0.2910000000000001
+1924-03,Indonesia,25.72
+1924-03,United States,1.36
+1924-04,China,8.389000000000001
+1924-04,Indonesia,25.597
+1924-04,United States,6.617000000000001
+1924-05,China,13.269
+1924-05,Indonesia,25.715
+1924-05,United States,12.578
+1924-06,China,17.848
+1924-06,Indonesia,25.5
+1924-06,United States,18.679
+1924-07,China,20.093
+1924-07,Indonesia,25.244
+1924-07,United States,20.3
+1924-08,China,19.269
+1924-08,Indonesia,25.424
+1924-08,United States,20.249
+1924-09,China,14.234000000000002
+1924-09,Indonesia,25.504
+1924-09,United States,15.04
+1924-10,China,7.382999999999999
+1924-10,Indonesia,25.519
+1924-10,United States,9.626
+1924-11,China,-0.401
+1924-11,Indonesia,25.5
+1924-11,United States,3.603
+1924-12,China,-5.973999999999998
+1924-12,Indonesia,25.139000000000006
+1924-12,United States,-4.657
+1925-01,China,-8.949
+1925-01,Indonesia,25.401
+1925-01,United States,-5.223000000000001
+1925-02,China,-6.848000000000001
+1925-02,Indonesia,25.234
+1925-02,United States,-0.3799999999999999
+1925-03,China,0.799
+1925-03,Indonesia,25.192
+1925-03,United States,3.972
+1925-04,China,7.2570000000000014
+1925-04,Indonesia,25.311
+1925-04,United States,9.856
+1925-05,China,13.241
+1925-05,Indonesia,25.579
+1925-05,United States,13.792
+1925-06,China,17.974
+1925-06,Indonesia,25.285
+1925-06,United States,19.242
+1925-07,China,19.945
+1925-07,Indonesia,24.912
+1925-07,United States,21.496
+1925-08,China,18.55
+1925-08,Indonesia,25.001
+1925-08,United States,20.211
+1925-09,China,14.164
+1925-09,Indonesia,25.441
+1925-09,United States,17.195
+1925-10,China,8.030999999999999
+1925-10,Indonesia,25.393
+1925-10,United States,7.894
+1925-11,China,0.419
+1925-11,Indonesia,25.749
+1925-11,United States,2.55
+1925-12,China,-5.915
+1925-12,Indonesia,25.659
+1925-12,United States,-2.408
+1926-01,China,-7.720999999999999
+1926-01,Indonesia,25.411
+1926-01,United States,-2.4370000000000003
+1926-02,China,-4.66
+1926-02,Indonesia,25.899
+1926-02,United States,-0.0449999999999999
+1926-03,China,1.6190000000000002
+1926-03,Indonesia,26.128
+1926-03,United States,2.668
+1926-04,China,7.7440000000000015
+1926-04,Indonesia,26.303
+1926-04,United States,8.131
+1926-05,China,13.878
+1926-05,Indonesia,26.383000000000003
+1926-05,United States,14.182
+1926-06,China,17.496
+1926-06,Indonesia,25.686
+1926-06,United States,18.768
+1926-07,China,19.828
+1926-07,Indonesia,25.218000000000004
+1926-07,United States,21.291
+1926-08,China,19.135
+1926-08,Indonesia,25.567
+1926-08,United States,20.658
+1926-09,China,14.855
+1926-09,Indonesia,25.567
+1926-09,United States,16.166
+1926-10,China,6.989
+1926-10,Indonesia,25.748
+1926-10,United States,10.512
+1926-11,China,-0.555
+1926-11,Indonesia,26.062
+1926-11,United States,2.975
+1926-12,China,-7.558999999999998
+1926-12,Indonesia,25.555
+1926-12,United States,-3.1860000000000004
+1927-01,China,-8.423
+1927-01,Indonesia,25.578000000000003
+1927-01,United States,-2.6430000000000007
+1927-02,China,-6.351000000000001
+1927-02,Indonesia,25.853
+1927-02,United States,0.3690000000000002
+1927-03,China,-0.2630000000000001
+1927-03,Indonesia,25.835
+1927-03,United States,2.406
+1927-04,China,7.945
+1927-04,Indonesia,25.621
+1927-04,United States,7.629
+1927-05,China,13.077
+1927-05,Indonesia,25.802
+1927-05,United States,13.494000000000002
+1927-06,China,17.333
+1927-06,Indonesia,25.531
+1927-06,United States,18.142
+1927-07,China,20.607
+1927-07,Indonesia,25.433000000000003
+1927-07,United States,21.027
+1927-08,China,19.041
+1927-08,Indonesia,25.234
+1927-08,United States,19.134
+1927-09,China,14.155
+1927-09,Indonesia,25.4
+1927-09,United States,15.933
+1927-10,China,7.8
+1927-10,Indonesia,25.63000000000001
+1927-10,United States,10.219
+1927-11,China,0.942
+1927-11,Indonesia,25.798
+1927-11,United States,3.282
+1927-12,China,-5.85
+1927-12,Indonesia,25.877
+1927-12,United States,-4.359999999999999
+1928-01,China,-7.903999999999999
+1928-01,Indonesia,25.777
+1928-01,United States,-2.1590000000000003
+1928-02,China,-5.118
+1928-02,Indonesia,26.068
+1928-02,United States,-0.6200000000000001
+1928-03,China,1.5530000000000002
+1928-03,Indonesia,25.86
+1928-03,United States,2.807
+1928-04,China,8.854000000000003
+1928-04,Indonesia,25.751
+1928-04,United States,6.718999999999999
+1928-05,China,14.373
+1928-05,Indonesia,26.02
+1928-05,United States,14.303
+1928-06,China,17.789
+1928-06,Indonesia,25.467
+1928-06,United States,17.503
+1928-07,China,20.194000000000003
+1928-07,Indonesia,25.278
+1928-07,United States,21.151
+1928-08,China,18.556
+1928-08,Indonesia,25.396
+1928-08,United States,20.125
+1928-09,China,14.083
+1928-09,Indonesia,25.719
+1928-09,United States,15.231
+1928-10,China,7.260999999999999
+1928-10,Indonesia,25.719
+1928-10,United States,10.06
+1928-11,China,-0.5710000000000001
+1928-11,Indonesia,25.764
+1928-11,United States,3.148
+1928-12,China,-7.774
+1928-12,Indonesia,25.608
+1928-12,United States,-1.7559999999999998
+1929-01,China,-9.204
+1929-01,Indonesia,25.344
+1929-01,United States,-4.485
+1929-02,China,-5.9860000000000015
+1929-02,Indonesia,25.515
+1929-02,United States,-4.131
+1929-03,China,2.145
+1929-03,Indonesia,25.731
+1929-03,United States,3.016
+1929-04,China,8.781
+1929-04,Indonesia,25.546
+1929-04,United States,8.047
+1929-05,China,13.819
+1929-05,Indonesia,25.602
+1929-05,United States,13.156
+1929-06,China,17.768
+1929-06,Indonesia,25.258000000000003
+1929-06,United States,18.241
+1929-07,China,19.765
+1929-07,Indonesia,25.099
+1929-07,United States,21.211
+1929-08,China,18.695
+1929-08,Indonesia,25.304
+1929-08,United States,20.547
+1929-09,China,13.986
+1929-09,Indonesia,25.569000000000003
+1929-09,United States,15.896
+1929-10,China,6.782
+1929-10,Indonesia,25.605
+1929-10,United States,9.663
+1929-11,China,-0.6729999999999999
+1929-11,Indonesia,25.764
+1929-11,United States,1.829
+1929-12,China,-8.789
+1929-12,Indonesia,25.443
+1929-12,United States,-1.7159999999999995
+1930-01,China,-11.212
+1930-01,Indonesia,25.636
+1930-01,United States,-5.784000000000002
+1930-02,China,-4.383
+1930-02,Indonesia,25.631
+1930-02,United States,0.2430000000000001
+1930-03,China,1.3270000000000002
+1930-03,Indonesia,25.909
+1930-03,United States,1.6769999999999998
+1930-04,China,7.947999999999999
+1930-04,Indonesia,25.733
+1930-04,United States,9.419
+1930-05,China,14.013
+1930-05,Indonesia,26.028
+1930-05,United States,13.287
+1930-06,China,17.159000000000002
+1930-06,Indonesia,25.219
+1930-06,United States,18.587
+1930-07,China,20.787
+1930-07,Indonesia,25.521
+1930-07,United States,21.939
+1930-08,China,18.856
+1930-08,Indonesia,25.487
+1930-08,United States,20.758000000000003
+1930-09,China,13.574000000000002
+1930-09,Indonesia,25.537
+1930-09,United States,16.474
+1930-10,China,7.153
+1930-10,Indonesia,25.734
+1930-10,United States,8.555
+1930-11,China,-0.79
+1930-11,Indonesia,25.817
+1930-11,United States,2.091
+1930-12,China,-6.808
+1930-12,Indonesia,25.729000000000006
+1930-12,United States,-2.394
+1931-01,China,-8.916
+1931-01,Indonesia,25.98
+1931-01,United States,-1.8430000000000004
+1931-02,China,-7.904
+1931-02,Indonesia,26.196
+1931-02,United States,0.5760000000000001
+1931-03,China,1.472
+1931-03,Indonesia,26.207
+1931-03,United States,1.644
+1931-04,China,7.713999999999999
+1931-04,Indonesia,25.985
+1931-04,United States,8.052000000000001
+1931-05,China,12.844
+1931-05,Indonesia,26.41
+1931-05,United States,13.198
+1931-06,China,17.686
+1931-06,Indonesia,26.07
+1931-06,United States,19.565
+1931-07,China,18.88
+1931-07,Indonesia,25.314
+1931-07,United States,22.143
+1931-08,China,19.32
+1931-08,Indonesia,25.892
+1931-08,United States,20.291
+1931-09,China,14.162
+1931-09,Indonesia,25.933000000000003
+1931-09,United States,17.573
+1931-10,China,7.997999999999998
+1931-10,Indonesia,25.805000000000003
+1931-10,United States,10.659
+1931-11,China,-0.1639999999999999
+1931-11,Indonesia,25.713
+1931-11,United States,3.932
+1931-12,China,-6.561999999999999
+1931-12,Indonesia,25.735000000000007
+1931-12,United States,-1.0609999999999995
+1932-01,China,-6.706
+1932-01,Indonesia,25.616
+1932-01,United States,-3.657000000000001
+1932-02,China,-6.6190000000000015
+1932-02,Indonesia,25.78
+1932-02,United States,-1.164
+1932-03,China,1.396
+1932-03,Indonesia,25.758000000000003
+1932-03,United States,1.123
+1932-04,China,8.565
+1932-04,Indonesia,25.917
+1932-04,United States,8.617
+1932-05,China,13.534
+1932-05,Indonesia,25.949
+1932-05,United States,13.868
+1932-06,China,17.934
+1932-06,Indonesia,25.775
+1932-06,United States,18.85
+1932-07,China,20.464
+1932-07,Indonesia,25.235
+1932-07,United States,21.495
+1932-08,China,18.434
+1932-08,Indonesia,25.393
+1932-08,United States,20.439
+1932-09,China,14.26
+1932-09,Indonesia,25.688
+1932-09,United States,15.925999999999998
+1932-10,China,7.425999999999998
+1932-10,Indonesia,25.811
+1932-10,United States,9.023
+1932-11,China,0.768
+1932-11,Indonesia,25.768
+1932-11,United States,1.578
+1932-12,China,-6.589
+1932-12,Indonesia,25.477
+1932-12,United States,-3.624
+1933-01,China,-10.678999999999998
+1933-01,Indonesia,25.686
+1933-01,United States,-2.599
+1933-02,China,-5.352
+1933-02,Indonesia,25.53700000000001
+1933-02,United States,-3.768
+1933-03,China,0.4640000000000002
+1933-03,Indonesia,25.735
+1933-03,United States,2.673
+1933-04,China,7.91
+1933-04,Indonesia,25.721
+1933-04,United States,7.73
+1933-05,China,13.794
+1933-05,Indonesia,26.127
+1933-05,United States,13.544
+1933-06,China,17.993
+1933-06,Indonesia,25.636
+1933-06,United States,19.805
+1933-07,China,20.081
+1933-07,Indonesia,25.285
+1933-07,United States,21.917
+1933-08,China,19.329
+1933-08,Indonesia,25.754
+1933-08,United States,20.234
+1933-09,China,14.603
+1933-09,Indonesia,25.658
+1933-09,United States,17.288
+1933-10,China,6.769
+1933-10,Indonesia,25.512
+1933-10,United States,9.848
+1933-11,China,-0.042
+1933-11,Indonesia,25.674
+1933-11,United States,3.1710000000000003
+1933-12,China,-5.311
+1933-12,Indonesia,25.315
+1933-12,United States,-1.476
+1934-01,China,-9.997
+1934-01,Indonesia,25.174
+1934-01,United States,-2.5420000000000003
+1934-02,China,-4.671
+1934-02,Indonesia,25.231
+1934-02,United States,-0.685
+1934-03,China,0.266
+1934-03,Indonesia,25.349
+1934-03,United States,3.215
+1934-04,China,6.631
+1934-04,Indonesia,25.799
+1934-04,United States,9.553
+1934-05,China,14.137
+1934-05,Indonesia,25.917
+1934-05,United States,15.727
+1934-06,China,17.448999999999998
+1934-06,Indonesia,25.637
+1934-06,United States,19.58
+1934-07,China,19.895
+1934-07,Indonesia,25.599
+1934-07,United States,22.412
+1934-08,China,18.514
+1934-08,Indonesia,25.317
+1934-08,United States,21.013
+1934-09,China,14.208
+1934-09,Indonesia,25.622
+1934-09,United States,15.816
+1934-10,China,6.385
+1934-10,Indonesia,25.807
+1934-10,United States,11.13
+1934-11,China,-1.262
+1934-11,Indonesia,25.699
+1934-11,United States,4.402
+1934-12,China,-5.2010000000000005
+1934-12,Indonesia,25.651
+1934-12,United States,-1.702
+1935-01,China,-8.711
+1935-01,Indonesia,25.722
+1935-01,United States,-3.0680000000000005
+1935-02,China,-3.698
+1935-02,Indonesia,26.001
+1935-02,United States,-0.0590000000000001
+1935-03,China,2.685
+1935-03,Indonesia,25.919
+1935-03,United States,3.761
+1935-04,China,7.2040000000000015
+1935-04,Indonesia,25.66200000000001
+1935-04,United States,7.529000000000001
+1935-05,China,13.437
+1935-05,Indonesia,25.839
+1935-05,United States,12.136
+1935-06,China,17.756
+1935-06,Indonesia,25.424
+1935-06,United States,18.199
+1935-07,China,19.826
+1935-07,Indonesia,25.062
+1935-07,United States,22.09
+1935-08,China,19.105
+1935-08,Indonesia,25.323
+1935-08,United States,20.643
+1935-09,China,14.402
+1935-09,Indonesia,25.642
+1935-09,United States,16.090999999999998
+1935-10,China,8.812999999999997
+1935-10,Indonesia,25.699
+1935-10,United States,9.543
+1935-11,China,-1.258
+1935-11,Indonesia,25.498
+1935-11,United States,1.64
+1935-12,China,-9.927
+1935-12,Indonesia,25.744
+1935-12,United States,-3.595
+1936-01,China,-10.599
+1936-01,Indonesia,25.431
+1936-01,United States,-4.66
+1936-02,China,-6.6160000000000005
+1936-02,Indonesia,25.96
+1936-02,United States,-6.002000000000001
+1936-03,China,-1.144
+1936-03,Indonesia,25.959
+1936-03,United States,3.283
+1936-04,China,7.226
+1936-04,Indonesia,25.879
+1936-04,United States,7.827000000000001
+1936-05,China,13.057
+1936-05,Indonesia,26.047
+1936-05,United States,15.312
+1936-06,China,17.624000000000002
+1936-06,Indonesia,25.718000000000004
+1936-06,United States,19.983
+1936-07,China,19.71
+1936-07,Indonesia,25.448
+1936-07,United States,22.834
+1936-08,China,18.393
+1936-08,Indonesia,25.278
+1936-08,United States,21.746
+1936-09,China,14.458
+1936-09,Indonesia,25.832
+1936-09,United States,16.777
+1936-10,China,8.256
+1936-10,Indonesia,25.665000000000006
+1936-10,United States,9.631
+1936-11,China,0.29
+1936-11,Indonesia,25.76
+1936-11,United States,2.2
+1936-12,China,-7.316
+1936-12,Indonesia,25.724
+1936-12,United States,-1.864
+1937-01,China,-9.124
+1937-01,Indonesia,25.642
+1937-01,United States,-4.735
+1937-02,China,-4.551
+1937-02,Indonesia,26.086
+1937-02,United States,-2.9960000000000004
+1937-03,China,0.2440000000000002
+1937-03,Indonesia,25.958
+1937-03,United States,1.189
+1937-04,China,7.808000000000002
+1937-04,Indonesia,25.922
+1937-04,United States,7.357
+1937-05,China,13.759
+1937-05,Indonesia,25.897
+1937-05,United States,14.331
+1937-06,China,17.45
+1937-06,Indonesia,25.859
+1937-06,United States,18.913
+1937-07,China,19.828
+1937-07,Indonesia,25.408
+1937-07,United States,21.769
+1937-08,China,19.029
+1937-08,Indonesia,25.63
+1937-08,United States,21.466
+1937-09,China,14.387
+1937-09,Indonesia,25.762
+1937-09,United States,16.788999999999998
+1937-10,China,7.895
+1937-10,Indonesia,25.614
+1937-10,United States,10.057
+1937-11,China,-1.683
+1937-11,Indonesia,26.043000000000003
+1937-11,United States,2.892
+1937-12,China,-6.909
+1937-12,Indonesia,25.594
+1937-12,United States,-2.263
+1938-01,China,-9.209
+1938-01,Indonesia,25.673
+1938-01,United States,-3.1700000000000004
+1938-02,China,-5.8340000000000005
+1938-02,Indonesia,26.106
+1938-02,United States,-1.004
+1938-03,China,1.41
+1938-03,Indonesia,25.894
+1938-03,United States,4.371
+1938-04,China,9.415
+1938-04,Indonesia,26.116
+1938-04,United States,8.798
+1938-05,China,14.234000000000002
+1938-05,Indonesia,25.975
+1938-05,United States,13.666
+1938-06,China,17.262
+1938-06,Indonesia,25.641
+1938-06,United States,18.718
+1938-07,China,20.398
+1938-07,Indonesia,25.523000000000003
+1938-07,United States,21.359
+1938-08,China,19.009
+1938-08,Indonesia,25.655
+1938-08,United States,21.178
+1938-09,China,13.894
+1938-09,Indonesia,25.484
+1938-09,United States,17.154
+1938-10,China,8.357000000000001
+1938-10,Indonesia,25.407
+1938-10,United States,11.421
+1938-11,China,0.172
+1938-11,Indonesia,25.566
+1938-11,United States,2.428
+1938-12,China,-6.646999999999999
+1938-12,Indonesia,25.204
+1938-12,United States,-1.257
+1939-01,China,-8.136000000000001
+1939-01,Indonesia,25.356
+1939-01,United States,-2.2300000000000004
+1939-02,China,-4.354
+1939-02,Indonesia,25.361
+1939-02,United States,-3.239
+1939-03,China,1.0990000000000002
+1939-03,Indonesia,25.626
+1939-03,United States,2.718
+1939-04,China,7.362999999999999
+1939-04,Indonesia,25.89
+1939-04,United States,8.533000000000001
+1939-05,China,14.249
+1939-05,Indonesia,25.794
+1939-05,United States,14.744000000000002
+1939-06,China,17.512
+1939-06,Indonesia,25.58
+1939-06,United States,18.855
+1939-07,China,20.451
+1939-07,Indonesia,25.874
+1939-07,United States,21.899
+1939-08,China,19.783
+1939-08,Indonesia,25.625
+1939-08,United States,20.505
+1939-09,China,14.397
+1939-09,Indonesia,25.265
+1939-09,United States,17.243
+1939-10,China,8.004
+1939-10,Indonesia,25.372
+1939-10,United States,9.731
+1939-11,China,-0.304
+1939-11,Indonesia,25.876
+1939-11,United States,2.467
+1939-12,China,-5.746
+1939-12,Indonesia,25.797
+1939-12,United States,0.464
+1940-01,China,-7.517999999999999
+1940-01,Indonesia,25.322
+1940-01,United States,-5.9190000000000005
+1940-02,China,-4.783
+1940-02,Indonesia,25.59800000000001
+1940-02,United States,-1.286
+1940-03,China,1.281
+1940-03,Indonesia,25.92
+1940-03,United States,2.7960000000000003
+1940-04,China,7.694
+1940-04,Indonesia,26.228
+1940-04,United States,8.620000000000001
+1940-05,China,13.542
+1940-05,Indonesia,26.13
+1940-05,United States,14.397
+1940-06,China,17.884999999999994
+1940-06,Indonesia,25.725
+1940-06,United States,19.261
+1940-07,China,20.116
+1940-07,Indonesia,25.376
+1940-07,United States,21.706
+1940-08,China,17.918
+1940-08,Indonesia,24.995
+1940-08,United States,20.543000000000003
+1940-09,China,13.916
+1940-09,Indonesia,25.34
+1940-09,United States,16.534000000000002
+1940-10,China,8.524
+1940-10,Indonesia,25.462000000000003
+1940-10,United States,10.899
+1940-11,China,-0.284
+1940-11,Indonesia,25.933000000000003
+1940-11,United States,1.982
+1940-12,China,-4.751
+1940-12,Indonesia,25.846
+1940-12,United States,-0.3669999999999997
+1941-01,China,-7.244
+1941-01,Indonesia,25.967
+1941-01,United States,-2.843
+1941-02,China,-4.627000000000002
+1941-02,Indonesia,26.072000000000006
+1941-02,United States,-0.97
+1941-03,China,1.764
+1941-03,Indonesia,26.521
+1941-03,United States,1.771
+1941-04,China,8.777000000000001
+1941-04,Indonesia,26.49
+1941-04,United States,8.935
+1941-05,China,13.882
+1941-05,Indonesia,26.523000000000003
+1941-05,United States,14.813
+1941-06,China,18.472
+1941-06,Indonesia,26.373
+1941-06,United States,18.519
+1941-07,China,20.174
+1941-07,Indonesia,25.406
+1941-07,United States,21.365
+1941-08,China,19.122
+1941-08,Indonesia,25.387
+1941-08,United States,20.621
+1941-09,China,14.074000000000002
+1941-09,Indonesia,25.397
+1941-09,United States,16.094
+1941-10,China,8.456
+1941-10,Indonesia,26.022
+1941-10,United States,10.169
+1941-11,China,0.47
+1941-11,Indonesia,26.073
+1941-11,United States,3.213
+1941-12,China,-5.174
+1941-12,Indonesia,26.025
+1941-12,United States,-0.494
+1942-01,China,-7.597999999999999
+1942-01,Indonesia,26.054
+1942-01,United States,-2.6190000000000007
+1942-02,China,-6.767
+1942-02,Indonesia,26.366
+1942-02,United States,-2.024
+1942-03,China,3.353
+1942-03,Indonesia,26.748
+1942-03,United States,2.471
+1942-04,China,8.302999999999999
+1942-04,Indonesia,26.557
+1942-04,United States,9.382
+1942-05,China,13.367
+1942-05,Indonesia,26.789
+1942-05,United States,13.505999999999998
+1942-06,China,18.41
+1942-06,Indonesia,26.612
+1942-06,United States,18.511
+1942-07,China,20.325
+1942-07,Indonesia,25.739
+1942-07,United States,21.558000000000003
+1942-08,China,18.908
+1942-08,Indonesia,25.622
+1942-08,United States,20.35
+1942-09,China,14.416
+1942-09,Indonesia,25.812
+1942-09,United States,15.956
+1942-10,China,8.224
+1942-10,Indonesia,26.124
+1942-10,United States,10.116
+1942-11,China,0.8370000000000001
+1942-11,Indonesia,25.698
+1942-11,United States,3.016
+1942-12,China,-6.626
+1942-12,Indonesia,25.918000000000006
+1942-12,United States,-3.1910000000000003
+1943-01,China,-8.652999999999999
+1943-01,Indonesia,25.53
+1943-01,United States,-4.731
+1943-02,China,-4.933000000000002
+1943-02,Indonesia,25.854000000000006
+1943-02,United States,-0.014
+1943-03,China,2.018
+1943-03,Indonesia,25.594
+1943-03,United States,1.3630000000000002
+1943-04,China,7.749
+1943-04,Indonesia,25.599
+1943-04,United States,9.023
+1943-05,China,14.42
+1943-05,Indonesia,25.741
+1943-05,United States,13.800999999999998
+1943-06,China,17.744
+1943-06,Indonesia,25.247
+1943-06,United States,19.049
+1943-07,China,20.491
+1943-07,Indonesia,25.645
+1943-07,United States,21.65
+1943-08,China,19.373
+1943-08,Indonesia,25.763
+1943-08,United States,20.979
+1943-09,China,14.64
+1943-09,Indonesia,25.533
+1943-09,United States,15.873
+1943-10,China,7.862
+1943-10,Indonesia,25.517000000000003
+1943-10,United States,9.847
+1943-11,China,-0.283
+1943-11,Indonesia,25.482
+1943-11,United States,3.128
+1943-12,China,-5.817
+1943-12,Indonesia,25.293000000000006
+1943-12,United States,-1.926
+1944-01,China,-8.462
+1944-01,Indonesia,25.783
+1944-01,United States,-2.591
+1944-02,China,-5.74
+1944-02,Indonesia,26.068
+1944-02,United States,-0.498
+1944-03,China,2.2230000000000003
+1944-03,Indonesia,25.644
+1944-03,United States,1.1789999999999998
+1944-04,China,7.630000000000001
+1944-04,Indonesia,25.758000000000006
+1944-04,United States,6.996
+1944-05,China,13.658
+1944-05,Indonesia,26.099
+1944-05,United States,14.652
+1944-06,China,18.039
+1944-06,Indonesia,25.69
+1944-06,United States,18.735
+1944-07,China,20.791
+1944-07,Indonesia,24.922
+1944-07,United States,21.05
+1944-08,China,19.035
+1944-08,Indonesia,25.377
+1944-08,United States,20.369
+1944-09,China,14.52
+1944-09,Indonesia,25.535
+1944-09,United States,16.326999999999998
+1944-10,China,7.377999999999999
+1944-10,Indonesia,25.703000000000007
+1944-10,United States,10.576
+1944-11,China,-0.618
+1944-11,Indonesia,26.021
+1944-11,United States,2.756
+1944-12,China,-10.088
+1944-12,Indonesia,25.568
+1944-12,United States,-2.773
+1945-01,China,-9.896
+1945-01,Indonesia,25.925
+1945-01,United States,-2.5360000000000005
+1945-02,China,-8.142000000000001
+1945-02,Indonesia,25.967
+1945-02,United States,-0.5609999999999999
+1945-03,China,0.5870000000000001
+1945-03,Indonesia,25.724
+1945-03,United States,4.299
+1945-04,China,9.384
+1945-04,Indonesia,25.971
+1945-04,United States,7.524000000000001
+1945-05,China,13.944
+1945-05,Indonesia,26.028
+1945-05,United States,12.544
+1945-06,China,18.529
+1945-06,Indonesia,25.233
+1945-06,United States,17.245
+1945-07,China,19.952
+1945-07,Indonesia,25.014
+1945-07,United States,20.995
+1945-08,China,19.234
+1945-08,Indonesia,25.857
+1945-08,United States,20.288
+1945-09,China,15.086
+1945-09,Indonesia,25.748
+1945-09,United States,16.201999999999998
+1945-10,China,8.052
+1945-10,Indonesia,25.85
+1945-10,United States,9.761
+1945-11,China,1.6969999999999998
+1945-11,Indonesia,25.704
+1945-11,United States,2.164
+1945-12,China,-6.361000000000001
+1945-12,Indonesia,25.44400000000001
+1945-12,United States,-3.87
+1946-01,China,-6.568999999999999
+1946-01,Indonesia,25.714
+1946-01,United States,-2.595
+1946-02,China,-2.7500000000000004
+1946-02,Indonesia,26.009
+1946-02,United States,-1.155
+1946-03,China,-0.024
+1946-03,Indonesia,26.264
+1946-03,United States,4.467
+1946-04,China,9.917
+1946-04,Indonesia,26.03700000000001
+1946-04,United States,9.509
+1946-05,China,13.35
+1946-05,Indonesia,25.716
+1946-05,United States,13.162
+1946-06,China,18.286
+1946-06,Indonesia,25.672
+1946-06,United States,18.725
+1946-07,China,20.054
+1946-07,Indonesia,25.879
+1946-07,United States,21.57
+1946-08,China,19.549
+1946-08,Indonesia,25.862
+1946-08,United States,19.84
+1946-09,China,14.658
+1946-09,Indonesia,25.552
+1946-09,United States,15.951
+1946-10,China,8.532
+1946-10,Indonesia,25.813
+1946-10,United States,9.675
+1946-11,China,0.62
+1946-11,Indonesia,26.374
+1946-11,United States,2.596
+1946-12,China,-7.374
+1946-12,Indonesia,26.073
+1946-12,United States,-1.59
+1947-01,China,-8.42
+1947-01,Indonesia,26.351
+1947-01,United States,-3.823
+1947-02,China,-6.066000000000002
+1947-02,Indonesia,26.247
+1947-02,United States,-2.494
+1947-03,China,1.5119999999999998
+1947-03,Indonesia,26.322
+1947-03,United States,1.4859999999999998
+1947-04,China,8.977
+1947-04,Indonesia,25.983
+1947-04,United States,8.109
+1947-05,China,14.33
+1947-05,Indonesia,26.162
+1947-05,United States,13.871
+1947-06,China,17.732
+1947-06,Indonesia,26.039
+1947-06,United States,17.784000000000002
+1947-07,China,20.051
+1947-07,Indonesia,25.9
+1947-07,United States,21.107
+1947-08,China,18.785
+1947-08,Indonesia,26.069000000000003
+1947-08,United States,21.168000000000003
+1947-09,China,14.768
+1947-09,Indonesia,26.188
+1947-09,United States,16.835
+1947-10,China,6.9910000000000005
+1947-10,Indonesia,26.289
+1947-10,United States,11.853
+1947-11,China,0.354
+1947-11,Indonesia,25.962
+1947-11,United States,1.711
+1947-12,China,-7.728
+1947-12,Indonesia,25.967
+1947-12,United States,-1.5739999999999998
+1948-01,China,-7.773
+1948-01,Indonesia,26.049
+1948-01,United States,-4.4140000000000015
+1948-02,China,-4.897
+1948-02,Indonesia,25.809
+1948-02,United States,-2.777
+1948-03,China,2.023
+1948-03,Indonesia,25.885
+1948-03,United States,1.1409999999999998
+1948-04,China,9.588
+1948-04,Indonesia,26.264
+1948-04,United States,9.114
+1948-05,China,12.819
+1948-05,Indonesia,26.336
+1948-05,United States,13.695
+1948-06,China,18.065
+1948-06,Indonesia,25.935
+1948-06,United States,18.81
+1948-07,China,19.929
+1948-07,Indonesia,25.764
+1948-07,United States,21.058000000000003
+1948-08,China,19.308
+1948-08,Indonesia,25.4
+1948-08,United States,20.155
+1948-09,China,14.738
+1948-09,Indonesia,25.536
+1948-09,United States,16.483999999999998
+1948-10,China,7.354999999999999
+1948-10,Indonesia,25.979000000000006
+1948-10,United States,9.214
+1948-11,China,-0.831
+1948-11,Indonesia,25.888
+1948-11,United States,2.258
+1948-12,China,-5.119999999999999
+1948-12,Indonesia,26.068
+1948-12,United States,-2.958
+1949-01,China,-7.066999999999998
+1949-01,Indonesia,26.277
+1949-01,United States,-5.259
+1949-02,China,-3.4890000000000008
+1949-02,Indonesia,26.022
+1949-02,United States,-2.958
+1949-03,China,0.993
+1949-03,Indonesia,26.003
+1949-03,United States,3.084
+1949-04,China,8.17
+1949-04,Indonesia,25.871
+1949-04,United States,8.044
+1949-05,China,14.201
+1949-05,Indonesia,25.91
+1949-05,United States,14.183
+1949-06,China,17.737000000000002
+1949-06,Indonesia,25.495
+1949-06,United States,18.612
+1949-07,China,19.716
+1949-07,Indonesia,25.128
+1949-07,United States,21.593000000000004
+1949-08,China,18.9
+1949-08,Indonesia,25.21
+1949-08,United States,20.481
+1949-09,China,14.542
+1949-09,Indonesia,25.777
+1949-09,United States,15.998
+1949-10,China,8.32
+1949-10,Indonesia,25.869000000000003
+1949-10,United States,9.96
+1949-11,China,-0.606
+1949-11,Indonesia,25.993
+1949-11,United States,5.215
+1949-12,China,-7.7109999999999985
+1949-12,Indonesia,25.536
+1949-12,United States,-2.296
+1950-01,China,-6.116999999999999
+1950-01,Indonesia,25.608
+1950-01,United States,-2.893
+1950-02,China,-6.093
+1950-02,Indonesia,25.523000000000003
+1950-02,United States,-1.757
+1950-03,China,1.869
+1950-03,Indonesia,26.16
+1950-03,United States,1.993
+1950-04,China,7.691000000000002
+1950-04,Indonesia,26.041
+1950-04,United States,7.1000000000000005
+1950-05,China,14.25
+1950-05,Indonesia,25.758000000000003
+1950-05,United States,13.451
+1950-06,China,17.358999999999998
+1950-06,Indonesia,26.031
+1950-06,United States,18.408
+1950-07,China,20.264
+1950-07,Indonesia,25.401
+1950-07,United States,20.4
+1950-08,China,18.873
+1950-08,Indonesia,25.351
+1950-08,United States,19.723
+1950-09,China,13.893
+1950-09,Indonesia,25.352
+1950-09,United States,15.744000000000002
+1950-10,China,7.167999999999998
+1950-10,Indonesia,25.721
+1950-10,United States,11.473
+1950-11,China,-1.415
+1950-11,Indonesia,25.67
+1950-11,United States,2.212
+1950-12,China,-8.048
+1950-12,Indonesia,25.235000000000007
+1950-12,United States,-1.977
+1951-01,China,-9.12
+1951-01,Indonesia,25.652
+1951-01,United States,-4.354
+1951-02,China,-5.5120000000000005
+1951-02,Indonesia,25.57
+1951-02,United States,-1.513
+1951-03,China,-0.1809999999999998
+1951-03,Indonesia,26.054
+1951-03,United States,0.5680000000000001
+1951-04,China,6.303999999999999
+1951-04,Indonesia,25.982
+1951-04,United States,7.841
+1951-05,China,14.525
+1951-05,Indonesia,26.312
+1951-05,United States,14.296
+1951-06,China,18.068
+1951-06,Indonesia,26.137
+1951-06,United States,17.843
+1951-07,China,19.721
+1951-07,Indonesia,25.489
+1951-07,United States,21.501
+1951-08,China,19.706
+1951-08,Indonesia,26.098000000000003
+1951-08,United States,20.488000000000003
+1951-09,China,14.042
+1951-09,Indonesia,26.052
+1951-09,United States,15.979
+1951-10,China,9.034
+1951-10,Indonesia,26.312
+1951-10,United States,9.58
+1951-11,China,0.296
+1951-11,Indonesia,26.9
+1951-11,United States,1.759
+1951-12,China,-4.449
+1951-12,Indonesia,26.417
+1951-12,United States,-2.989
+1952-01,China,-7.257000000000001
+1952-01,Indonesia,26.328000000000003
+1952-01,United States,-3.232
+1952-02,China,-5.922999999999999
+1952-02,Indonesia,26.25500000000001
+1952-02,United States,-0.923
+1952-03,China,0.9000000000000001
+1952-03,Indonesia,26.177
+1952-03,United States,0.8769999999999998
+1952-04,China,8.905000000000003
+1952-04,Indonesia,26.363000000000003
+1952-04,United States,8.128
+1952-05,China,13.929
+1952-05,Indonesia,26.309
+1952-05,United States,13.561
+1952-06,China,18.034
+1952-06,Indonesia,26.024
+1952-06,United States,19.656
+1952-07,China,20.156
+1952-07,Indonesia,25.761
+1952-07,United States,21.589
+1952-08,China,18.434
+1952-08,Indonesia,25.597
+1952-08,United States,20.744
+1952-09,China,14.547
+1952-09,Indonesia,25.958
+1952-09,United States,16.57
+1952-10,China,6.807
+1952-10,Indonesia,26.105
+1952-10,United States,9.56
+1952-11,China,-0.3989999999999999
+1952-11,Indonesia,26.151
+1952-11,United States,2.9560000000000004
+1952-12,China,-8.442
+1952-12,Indonesia,25.91200000000001
+1952-12,United States,-1.733
+1953-01,China,-8.853
+1953-01,Indonesia,25.821
+1953-01,United States,-1.3370000000000002
+1953-02,China,-4.564
+1953-02,Indonesia,25.882
+1953-02,United States,-0.5579999999999999
+1953-03,China,2.572
+1953-03,Indonesia,26.098000000000003
+1953-03,United States,3.417
+1953-04,China,7.167999999999999
+1953-04,Indonesia,26.102
+1953-04,United States,7.45
+1953-05,China,14.025
+1953-05,Indonesia,26.09
+1953-05,United States,13.599
+1953-06,China,18.197
+1953-06,Indonesia,25.989
+1953-06,United States,19.755
+1953-07,China,20.385
+1953-07,Indonesia,25.327
+1953-07,United States,21.797
+1953-08,China,19.501
+1953-08,Indonesia,25.998
+1953-08,United States,20.485
+1953-09,China,14.37
+1953-09,Indonesia,25.977
+1953-09,United States,16.901
+1953-10,China,8.093
+1953-10,Indonesia,26.334000000000003
+1953-10,United States,10.635
+1953-11,China,-0.252
+1953-11,Indonesia,26.355
+1953-11,United States,3.907
+1953-12,China,-6.374
+1953-12,Indonesia,26.374
+1953-12,United States,-1.686
+1954-01,China,-8.431999999999999
+1954-01,Indonesia,26.072
+1954-01,United States,-3.65
+1954-02,China,-4.4830000000000005
+1954-02,Indonesia,26.092
+1954-02,United States,1.0099999999999998
+1954-03,China,0.216
+1954-03,Indonesia,26.284
+1954-03,United States,1.906
+1954-04,China,8.602
+1954-04,Indonesia,26.215
+1954-04,United States,9.447
+1954-05,China,12.817
+1954-05,Indonesia,26.141
+1954-05,United States,13.255999999999998
+1954-06,China,17.164
+1954-06,Indonesia,25.795
+1954-06,United States,18.885
+1954-07,China,19.25
+1954-07,Indonesia,25.159
+1954-07,United States,22.183000000000003
+1954-08,China,18.871
+1954-08,Indonesia,25.504
+1954-08,United States,20.645
+1954-09,China,14.657
+1954-09,Indonesia,25.768
+1954-09,United States,17.032
+1954-10,China,6.942
+1954-10,Indonesia,25.481
+1954-10,United States,10.369000000000002
+1954-11,China,0.757
+1954-11,Indonesia,25.768
+1954-11,United States,4.47
+1954-12,China,-9.909
+1954-12,Indonesia,25.513
+1954-12,United States,-2.6260000000000003
+1955-01,China,-10.274
+1955-01,Indonesia,25.593000000000004
+1955-01,United States,-3.365
+1955-02,China,-4.703
+1955-02,Indonesia,25.677
+1955-02,United States,-3.522
+1955-03,China,0.7530000000000001
+1955-03,Indonesia,25.964
+1955-03,United States,1.936
+1955-04,China,6.8900000000000015
+1955-04,Indonesia,25.803
+1955-04,United States,8.49
+1955-05,China,13.527
+1955-05,Indonesia,26.118
+1955-05,United States,14.205
+1955-06,China,17.75
+1955-06,Indonesia,25.638
+1955-06,United States,17.528
+1955-07,China,19.714
+1955-07,Indonesia,25.152
+1955-07,United States,21.839
+1955-08,China,19.212
+1955-08,Indonesia,25.26
+1955-08,United States,21.113000000000003
+1955-09,China,14.893
+1955-09,Indonesia,25.635
+1955-09,United States,16.674
+1955-10,China,7.385999999999999
+1955-10,Indonesia,25.733
+1955-10,United States,9.933
+1955-11,China,-0.278
+1955-11,Indonesia,25.686
+1955-11,United States,0.4500000000000002
+1955-12,China,-4.449999999999998
+1955-12,Indonesia,25.669
+1955-12,United States,-3.075
+1956-01,China,-9.78
+1956-01,Indonesia,25.279
+1956-01,United States,-3.87
+1956-02,China,-5.473000000000001
+1956-02,Indonesia,25.77
+1956-02,United States,-2.963
+1956-03,China,0.8620000000000001
+1956-03,Indonesia,25.967
+1956-03,United States,2.105
+1956-04,China,8.669
+1956-04,Indonesia,26.023000000000003
+1956-04,United States,7.338999999999999
+1956-05,China,13.384
+1956-05,Indonesia,26.007
+1956-05,United States,14.63
+1956-06,China,17.459
+1956-06,Indonesia,25.718000000000004
+1956-06,United States,19.444000000000003
+1956-07,China,19.755
+1956-07,Indonesia,25.436
+1956-07,United States,21.202
+1956-08,China,18.358
+1956-08,Indonesia,25.47
+1956-08,United States,20.219
+1956-09,China,14.62
+1956-09,Indonesia,25.582
+1956-09,United States,16.276
+1956-10,China,7.268
+1956-10,Indonesia,25.606
+1956-10,United States,10.165
+1956-11,China,-1.455
+1956-11,Indonesia,25.855
+1956-11,United States,1.466
+1956-12,China,-8.075
+1956-12,Indonesia,25.354000000000006
+1956-12,United States,-1.614
+1957-01,China,-8.322999999999999
+1957-01,Indonesia,25.706
+1957-01,United States,-4.243
+1957-02,China,-7.949
+1957-02,Indonesia,25.661
+1957-02,United States,0.2380000000000002
+1957-03,China,0.5140000000000001
+1957-03,Indonesia,25.93
+1957-03,United States,2.9130000000000003
+1957-04,China,7.858
+1957-04,Indonesia,26.103
+1957-04,United States,8.402999999999999
+1957-05,China,12.632
+1957-05,Indonesia,26.158
+1957-05,United States,13.753
+1957-06,China,17.346
+1957-06,Indonesia,26.194000000000003
+1957-06,United States,19.162
+1957-07,China,19.555
+1957-07,Indonesia,25.795
+1957-07,United States,21.762
+1957-08,China,18.59
+1957-08,Indonesia,25.695
+1957-08,United States,20.603
+1957-09,China,13.46
+1957-09,Indonesia,25.788
+1957-09,United States,16.008
+1957-10,China,6.93
+1957-10,Indonesia,26.074
+1957-10,United States,9.039
+1957-11,China,1.16
+1957-11,Indonesia,26.33
+1957-11,United States,2.819
+1957-12,China,-5.117
+1957-12,Indonesia,25.994
+1957-12,United States,-0.9409999999999998
+1958-01,China,-8.452
+1958-01,Indonesia,26.248
+1958-01,United States,-2.776
+1958-02,China,-5.127999999999999
+1958-02,Indonesia,26.171
+1958-02,United States,-2.256
+1958-03,China,2.032
+1958-03,Indonesia,26.423
+1958-03,United States,1.4489999999999998
+1958-04,China,9.056
+1958-04,Indonesia,26.375
+1958-04,United States,8.144
+1958-05,China,13.159
+1958-05,Indonesia,26.508000000000003
+1958-05,United States,14.859000000000002
+1958-06,China,17.831
+1958-06,Indonesia,26.311
+1958-06,United States,18.729
+1958-07,China,20.317
+1958-07,Indonesia,26.036
+1958-07,United States,21.098000000000003
+1958-08,China,17.973
+1958-08,Indonesia,25.632
+1958-08,United States,21.135
+1958-09,China,14.630999999999998
+1958-09,Indonesia,26.17
+1958-09,United States,16.522000000000002
+1958-10,China,7.068
+1958-10,Indonesia,26.1
+1958-10,United States,9.655
+1958-11,China,0.285
+1958-11,Indonesia,26.095
+1958-11,United States,3.4360000000000004
+1958-12,China,-4.369
+1958-12,Indonesia,25.962
+1958-12,United States,-2.353
+1959-01,China,-8.35
+1959-01,Indonesia,26.005
+1959-01,United States,-4.2730000000000015
+1959-02,China,-4.564
+1959-02,Indonesia,26.268
+1959-02,United States,-1.378
+1959-03,China,2.365
+1959-03,Indonesia,26.311
+1959-03,United States,1.606
+1959-04,China,9.035
+1959-04,Indonesia,26.02
+1959-04,United States,8.127
+1959-05,China,12.829
+1959-05,Indonesia,26.255
+1959-05,United States,14.24
+1959-06,China,17.405
+1959-06,Indonesia,25.839
+1959-06,United States,19.573
+1959-07,China,20.148
+1959-07,Indonesia,25.478
+1959-07,United States,21.11
+1959-08,China,19.289
+1959-08,Indonesia,25.42
+1959-08,United States,21.001
+1959-09,China,14.604
+1959-09,Indonesia,25.852
+1959-09,United States,16.171
+1959-10,China,8.578
+1959-10,Indonesia,26.06900000000001
+1959-10,United States,9.344
+1959-11,China,-0.7170000000000001
+1959-11,Indonesia,26.306
+1959-11,United States,1.602
+1959-12,China,-6.146
+1959-12,Indonesia,26.06900000000001
+1959-12,United States,-1.219
+1960-01,China,-8.562999999999999
+1960-01,Indonesia,25.908
+1960-01,United States,-3.791
+1960-02,China,-2.462
+1960-02,Indonesia,25.833
+1960-02,United States,-2.488
+1960-03,China,2.266
+1960-03,Indonesia,26.21
+1960-03,United States,-0.0380000000000002
+1960-04,China,7.19
+1960-04,Indonesia,26.251
+1960-04,United States,8.383000000000001
+1960-05,China,12.886
+1960-05,Indonesia,26.438
+1960-05,United States,13.757
+1960-06,China,17.832
+1960-06,Indonesia,25.863000000000003
+1960-06,United States,18.864
+1960-07,China,19.855
+1960-07,Indonesia,25.501
+1960-07,United States,21.568
+1960-08,China,18.978
+1960-08,Indonesia,25.952
+1960-08,United States,20.487
+1960-09,China,14.837
+1960-09,Indonesia,25.942
+1960-09,United States,16.785999999999998
+1960-10,China,7.097
+1960-10,Indonesia,26.263
+1960-10,United States,10.089
+1960-11,China,-0.477
+1960-11,Indonesia,26.12
+1960-11,United States,3.0610000000000004
+1960-12,China,-6.747999999999998
+1960-12,Indonesia,26.06900000000001
+1960-12,United States,-2.371
+1961-01,China,-8.349
+1961-01,Indonesia,25.563
+1961-01,United States,-3.139
+1961-02,China,-4.8950000000000005
+1961-02,Indonesia,25.904
+1961-02,United States,-0.421
+1961-03,China,1.6
+1961-03,Indonesia,26.09
+1961-03,United States,2.9
+1961-04,China,9.069
+1961-04,Indonesia,26.032
+1961-04,United States,6.758000000000001
+1961-05,China,13.533
+1961-05,Indonesia,26.278
+1961-05,United States,13.495
+1961-06,China,18.469
+1961-06,Indonesia,25.417
+1961-06,United States,19.164
+1961-07,China,20.397
+1961-07,Indonesia,25.252
+1961-07,United States,21.153
+1961-08,China,18.952
+1961-08,Indonesia,25.297
+1961-08,United States,20.716
+1961-09,China,14.515
+1961-09,Indonesia,25.601
+1961-09,United States,15.695
+1961-10,China,7.635
+1961-10,Indonesia,25.801
+1961-10,United States,9.336
+1961-11,China,0.447
+1961-11,Indonesia,26.156
+1961-11,United States,2.056
+1961-12,China,-6.766
+1961-12,Indonesia,25.869
+1961-12,United States,-4.009
+1962-01,China,-8.838999999999997
+1962-01,Indonesia,25.542
+1962-01,United States,-4.849
+1962-02,China,-4.235
+1962-02,Indonesia,25.56900000000001
+1962-02,United States,-0.3109999999999999
+1962-03,China,0.8010000000000002
+1962-03,Indonesia,25.827
+1962-03,United States,0.975
+1962-04,China,7.5310000000000015
+1962-04,Indonesia,25.811
+1962-04,United States,8.484
+1962-05,China,13.643
+1962-05,Indonesia,26.275
+1962-05,United States,14.61
+1962-06,China,17.559
+1962-06,Indonesia,25.709
+1962-06,United States,18.445
+1962-07,China,20.079
+1962-07,Indonesia,25.639
+1962-07,United States,20.931
+1962-08,China,18.881
+1962-08,Indonesia,25.324
+1962-08,United States,20.693
+1962-09,China,14.577
+1962-09,Indonesia,25.801
+1962-09,United States,15.776
+1962-10,China,7.512
+1962-10,Indonesia,26.055000000000003
+1962-10,United States,10.906
+1962-11,China,-1.171
+1962-11,Indonesia,26.201
+1962-11,United States,3.652
+1962-12,China,-5.893999999999999
+1962-12,Indonesia,25.72
+1962-12,United States,-1.834
+1963-01,China,-8.968
+1963-01,Indonesia,25.173
+1963-01,United States,-5.482
+1963-02,China,-4.502000000000002
+1963-02,Indonesia,25.388
+1963-02,United States,-1.122
+1963-03,China,2.739
+1963-03,Indonesia,25.749
+1963-03,United States,3.5860000000000003
+1963-04,China,7.657
+1963-04,Indonesia,26.156
+1963-04,United States,8.493
+1963-05,China,14.306
+1963-05,Indonesia,26.287
+1963-05,United States,14.458
+1963-06,China,17.698999999999995
+1963-06,Indonesia,25.979
+1963-06,United States,18.599
+1963-07,China,19.828
+1963-07,Indonesia,25.467
+1963-07,United States,21.405
+1963-08,China,19.229
+1963-08,Indonesia,25.503
+1963-08,United States,20.43
+1963-09,China,14.87
+1963-09,Indonesia,25.865
+1963-09,United States,17.133
+1963-10,China,7.3889999999999985
+1963-10,Indonesia,26.03
+1963-10,United States,12.124
+1963-11,China,0.483
+1963-11,Indonesia,26.486
+1963-11,United States,3.085
+1963-12,China,-6.1
+1963-12,Indonesia,25.98
+1963-12,United States,-3.749
+1964-01,China,-8.017000000000001
+1964-01,Indonesia,26.193
+1964-01,United States,-3.196
+1964-02,China,-7.904
+1964-02,Indonesia,26.094
+1964-02,United States,-2.786
+1964-03,China,1.916
+1964-03,Indonesia,26.062
+1964-03,United States,0.6829999999999999
+1964-04,China,9.384
+1964-04,Indonesia,26.156
+1964-04,United States,7.849
+1964-05,China,13.605
+1964-05,Indonesia,26.396
+1964-05,United States,13.925999999999998
+1964-06,China,17.278
+1964-06,Indonesia,25.653
+1964-06,United States,18.574
+1964-07,China,19.624
+1964-07,Indonesia,25.327
+1964-07,United States,21.909
+1964-08,China,19.021
+1964-08,Indonesia,25.581
+1964-08,United States,19.864
+1964-09,China,14.307
+1964-09,Indonesia,25.871
+1964-09,United States,15.84
+1964-10,China,7.822
+1964-10,Indonesia,25.622
+1964-10,United States,9.826
+1964-11,China,0.245
+1964-11,Indonesia,25.701
+1964-11,United States,3.129
+1964-12,China,-6.327999999999999
+1964-12,Indonesia,25.37
+1964-12,United States,-3.718
+1965-01,China,-6.920999999999999
+1965-01,Indonesia,25.151
+1965-01,United States,-3.1940000000000004
+1965-02,China,-4.807
+1965-02,Indonesia,25.648000000000003
+1965-02,United States,-3.053
+1965-03,China,0.6559999999999999
+1965-03,Indonesia,25.688
+1965-03,United States,0.8859999999999999
+1965-04,China,7.897
+1965-04,Indonesia,25.719
+1965-04,United States,8.701
+1965-05,China,13.958
+1965-05,Indonesia,25.953000000000003
+1965-05,United States,13.778
+1965-06,China,17.677
+1965-06,Indonesia,25.68
+1965-06,United States,17.768
+1965-07,China,19.55
+1965-07,Indonesia,25.246
+1965-07,United States,20.889
+1965-08,China,18.254
+1965-08,Indonesia,25.275
+1965-08,United States,19.91
+1965-09,China,14.03
+1965-09,Indonesia,25.784
+1965-09,United States,15.114
+1965-10,China,8.167
+1965-10,Indonesia,25.878
+1965-10,United States,9.579
+1965-11,China,0.431
+1965-11,Indonesia,26.429
+1965-11,United States,4.542
+1965-12,China,-7.292999999999998
+1965-12,Indonesia,25.97
+1965-12,United States,-1.148
+1966-01,China,-7.299999999999999
+1966-01,Indonesia,25.853
+1966-01,United States,-5.76
+1966-02,China,-3.0130000000000003
+1966-02,Indonesia,25.916
+1966-02,United States,-2.835
+1966-03,China,2.238
+1966-03,Indonesia,26.134
+1966-03,United States,2.514
+1966-04,China,7.7440000000000015
+1966-04,Indonesia,26.187
+1966-04,United States,7.417000000000002
+1966-05,China,13.51
+1966-05,Indonesia,26.348000000000003
+1966-05,United States,13.581
+1966-06,China,17.758
+1966-06,Indonesia,25.73
+1966-06,United States,18.61
+1966-07,China,19.673
+1966-07,Indonesia,25.572
+1966-07,United States,22.124
+1966-08,China,19.415
+1966-08,Indonesia,25.753
+1966-08,United States,19.87
+1966-09,China,13.825
+1966-09,Indonesia,26.11
+1966-09,United States,16.296
+1966-10,China,7.532999999999999
+1966-10,Indonesia,25.897
+1966-10,United States,8.996
+1966-11,China,-0.34
+1966-11,Indonesia,26.043000000000003
+1966-11,United States,3.6010000000000004
+1966-12,China,-7.499
+1966-12,Indonesia,25.784
+1966-12,United States,-2.6180000000000003
+1967-01,China,-8.972000000000001
+1967-01,Indonesia,25.57
+1967-01,United States,-2.269
+1967-02,China,-5.767
+1967-02,Indonesia,25.782
+1967-02,United States,-2.063
+1967-03,China,1.469
+1967-03,Indonesia,25.997
+1967-03,United States,4.049
+1967-04,China,7.867999999999999
+1967-04,Indonesia,25.906
+1967-04,United States,8.471
+1967-05,China,14.741
+1967-05,Indonesia,26.149
+1967-05,United States,12.777
+1967-06,China,17.634
+1967-06,Indonesia,25.722
+1967-06,United States,18.446
+1967-07,China,19.888
+1967-07,Indonesia,25.422
+1967-07,United States,20.935
+1967-08,China,19.27
+1967-08,Indonesia,25.717
+1967-08,United States,20.188
+1967-09,China,13.86
+1967-09,Indonesia,25.828000000000003
+1967-09,United States,15.993
+1967-10,China,7.369999999999999
+1967-10,Indonesia,26.024
+1967-10,United States,9.599
+1967-11,China,-2.015
+1967-11,Indonesia,26.158
+1967-11,United States,3.057
+1967-12,China,-8.515
+1967-12,Indonesia,25.746
+1967-12,United States,-2.359
+1968-01,China,-8.414
+1968-01,Indonesia,25.606
+1968-01,United States,-4.093
+1968-02,China,-7.572999999999999
+1968-02,Indonesia,25.756
+1968-02,United States,-2.287
+1968-03,China,2.323
+1968-03,Indonesia,26.116
+1968-03,United States,3.935
+1968-04,China,7.9540000000000015
+1968-04,Indonesia,26.065
+1968-04,United States,7.782999999999999
+1968-05,China,13.703
+1968-05,Indonesia,26.254
+1968-05,United States,12.994000000000002
+1968-06,China,17.737000000000002
+1968-06,Indonesia,26.031
+1968-06,United States,18.754
+1968-07,China,19.733
+1968-07,Indonesia,25.736
+1968-07,United States,21.389
+1968-08,China,18.171
+1968-08,Indonesia,25.848000000000003
+1968-08,United States,20.077
+1968-09,China,14.037
+1968-09,Indonesia,26.112
+1968-09,United States,15.702
+1968-10,China,6.864
+1968-10,Indonesia,26.024
+1968-10,United States,9.857
+1968-11,China,0.7659999999999999
+1968-11,Indonesia,26.039
+1968-11,United States,2.595
+1968-12,China,-4.577
+1968-12,Indonesia,25.826
+1968-12,United States,-4.067
+1969-01,China,-9.202
+1969-01,Indonesia,25.988000000000003
+1969-01,United States,-4.5230000000000015
+1969-02,China,-7.561
+1969-02,Indonesia,26.121
+1969-02,United States,-2.224
+1969-03,China,1.606
+1969-03,Indonesia,26.503
+1969-03,United States,0.3369999999999997
+1969-04,China,8.244
+1969-04,Indonesia,26.455
+1969-04,United States,9.306
+1969-05,China,14.48
+1969-05,Indonesia,26.611
+1969-05,United States,14.758
+1969-06,China,17.134999999999998
+1969-06,Indonesia,26.146
+1969-06,United States,18.272
+1969-07,China,19.662
+1969-07,Indonesia,25.486
+1969-07,United States,21.605
+1969-08,China,18.49
+1969-08,Indonesia,25.703000000000003
+1969-08,United States,20.625
+1969-09,China,14.071
+1969-09,Indonesia,26.048
+1969-09,United States,16.803
+1969-10,China,8.094
+1969-10,Indonesia,26.034
+1969-10,United States,8.888
+1969-11,China,-0.8640000000000001
+1969-11,Indonesia,26.257
+1969-11,United States,2.448
+1969-12,China,-6.683
+1969-12,Indonesia,26.00500000000001
+1969-12,United States,-1.045
+1970-01,China,-8.788
+1970-01,Indonesia,26.043000000000003
+1970-01,United States,-5.642
+1970-02,China,-4.4460000000000015
+1970-02,Indonesia,26.277
+1970-02,United States,-0.2530000000000001
+1970-03,China,-1.251
+1970-03,Indonesia,26.459
+1970-03,United States,1.783
+1970-04,China,7.751
+1970-04,Indonesia,26.373
+1970-04,United States,7.388999999999999
+1970-05,China,14.01
+1970-05,Indonesia,26.445
+1970-05,United States,14.433
+1970-06,China,17.249000000000002
+1970-06,Indonesia,26.15
+1970-06,United States,18.803
+1970-07,China,19.75
+1970-07,Indonesia,25.559
+1970-07,United States,21.56
+1970-08,China,19.151
+1970-08,Indonesia,25.629
+1970-08,United States,21.043000000000003
+1970-09,China,14.111
+1970-09,Indonesia,26.013
+1970-09,United States,15.814
+1970-10,China,7.471
+1970-10,Indonesia,26.149
+1970-10,United States,8.286
+1970-11,China,-0.305
+1970-11,Indonesia,26.055
+1970-11,United States,2.969
+1970-12,China,-5.885
+1970-12,Indonesia,25.57
+1970-12,United States,-2.109
+1971-01,China,-8.171999999999999
+1971-01,Indonesia,25.525
+1971-01,United States,-5.1850000000000005
+1971-02,China,-5.394
+1971-02,Indonesia,25.56900000000001
+1971-02,United States,-2.323
+1971-03,China,1.0
+1971-03,Indonesia,25.86
+1971-03,United States,1.0279999999999998
+1971-04,China,8.562999999999999
+1971-04,Indonesia,26.048
+1971-04,United States,7.412000000000001
+1971-05,China,13.427
+1971-05,Indonesia,26.285
+1971-05,United States,12.763
+1971-06,China,17.662
+1971-06,Indonesia,25.679
+1971-06,United States,19.337
+1971-07,China,19.984
+1971-07,Indonesia,25.524
+1971-07,United States,20.903
+1971-08,China,18.613
+1971-08,Indonesia,25.566
+1971-08,United States,20.418
+1971-09,China,13.982
+1971-09,Indonesia,26.006
+1971-09,United States,16.014
+1971-10,China,7.3599999999999985
+1971-10,Indonesia,25.953000000000007
+1971-10,United States,10.097
+1971-11,China,0.7909999999999999
+1971-11,Indonesia,25.806
+1971-11,United States,2.545
+1971-12,China,-5.6610000000000005
+1971-12,Indonesia,25.69400000000001
+1971-12,United States,-1.6989999999999998
+1972-01,China,-6.803999999999999
+1972-01,Indonesia,25.448
+1972-01,United States,-4.279
+1972-02,China,-7.086
+1972-02,Indonesia,25.977
+1972-02,United States,-2.286
+1972-03,China,2.6180000000000003
+1972-03,Indonesia,25.912
+1972-03,United States,2.838
+1972-04,China,7.711
+1972-04,Indonesia,25.96
+1972-04,United States,7.358
+1972-05,China,14.191
+1972-05,Indonesia,26.188
+1972-05,United States,14.0
+1972-06,China,17.999000000000002
+1972-06,Indonesia,25.926
+1972-06,United States,18.57
+1972-07,China,19.64
+1972-07,Indonesia,25.921
+1972-07,United States,21.074
+1972-08,China,18.843
+1972-08,Indonesia,25.92
+1972-08,United States,20.579
+1972-09,China,13.556
+1972-09,Indonesia,26.021
+1972-09,United States,15.962
+1972-10,China,7.166
+1972-10,Indonesia,26.33
+1972-10,United States,9.1
+1972-11,China,-0.065
+1972-11,Indonesia,26.716
+1972-11,United States,1.6780000000000002
+1972-12,China,-5.996
+1972-12,Indonesia,26.424000000000003
+1972-12,United States,-3.457
+1973-01,China,-7.274999999999999
+1973-01,Indonesia,26.233
+1973-01,United States,-4.54
+1973-02,China,-3.4390000000000005
+1973-02,Indonesia,26.543000000000003
+1973-02,United States,-1.62
+1973-03,China,2.126
+1973-03,Indonesia,26.372
+1973-03,United States,3.725
+1973-04,China,9.17
+1973-04,Indonesia,26.477
+1973-04,United States,7.218
+1973-05,China,13.396
+1973-05,Indonesia,26.416
+1973-05,United States,13.492
+1973-06,China,17.494
+1973-06,Indonesia,26.4
+1973-06,United States,18.945
+1973-07,China,19.847
+1973-07,Indonesia,25.983
+1973-07,United States,21.242
+1973-08,China,19.015
+1973-08,Indonesia,25.992
+1973-08,United States,20.62
+1973-09,China,14.595999999999998
+1973-09,Indonesia,26.031
+1973-09,United States,16.186
+1973-10,China,7.093999999999999
+1973-10,Indonesia,26.298
+1973-10,United States,10.539
+1973-11,China,0.602
+1973-11,Indonesia,26.249
+1973-11,United States,3.031
+1973-12,China,-6.111000000000001
+1973-12,Indonesia,25.668000000000006
+1973-12,United States,-1.622
+1974-01,China,-7.959
+1974-01,Indonesia,25.532
+1974-01,United States,-3.583
+1974-02,China,-5.948
+1974-02,Indonesia,25.588
+1974-02,United States,-2.291
+1974-03,China,0.6970000000000002
+1974-03,Indonesia,25.932
+1974-03,United States,3.758
+1974-04,China,9.165
+1974-04,Indonesia,26.06600000000001
+1974-04,United States,8.402000000000001
+1974-05,China,14.196
+1974-05,Indonesia,26.352
+1974-05,United States,14.143
+1974-06,China,17.379
+1974-06,Indonesia,25.852
+1974-06,United States,18.66
+1974-07,China,19.836
+1974-07,Indonesia,25.471
+1974-07,United States,21.704
+1974-08,China,18.471
+1974-08,Indonesia,25.913
+1974-08,United States,19.923
+1974-09,China,14.154000000000002
+1974-09,Indonesia,25.986
+1974-09,United States,15.458
+1974-10,China,7.342
+1974-10,Indonesia,26.099
+1974-10,United States,9.32
+1974-11,China,0.677
+1974-11,Indonesia,26.223000000000003
+1974-11,United States,2.773
+1974-12,China,-8.097000000000001
+1974-12,Indonesia,25.751
+1974-12,United States,-2.476
+1975-01,China,-7.321999999999999
+1975-01,Indonesia,25.823
+1975-01,United States,-3.216
+1975-02,China,-4.449000000000002
+1975-02,Indonesia,25.854000000000006
+1975-02,United States,-2.34
+1975-03,China,2.347
+1975-03,Indonesia,25.979
+1975-03,United States,1.44
+1975-04,China,8.591000000000001
+1975-04,Indonesia,26.266
+1975-04,United States,5.968
+1975-05,China,12.962
+1975-05,Indonesia,26.245
+1975-05,United States,13.956
+1975-06,China,17.979
+1975-06,Indonesia,25.864
+1975-06,United States,18.198
+1975-07,China,19.634
+1975-07,Indonesia,25.509
+1975-07,United States,21.53
+1975-08,China,19.397
+1975-08,Indonesia,25.947
+1975-08,United States,20.285
+1975-09,China,15.296
+1975-09,Indonesia,25.913
+1975-09,United States,15.289
+1975-10,China,8.464
+1975-10,Indonesia,25.915000000000006
+1975-10,United States,9.844
+1975-11,China,0.118
+1975-11,Indonesia,25.873
+1975-11,United States,2.4290000000000003
+1975-12,China,-7.805999999999999
+1975-12,Indonesia,25.594
+1975-12,United States,-2.211
+1976-01,China,-7.523
+1976-01,Indonesia,25.154
+1976-01,United States,-3.876
+1976-02,China,-3.1420000000000003
+1976-02,Indonesia,25.539
+1976-02,United States,0.2559999999999998
+1976-03,China,0.416
+1976-03,Indonesia,25.747
+1976-03,United States,2.94
+1976-04,China,7.422999999999999
+1976-04,Indonesia,25.964
+1976-04,United States,8.575000000000001
+1976-05,China,13.68
+1976-05,Indonesia,26.286
+1976-05,United States,13.308
+1976-06,China,16.916
+1976-06,Indonesia,25.663
+1976-06,United States,18.448
+1976-07,China,18.9
+1976-07,Indonesia,25.44
+1976-07,United States,21.201
+1976-08,China,17.986
+1976-08,Indonesia,25.567
+1976-08,United States,20.131
+1976-09,China,14.043
+1976-09,Indonesia,26.136
+1976-09,United States,16.176
+1976-10,China,7.582000000000001
+1976-10,Indonesia,25.864
+1976-10,United States,7.818
+1976-11,China,-1.744
+1976-11,Indonesia,26.117
+1976-11,United States,1.913
+1976-12,China,-6.882999999999999
+1976-12,Indonesia,25.893
+1976-12,United States,-3.075
+1977-01,China,-10.341
+1977-01,Indonesia,25.742
+1977-01,United States,-5.601
+1977-02,China,-5.9540000000000015
+1977-02,Indonesia,25.443
+1977-02,United States,0.2709999999999999
+1977-03,China,2.237
+1977-03,Indonesia,25.879
+1977-03,United States,2.918
+1977-04,China,8.407
+1977-04,Indonesia,26.119
+1977-04,United States,9.153
+1977-05,China,13.219
+1977-05,Indonesia,26.19
+1977-05,United States,14.556
+1977-06,China,17.498
+1977-06,Indonesia,25.714
+1977-06,United States,19.741
+1977-07,China,19.908
+1977-07,Indonesia,25.61
+1977-07,United States,22.083
+1977-08,China,18.835
+1977-08,Indonesia,25.41
+1977-08,United States,20.909
+1977-09,China,14.858
+1977-09,Indonesia,26.139
+1977-09,United States,17.025
+1977-10,China,8.392000000000001
+1977-10,Indonesia,26.142000000000003
+1977-10,United States,9.815
+1977-11,China,0.356
+1977-11,Indonesia,26.426
+1977-11,United States,2.694
+1977-12,China,-5.199
+1977-12,Indonesia,26.016
+1977-12,United States,-2.326
+1978-01,China,-9.151
+1978-01,Indonesia,25.802
+1978-01,United States,-4.646000000000001
+1978-02,China,-6.114000000000001
+1978-02,Indonesia,25.971
+1978-02,United States,-3.857
+1978-03,China,1.2440000000000002
+1978-03,Indonesia,26.201
+1978-03,United States,2.819
+1978-04,China,8.994
+1978-04,Indonesia,26.102
+1978-04,United States,8.736
+1978-05,China,14.237
+1978-05,Indonesia,26.534
+1978-05,United States,13.89
+1978-06,China,18.267
+1978-06,Indonesia,25.992
+1978-06,United States,18.872
+1978-07,China,20.09
+1978-07,Indonesia,25.693
+1978-07,United States,21.733
+1978-08,China,19.09
+1978-08,Indonesia,26.092
+1978-08,United States,20.653
+1978-09,China,14.464
+1978-09,Indonesia,25.752
+1978-09,United States,17.028
+1978-10,China,7.537000000000001
+1978-10,Indonesia,25.841
+1978-10,United States,9.73
+1978-11,China,0.6809999999999999
+1978-11,Indonesia,26.095
+1978-11,United States,3.1860000000000004
+1978-12,China,-4.760999999999999
+1978-12,Indonesia,25.746
+1978-12,United States,-3.127
+1979-01,China,-6.856
+1979-01,Indonesia,25.898000000000003
+1979-01,United States,-6.62
+1979-02,China,-3.212
+1979-02,Indonesia,26.081
+1979-02,United States,-5.276
+1979-03,China,0.908
+1979-03,Indonesia,26.136
+1979-03,United States,3.175
+1979-04,China,8.015
+1979-04,Indonesia,26.263
+1979-04,United States,7.974
+1979-05,China,13.545
+1979-05,Indonesia,26.592
+1979-05,United States,13.758
+1979-06,China,17.922
+1979-06,Indonesia,26.082
+1979-06,United States,18.514
+1979-07,China,19.263
+1979-07,Indonesia,25.536
+1979-07,United States,21.439
+1979-08,China,18.727
+1979-08,Indonesia,26.046
+1979-08,United States,20.371
+1979-09,China,13.53
+1979-09,Indonesia,26.02
+1979-09,United States,17.086
+1979-10,China,8.407
+1979-10,Indonesia,26.172
+1979-10,United States,10.821
+1979-11,China,-0.684
+1979-11,Indonesia,26.136
+1979-11,United States,2.972
+1979-12,China,-4.675999999999998
+1979-12,Indonesia,25.758000000000006
+1979-12,United States,-1.355
+1980-01,China,-8.221
+1980-01,Indonesia,25.748
+1980-01,United States,-3.5170000000000003
+1980-02,China,-5.497000000000001
+1980-02,Indonesia,25.904
+1980-02,United States,-1.325
+1980-03,China,0.8130000000000001
+1980-03,Indonesia,26.037
+1980-03,United States,2.073
+1980-04,China,7.686
+1980-04,Indonesia,26.241
+1980-04,United States,8.601
+1980-05,China,14.046
+1980-05,Indonesia,26.579
+1980-05,United States,14.167
+1980-06,China,18.004
+1980-06,Indonesia,26.102
+1980-06,United States,18.939
+1980-07,China,19.859
+1980-07,Indonesia,25.973000000000003
+1980-07,United States,22.544
+1980-08,China,18.479
+1980-08,Indonesia,25.691
+1980-08,United States,20.776
+1980-09,China,13.959
+1980-09,Indonesia,26.14
+1980-09,United States,16.791
+1980-10,China,7.595
+1980-10,Indonesia,26.096
+1980-10,United States,9.348
+1980-11,China,2.37
+1980-11,Indonesia,26.068
+1980-11,United States,3.42
+1980-12,China,-5.692
+1980-12,Indonesia,25.784
+1980-12,United States,-2.191
+1981-01,China,-8.200999999999999
+1981-01,Indonesia,25.55
+1981-01,United States,-0.9960000000000004
+1981-02,China,-4.3950000000000005
+1981-02,Indonesia,25.832
+1981-02,United States,0.0219999999999998
+1981-03,China,2.688
+1981-03,Indonesia,26.204
+1981-03,United States,4.221
+1981-04,China,9.319
+1981-04,Indonesia,26.053
+1981-04,United States,10.178
+1981-05,China,13.85
+1981-05,Indonesia,26.457
+1981-05,United States,13.88
+1981-06,China,18.201
+1981-06,Indonesia,26.219
+1981-06,United States,19.467
+1981-07,China,20.424
+1981-07,Indonesia,25.877
+1981-07,United States,21.562
+1981-08,China,18.855
+1981-08,Indonesia,26.325
+1981-08,United States,20.495
+1981-09,China,14.175
+1981-09,Indonesia,25.892
+1981-09,United States,16.223
+1981-10,China,6.412000000000001
+1981-10,Indonesia,26.081000000000003
+1981-10,United States,9.072
+1981-11,China,-1.55
+1981-11,Indonesia,26.141
+1981-11,United States,4.343999999999999
+1981-12,China,-6.6610000000000005
+1981-12,Indonesia,25.74
+1981-12,United States,-1.81
+1982-01,China,-6.396999999999999
+1982-01,Indonesia,25.637
+1982-01,United States,-5.792999999999999
+1982-02,China,-4.266
+1982-02,Indonesia,25.85
+1982-02,United States,-2.141
+1982-03,China,1.925
+1982-03,Indonesia,25.933000000000003
+1982-03,United States,3.048
+1982-04,China,8.089
+1982-04,Indonesia,26.131
+1982-04,United States,6.7360000000000015
+1982-05,China,13.996
+1982-05,Indonesia,26.302
+1982-05,United States,14.001
+1982-06,China,17.438
+1982-06,Indonesia,25.933000000000003
+1982-06,United States,17.84
+1982-07,China,19.73
+1982-07,Indonesia,25.588
+1982-07,United States,21.383000000000003
+1982-08,China,18.984
+1982-08,Indonesia,25.503
+1982-08,United States,20.56
+1982-09,China,13.864
+1982-09,Indonesia,25.86
+1982-09,United States,16.061
+1982-10,China,8.77
+1982-10,Indonesia,25.916
+1982-10,United States,8.802
+1982-11,China,0.195
+1982-11,Indonesia,26.338
+1982-11,United States,2.43
+1982-12,China,-6.531000000000001
+1982-12,Indonesia,26.31
+1982-12,United States,-0.4530000000000001
+1983-01,China,-7.973999999999998
+1983-01,Indonesia,26.146
+1983-01,United States,-2.596
+1983-02,China,-5.7970000000000015
+1983-02,Indonesia,26.484
+1983-02,United States,0.026
+1983-03,China,1.2120000000000002
+1983-03,Indonesia,26.959
+1983-03,United States,3.227
+1983-04,China,7.824000000000002
+1983-04,Indonesia,26.742
+1983-04,United States,6.625
+1983-05,China,14.105
+1983-05,Indonesia,26.463
+1983-05,United States,13.011
+1983-06,China,17.169
+1983-06,Indonesia,26.213
+1983-06,United States,18.284
+1983-07,China,19.43
+1983-07,Indonesia,25.751
+1983-07,United States,21.787
+1983-08,China,18.998
+1983-08,Indonesia,25.966
+1983-08,United States,21.763
+1983-09,China,15.117
+1983-09,Indonesia,26.086
+1983-09,United States,16.346
+1983-10,China,8.061
+1983-10,Indonesia,26.13000000000001
+1983-10,United States,9.854
+1983-11,China,0.941
+1983-11,Indonesia,26.175
+1983-11,United States,3.759
+1983-12,China,-5.984999999999999
+1983-12,Indonesia,25.745
+1983-12,United States,-5.138
+1984-01,China,-9.268
+1984-01,Indonesia,25.597
+1984-01,United States,-4.207
+1984-02,China,-6.3500000000000005
+1984-02,Indonesia,25.509
+1984-02,United States,-1.015
+1984-03,China,1.1700000000000002
+1984-03,Indonesia,25.911
+1984-03,United States,2.553
+1984-04,China,8.207
+1984-04,Indonesia,25.91
+1984-04,United States,7.175000000000002
+1984-05,China,14.037
+1984-05,Indonesia,25.968000000000004
+1984-05,United States,13.769
+1984-06,China,17.852999999999994
+1984-06,Indonesia,25.766
+1984-06,United States,19.035
+1984-07,China,19.367
+1984-07,Indonesia,25.339
+1984-07,United States,21.264
+1984-08,China,18.767
+1984-08,Indonesia,25.761
+1984-08,United States,20.886
+1984-09,China,13.812
+1984-09,Indonesia,25.583
+1984-09,United States,15.677
+1984-10,China,7.451
+1984-10,Indonesia,25.97300000000001
+1984-10,United States,9.514
+1984-11,China,0.7090000000000001
+1984-11,Indonesia,26.177
+1984-11,United States,2.373
+1984-12,China,-7.539999999999999
+1984-12,Indonesia,25.785
+1984-12,United States,-1.2899999999999998
+1985-01,China,-8.546
+1985-01,Indonesia,25.863000000000003
+1985-01,United States,-4.019
+1985-02,China,-4.803000000000001
+1985-02,Indonesia,26.206
+1985-02,United States,-3.455
+1985-03,China,0.1520000000000001
+1985-03,Indonesia,26.211
+1985-03,United States,3.677
+1985-04,China,8.886000000000003
+1985-04,Indonesia,26.146
+1985-04,United States,8.709
+1985-05,China,14.114
+1985-05,Indonesia,26.436
+1985-05,United States,14.656
+1985-06,China,17.567999999999998
+1985-06,Indonesia,26.001
+1985-06,United States,18.462
+1985-07,China,19.529
+1985-07,Indonesia,25.221
+1985-07,United States,21.758000000000003
+1985-08,China,19.376
+1985-08,Indonesia,25.802
+1985-08,United States,20.02
+1985-09,China,13.594
+1985-09,Indonesia,25.795
+1985-09,United States,15.271
+1985-10,China,8.09
+1985-10,Indonesia,26.06600000000001
+1985-10,United States,9.435
+1985-11,China,-0.3289999999999999
+1985-11,Indonesia,26.127
+1985-11,United States,1.545
+1985-12,China,-6.747999999999998
+1985-12,Indonesia,26.055
+1985-12,United States,-3.015
+1986-01,China,-7.4049999999999985
+1986-01,Indonesia,25.736
+1986-01,United States,-1.274
+1986-02,China,-5.024
+1986-02,Indonesia,25.778
+1986-02,United States,-0.175
+1986-03,China,1.404
+1986-03,Indonesia,25.823
+1986-03,United States,4.471
+1986-04,China,7.735
+1986-04,Indonesia,26.087
+1986-04,United States,8.394
+1986-05,China,14.264
+1986-05,Indonesia,26.675
+1986-05,United States,14.245
+1986-06,China,18.049
+1986-06,Indonesia,26.253
+1986-06,United States,19.789
+1986-07,China,19.758
+1986-07,Indonesia,25.913
+1986-07,United States,21.544
+1986-08,China,18.668
+1986-08,Indonesia,26.102
+1986-08,United States,20.188
+1986-09,China,14.067
+1986-09,Indonesia,26.117
+1986-09,United States,15.92
+1986-10,China,6.862
+1986-10,Indonesia,26.040000000000006
+1986-10,United States,9.691
+1986-11,China,-0.455
+1986-11,Indonesia,26.07
+1986-11,United States,2.504
+1986-12,China,-5.481
+1986-12,Indonesia,26.092
+1986-12,United States,-0.583
+1987-01,China,-6.791
+1987-01,Indonesia,25.681
+1987-01,United States,-2.5250000000000004
+1987-02,China,-2.9230000000000005
+1987-02,Indonesia,25.874
+1987-02,United States,0.2569999999999997
+1987-03,China,1.449
+1987-03,Indonesia,26.433000000000003
+1987-03,United States,3.266
+1987-04,China,8.481
+1987-04,Indonesia,26.408
+1987-04,United States,9.16
+1987-05,China,13.445
+1987-05,Indonesia,26.624
+1987-05,United States,15.258
+1987-06,China,17.415
+1987-06,Indonesia,26.761
+1987-06,United States,19.63
+1987-07,China,19.76
+1987-07,Indonesia,26.262
+1987-07,United States,21.479
+1987-08,China,18.848
+1987-08,Indonesia,26.199
+1987-08,United States,20.587
+1987-09,China,14.575
+1987-09,Indonesia,26.561
+1987-09,United States,16.371
+1987-10,China,7.842
+1987-10,Indonesia,26.712000000000003
+1987-10,United States,9.653
+1987-11,China,0.125
+1987-11,Indonesia,26.664
+1987-11,United States,3.835
+1987-12,China,-5.238
+1987-12,Indonesia,26.241
+1987-12,United States,-1.4329999999999998
+1988-01,China,-6.619999999999999
+1988-01,Indonesia,26.31
+1988-01,United States,-4.263
+1988-02,China,-5.388999999999999
+1988-02,Indonesia,26.307
+1988-02,United States,-1.361
+1988-03,China,-0.0189999999999999
+1988-03,Indonesia,26.623
+1988-03,United States,3.252
+1988-04,China,8.287
+1988-04,Indonesia,26.67
+1988-04,United States,8.686
+1988-05,China,13.628
+1988-05,Indonesia,26.785
+1988-05,United States,14.642
+1988-06,China,18.345
+1988-06,Indonesia,26.188
+1988-06,United States,20.021
+1988-07,China,20.304
+1988-07,Indonesia,25.945
+1988-07,United States,22.243
+1988-08,China,18.9
+1988-08,Indonesia,25.922
+1988-08,United States,21.295
+1988-09,China,14.684
+1988-09,Indonesia,26.269
+1988-09,United States,16.160999999999998
+1988-10,China,8.116
+1988-10,Indonesia,26.258000000000006
+1988-10,United States,9.22
+1988-11,China,0.912
+1988-11,Indonesia,26.195
+1988-11,United States,2.9090000000000003
+1988-12,China,-4.497999999999998
+1988-12,Indonesia,25.536
+1988-12,United States,-1.501
+1989-01,China,-7.393999999999999
+1989-01,Indonesia,26.07
+1989-01,United States,-3.103
+1989-02,China,-4.452
+1989-02,Indonesia,25.78
+1989-02,United States,-2.817
+1989-03,China,1.814
+1989-03,Indonesia,25.94
+1989-03,United States,3.12
+1989-04,China,8.282
+1989-04,Indonesia,26.088
+1989-04,United States,9.439
+1989-05,China,14.05
+1989-05,Indonesia,26.426
+1989-05,United States,14.031
+1989-06,China,17.467
+1989-06,Indonesia,26.033
+1989-06,United States,18.698
+1989-07,China,19.579
+1989-07,Indonesia,25.907
+1989-07,United States,21.974
+1989-08,China,18.744
+1989-08,Indonesia,25.982
+1989-08,United States,20.469
+1989-09,China,14.648
+1989-09,Indonesia,26.04
+1989-09,United States,16.236
+1989-10,China,8.564
+1989-10,Indonesia,26.167
+1989-10,United States,9.901
+1989-11,China,0.062
+1989-11,Indonesia,26.241
+1989-11,United States,2.597
+1989-12,China,-4.486999999999999
+1989-12,Indonesia,25.974
+1989-12,United States,-4.0680000000000005
+1990-01,China,-7.151
+1990-01,Indonesia,25.717
+1990-01,United States,-1.1230000000000002
+1990-02,China,-3.761
+1990-02,Indonesia,26.373
+1990-02,United States,-1.747
+1990-03,China,2.889
+1990-03,Indonesia,26.386
+1990-03,United States,4.465
+1990-04,China,7.676
+1990-04,Indonesia,26.715
+1990-04,United States,9.38
+1990-05,China,13.765
+1990-05,Indonesia,26.7
+1990-05,United States,13.772
+1990-06,China,18.192
+1990-06,Indonesia,26.359
+1990-06,United States,19.78
+1990-07,China,19.863
+1990-07,Indonesia,25.775
+1990-07,United States,21.605
+1990-08,China,19.25
+1990-08,Indonesia,26.103
+1990-08,United States,20.857
+1990-09,China,14.892
+1990-09,Indonesia,26.142
+1990-09,United States,17.457
+1990-10,China,8.579
+1990-10,Indonesia,26.154
+1990-10,United States,9.592
+1990-11,China,2.103
+1990-11,Indonesia,26.507
+1990-11,United States,3.622
+1990-12,China,-4.664999999999999
+1990-12,Indonesia,25.923
+1990-12,United States,-3.401
+1991-01,China,-7.524999999999999
+1991-01,Indonesia,25.978
+1991-01,United States,-3.859
+1991-02,China,-3.9250000000000007
+1991-02,Indonesia,26.046
+1991-02,United States,1.043
+1991-03,China,1.5810000000000002
+1991-03,Indonesia,26.277
+1991-03,United States,3.496
+1991-04,China,8.078000000000001
+1991-04,Indonesia,26.16
+1991-04,United States,9.144
+1991-05,China,13.679
+1991-05,Indonesia,26.386
+1991-05,United States,15.076
+1991-06,China,18.004
+1991-06,Indonesia,26.313
+1991-06,United States,19.335
+1991-07,China,20.059
+1991-07,Indonesia,25.774
+1991-07,United States,21.616
+1991-08,China,18.904
+1991-08,Indonesia,25.87
+1991-08,United States,20.866
+1991-09,China,14.517
+1991-09,Indonesia,26.082
+1991-09,United States,16.607
+1991-10,China,7.625999999999999
+1991-10,Indonesia,26.061
+1991-10,United States,10.154
+1991-11,China,0.087
+1991-11,Indonesia,26.077
+1991-11,United States,1.4780000000000002
+1991-12,China,-5.919
+1991-12,Indonesia,25.878
+1991-12,United States,-1.0319999999999998
+1992-01,China,-7.318
+1992-01,Indonesia,26.06
+1992-01,United States,-1.7390000000000003
+1992-02,China,-4.629
+1992-02,Indonesia,26.228
+1992-02,United States,0.6619999999999999
+1992-03,China,1.406
+1992-03,Indonesia,26.554
+1992-03,United States,4.227
+1992-04,China,9.359
+1992-04,Indonesia,26.576
+1992-04,United States,8.729000000000001
+1992-05,China,13.682
+1992-05,Indonesia,26.628
+1992-05,United States,14.029000000000002
+1992-06,China,17.22
+1992-06,Indonesia,26.246
+1992-06,United States,18.477
+1992-07,China,19.272
+1992-07,Indonesia,25.693
+1992-07,United States,20.595
+1992-08,China,18.496
+1992-08,Indonesia,25.959
+1992-08,United States,19.492
+1992-09,China,14.042
+1992-09,Indonesia,26.202
+1992-09,United States,15.458
+1992-10,China,6.686999999999999
+1992-10,Indonesia,26.06900000000001
+1992-10,United States,9.527
+1992-11,China,-0.5650000000000001
+1992-11,Indonesia,26.084
+1992-11,United States,2.125
+1992-12,China,-5.350999999999999
+1992-12,Indonesia,25.743
+1992-12,United States,-2.906
+1993-01,China,-8.565999999999999
+1993-01,Indonesia,25.866
+1993-01,United States,-3.498
+1993-02,China,-2.4120000000000004
+1993-02,Indonesia,26.01
+1993-02,United States,-2.381
+1993-03,China,2.478
+1993-03,Indonesia,26.023000000000003
+1993-03,United States,3.195
+1993-04,China,8.267999999999999
+1993-04,Indonesia,26.172
+1993-04,United States,8.246
+1993-05,China,13.219
+1993-05,Indonesia,26.455
+1993-05,United States,14.63
+1993-06,China,17.599
+1993-06,Indonesia,26.275
+1993-06,United States,18.459
+1993-07,China,19.234
+1993-07,Indonesia,25.833
+1993-07,United States,21.254
+1993-08,China,17.883
+1993-08,Indonesia,26.064
+1993-08,United States,20.486
+1993-09,China,14.403
+1993-09,Indonesia,26.101
+1993-09,United States,15.534
+1993-10,China,7.196000000000001
+1993-10,Indonesia,26.203000000000007
+1993-10,United States,9.591
+1993-11,China,-0.121
+1993-11,Indonesia,26.488000000000003
+1993-11,United States,1.893
+1993-12,China,-6.148
+1993-12,Indonesia,26.176
+1993-12,United States,-1.0019999999999998
+1994-01,China,-7.049
+1994-01,Indonesia,25.909
+1994-01,United States,-3.729
+1994-02,China,-4.1480000000000015
+1994-02,Indonesia,26.19
+1994-02,United States,-2.622
+1994-03,China,0.893
+1994-03,Indonesia,25.932
+1994-03,United States,3.743
+1994-04,China,9.235
+1994-04,Indonesia,26.12
+1994-04,United States,9.035
+1994-05,China,14.597
+1994-05,Indonesia,26.326
+1994-05,United States,14.413
+1994-06,China,18.31
+1994-06,Indonesia,25.966
+1994-06,United States,19.964
+1994-07,China,20.522
+1994-07,Indonesia,25.665
+1994-07,United States,21.694000000000003
+1994-08,China,19.494
+1994-08,Indonesia,25.684
+1994-08,United States,20.807
+1994-09,China,14.241
+1994-09,Indonesia,26.114
+1994-09,United States,16.567
+1994-10,China,7.047000000000001
+1994-10,Indonesia,26.28
+1994-10,United States,9.572
+1994-11,China,2.141
+1994-11,Indonesia,26.676
+1994-11,United States,2.7
+1994-12,China,-5.331
+1994-12,Indonesia,26.149
+1994-12,United States,-0.8999999999999999
+1995-01,China,-8.067
+1995-01,Indonesia,26.024
+1995-01,United States,-2.139
+1995-02,China,-4.046
+1995-02,Indonesia,25.984
+1995-02,United States,0.2569999999999997
+1995-03,China,1.742
+1995-03,Indonesia,26.217
+1995-03,United States,3.055
+1995-04,China,7.7570000000000014
+1995-04,Indonesia,26.382
+1995-04,United States,7.975
+1995-05,China,14.218
+1995-05,Indonesia,26.787
+1995-05,United States,13.717
+1995-06,China,18.426
+1995-06,Indonesia,26.487
+1995-06,United States,18.469
+1995-07,China,19.738
+1995-07,Indonesia,25.884
+1995-07,United States,21.632
+1995-08,China,18.81
+1995-08,Indonesia,25.896
+1995-08,United States,21.586
+1995-09,China,14.66
+1995-09,Indonesia,26.308000000000003
+1995-09,United States,16.739
+1995-10,China,8.334
+1995-10,Indonesia,26.47
+1995-10,United States,10.03
+1995-11,China,0.89
+1995-11,Indonesia,26.339
+1995-11,United States,2.613
+1995-12,China,-5.922999999999999
+1995-12,Indonesia,25.978
+1995-12,United States,-1.962
+1996-01,China,-8.036
+1996-01,Indonesia,25.726
+1996-01,United States,-4.316000000000002
+1996-02,China,-4.711
+1996-02,Indonesia,25.818
+1996-02,United States,-0.887
+1996-03,China,1.461
+1996-03,Indonesia,26.663
+1996-03,United States,2.021
+1996-04,China,7.73
+1996-04,Indonesia,26.422
+1996-04,United States,7.975
+1996-05,China,14.067
+1996-05,Indonesia,26.806
+1996-05,United States,14.586
+1996-06,China,17.752
+1996-06,Indonesia,26.377
+1996-06,United States,19.513
+1996-07,China,19.589
+1996-07,Indonesia,26.065
+1996-07,United States,21.636
+1996-08,China,18.707
+1996-08,Indonesia,26.017
+1996-08,United States,20.497
+1996-09,China,14.587
+1996-09,Indonesia,26.37
+1996-09,United States,15.429
+1996-10,China,7.834
+1996-10,Indonesia,26.091
+1996-10,United States,8.822000000000003
+1996-11,China,-0.012
+1996-11,Indonesia,26.291
+1996-11,United States,1.809
+1996-12,China,-5.416
+1996-12,Indonesia,25.934
+1996-12,United States,-2.033
+1997-01,China,-7.127999999999999
+1997-01,Indonesia,25.829
+1997-01,United States,-4.0120000000000005
+1997-02,China,-4.386
+1997-02,Indonesia,25.946
+1997-02,United States,0.219
+1997-03,China,3.3120000000000003
+1997-03,Indonesia,26.583
+1997-03,United States,3.757
+1997-04,China,9.023
+1997-04,Indonesia,26.314
+1997-04,United States,7.08
+1997-05,China,14.605
+1997-05,Indonesia,26.767
+1997-05,United States,13.906
+1997-06,China,17.997
+1997-06,Indonesia,26.609
+1997-06,United States,19.042
+1997-07,China,20.28
+1997-07,Indonesia,25.999
+1997-07,United States,21.597
+1997-08,China,19.431
+1997-08,Indonesia,26.344
+1997-08,United States,20.642
+1997-09,China,13.636
+1997-09,Indonesia,26.222
+1997-09,United States,17.458
+1997-10,China,7.489999999999998
+1997-10,Indonesia,26.494
+1997-10,United States,9.233
+1997-11,China,0.185
+1997-11,Indonesia,26.691
+1997-11,United States,2.947
+1997-12,China,-6.037000000000001
+1997-12,Indonesia,26.665000000000006
+1997-12,United States,-1.7939999999999998
+1998-01,China,-8.267000000000001
+1998-01,Indonesia,26.925
+1998-01,United States,-1.6900000000000004
+1998-02,China,-2.1760000000000006
+1998-02,Indonesia,27.114
+1998-02,United States,1.0
+1998-03,China,2.1180000000000003
+1998-03,Indonesia,27.3
+1998-03,United States,3.317
+1998-04,China,10.799
+1998-04,Indonesia,27.187
+1998-04,United States,8.865
+1998-05,China,14.458
+1998-05,Indonesia,27.478
+1998-05,United States,15.193
+1998-06,China,18.462
+1998-06,Indonesia,26.781
+1998-06,United States,18.771
+1998-07,China,20.232
+1998-07,Indonesia,26.43
+1998-07,United States,22.626
+1998-08,China,19.112
+1998-08,Indonesia,26.229
+1998-08,United States,21.299
+1998-09,China,15.683
+1998-09,Indonesia,26.541
+1998-09,United States,18.384
+1998-10,China,9.128
+1998-10,Indonesia,26.559
+1998-10,United States,10.435
+1998-11,China,1.621
+1998-11,Indonesia,26.479
+1998-11,United States,4.521
+1998-12,China,-4.548
+1998-12,Indonesia,26.034
+1998-12,United States,-1.0269999999999997
+1999-01,China,-6.332999999999999
+1999-01,Indonesia,26.093000000000004
+1999-01,United States,-2.5500000000000003
+1999-02,China,-1.8440000000000003
+1999-02,Indonesia,26.286
+1999-02,United States,0.1880000000000001
+1999-03,China,1.7120000000000002
+1999-03,Indonesia,26.284
+1999-03,United States,2.9760000000000004
+1999-04,China,9.692
+1999-04,Indonesia,26.499
+1999-04,United States,8.379000000000001
+1999-05,China,14.245
+1999-05,Indonesia,26.248
+1999-05,United States,13.885
+1999-06,China,18.468
+1999-06,Indonesia,26.178
+1999-06,United States,18.912
+1999-07,China,20.246
+1999-07,Indonesia,25.708
+1999-07,United States,21.923
+1999-08,China,18.964
+1999-08,Indonesia,25.802
+1999-08,United States,21.085
+1999-09,China,15.317
+1999-09,Indonesia,26.108
+1999-09,United States,16.269000000000002
+1999-10,China,8.084
+1999-10,Indonesia,26.028
+1999-10,United States,9.818
+1999-11,China,0.974
+1999-11,Indonesia,26.322
+1999-11,United States,5.34
+1999-12,China,-5.442
+1999-12,Indonesia,26.046000000000006
+1999-12,United States,-1.4209999999999998
+2000-01,China,-8.254
+2000-01,Indonesia,25.894
+2000-01,United States,-2.338
+2000-02,China,-5.5390000000000015
+2000-02,Indonesia,26.088
+2000-02,United States,2.005
+2000-03,China,2.196
+2000-03,Indonesia,26.308000000000003
+2000-03,United States,5.146000000000001
+2000-04,China,8.84
+2000-04,Indonesia,26.25
+2000-04,United States,8.929
+2000-05,China,15.253
+2000-05,Indonesia,26.682
+2000-05,United States,15.085
+2000-06,China,18.493
+2000-06,Indonesia,25.831
+2000-06,United States,19.294
+2000-07,China,20.942
+2000-07,Indonesia,25.958
+2000-07,United States,21.605
+2000-08,China,19.08
+2000-08,Indonesia,25.833
+2000-08,United States,21.263
+2000-09,China,14.741
+2000-09,Indonesia,26.429
+2000-09,United States,16.525
+2000-10,China,7.385999999999999
+2000-10,Indonesia,26.172
+2000-10,United States,10.134
+2000-11,China,-0.764
+2000-11,Indonesia,26.404
+2000-11,United States,1.608
+2000-12,China,-5.517
+2000-12,Indonesia,26.434
+2000-12,United States,-3.459
+2001-01,China,-7.728
+2001-01,Indonesia,25.985
+2001-01,United States,-2.052
+2001-02,China,-3.809
+2001-02,Indonesia,26.153
+2001-02,United States,-0.73
+2001-03,China,2.478
+2001-03,Indonesia,26.401
+2001-03,United States,2.6060000000000003
+2001-04,China,8.556000000000001
+2001-04,Indonesia,26.411
+2001-04,United States,9.274
+2001-05,China,14.723
+2001-05,Indonesia,26.836
+2001-05,United States,14.728
+2001-06,China,18.593
+2001-06,Indonesia,26.119
+2001-06,United States,19.357
+2001-07,China,20.833
+2001-07,Indonesia,26.191
+2001-07,United States,21.907
+2001-08,China,19.096
+2001-08,Indonesia,26.259
+2001-08,United States,21.653
+2001-09,China,15.011
+2001-09,Indonesia,26.412
+2001-09,United States,16.925
+2001-10,China,8.745999999999999
+2001-10,Indonesia,26.592
+2001-10,United States,9.586
+2001-11,China,1.406
+2001-11,Indonesia,26.489
+2001-11,United States,5.2330000000000005
+2001-12,China,-6.747999999999998
+2001-12,Indonesia,26.109
+2001-12,United States,-1.0599999999999998
+2002-01,China,-5.917000000000001
+2002-01,Indonesia,26.249
+2002-01,United States,-1.1660000000000004
+2002-02,China,-1.7200000000000002
+2002-02,Indonesia,26.434
+2002-02,United States,-0.2230000000000001
+2002-03,China,3.86
+2002-03,Indonesia,26.576
+2002-03,United States,2.08
+2002-04,China,9.195
+2002-04,Indonesia,26.595
+2002-04,United States,9.211
+2002-05,China,14.157
+2002-05,Indonesia,26.917
+2002-05,United States,13.908
+2002-06,China,18.738
+2002-06,Indonesia,26.405
+2002-06,United States,20.052
+2002-07,China,20.319000000000003
+2002-07,Indonesia,26.368
+2002-07,United States,22.675
+2002-08,China,19.284
+2002-08,Indonesia,26.23
+2002-08,United States,20.901
+2002-09,China,14.272
+2002-09,Indonesia,26.36
+2002-09,United States,17.518
+2002-10,China,7.4769999999999985
+2002-10,Indonesia,26.687
+2002-10,United States,9.288
+2002-11,China,0.246
+2002-11,Indonesia,26.772
+2002-11,United States,3.919
+2002-12,China,-6.363
+2002-12,Indonesia,26.75500000000001
+2002-12,United States,-0.369
+2003-01,China,-7.209
+2003-01,Indonesia,26.352
+2003-01,United States,-1.8200000000000005
+2003-02,China,-2.8050000000000006
+2003-02,Indonesia,26.35
+2003-02,United States,-1.26
+2003-03,China,2.331
+2003-03,Indonesia,26.562
+2003-03,United States,3.438
+2003-04,China,9.037
+2003-04,Indonesia,26.641
+2003-04,United States,9.014
+2003-05,China,13.892
+2003-05,Indonesia,26.919
+2003-05,United States,14.443
+2003-06,China,18.086
+2003-06,Indonesia,26.665
+2003-06,United States,18.871
+2003-07,China,19.766
+2003-07,Indonesia,25.999
+2003-07,United States,22.499
+2003-08,China,18.971
+2003-08,Indonesia,26.276
+2003-08,United States,21.833
+2003-09,China,15.089
+2003-09,Indonesia,26.348000000000003
+2003-09,United States,16.299
+2003-10,China,8.142000000000001
+2003-10,Indonesia,26.427000000000003
+2003-10,United States,11.466
+2003-11,China,0.534
+2003-11,Indonesia,26.728
+2003-11,United States,3.35
+2003-12,China,-5.569999999999999
+2003-12,Indonesia,26.079
+2003-12,United States,-1.0719999999999998
+2004-01,China,-7.353999999999999
+2004-01,Indonesia,26.384
+2004-01,United States,-3.841
+2004-02,China,-2.7440000000000007
+2004-02,Indonesia,26.281
+2004-02,United States,-1.4269999999999998
+2004-03,China,3.138
+2004-03,Indonesia,26.653
+2004-03,United States,5.178
+2004-04,China,10.284
+2004-04,Indonesia,26.795
+2004-04,United States,9.388
+2004-05,China,14.171
+2004-05,Indonesia,26.94
+2004-05,United States,15.247
+2004-06,China,18.159
+2004-06,Indonesia,26.39
+2004-06,United States,19.228
+2004-07,China,19.886
+2004-07,Indonesia,25.693
+2004-07,United States,21.663
+2004-08,China,18.757
+2004-08,Indonesia,26.146
+2004-08,United States,20.175
+2004-09,China,14.795
+2004-09,Indonesia,26.38
+2004-09,United States,16.468
+2004-10,China,7.661
+2004-10,Indonesia,26.604000000000006
+2004-10,United States,10.67
+2004-11,China,1.002
+2004-11,Indonesia,26.694000000000003
+2004-11,United States,4.191
+2004-12,China,-5.202000000000001
+2004-12,Indonesia,26.258000000000006
+2004-12,United States,-0.93
+2005-01,China,-7.648
+2005-01,Indonesia,26.332
+2005-01,United States,-1.8840000000000003
+2005-02,China,-5.73
+2005-02,Indonesia,26.712
+2005-02,United States,0.4079999999999999
+2005-03,China,2.237
+2005-03,Indonesia,26.793000000000003
+2005-03,United States,3.548
+2005-04,China,9.581
+2005-04,Indonesia,26.493
+2005-04,United States,8.797
+2005-05,China,14.079
+2005-05,Indonesia,26.689
+2005-05,United States,14.204
+2005-06,China,19.03
+2005-06,Indonesia,26.582
+2005-06,United States,19.511
+2005-07,China,20.465
+2005-07,Indonesia,26.144
+2005-07,United States,22.478
+2005-08,China,18.861
+2005-08,Indonesia,26.336
+2005-08,United States,21.353
+2005-09,China,15.706
+2005-09,Indonesia,26.667
+2005-09,United States,17.73
+2005-10,China,8.201
+2005-10,Indonesia,26.329
+2005-10,United States,10.489
+2005-11,China,1.359
+2005-11,Indonesia,26.382
+2005-11,United States,3.65
+2005-12,China,-7.178999999999999
+2005-12,Indonesia,25.986
+2005-12,United States,-1.5719999999999998
+2006-01,China,-7.001999999999999
+2006-01,Indonesia,26.026
+2006-01,United States,-0.2870000000000004
+2006-02,China,-3.224
+2006-02,Indonesia,26.397
+2006-02,United States,-0.5740000000000001
+2006-03,China,2.53
+2006-03,Indonesia,26.572
+2006-03,United States,2.794
+2006-04,China,8.887
+2006-04,Indonesia,26.305
+2006-04,United States,9.85
+2006-05,China,14.524
+2006-05,Indonesia,26.572
+2006-05,United States,15.155
+2006-06,China,18.417
+2006-06,Indonesia,26.125
+2006-06,United States,19.933
+2006-07,China,20.615
+2006-07,Indonesia,26.259
+2006-07,United States,22.911
+2006-08,China,20.066
+2006-08,Indonesia,26.1
+2006-08,United States,21.079
+2006-09,China,14.797
+2006-09,Indonesia,26.137
+2006-09,United States,15.992
+2006-10,China,9.595
+2006-10,Indonesia,26.539
+2006-10,United States,9.608
+2006-11,China,1.694
+2006-11,Indonesia,26.846
+2006-11,United States,3.4
+2006-12,China,-5.523
+2006-12,Indonesia,26.703000000000007
+2006-12,United States,-0.1669999999999998
+2007-01,China,-6.791
+2007-01,Indonesia,26.419
+2007-01,United States,-2.9590000000000005
+2007-02,China,-1.1770000000000005
+2007-02,Indonesia,26.246
+2007-02,United States,-2.24
+2007-03,China,2.673
+2007-03,Indonesia,26.472
+2007-03,United States,4.446000000000001
+2007-04,China,9.246
+2007-04,Indonesia,26.367
+2007-04,United States,8.476
+2007-05,China,15.425999999999998
+2007-05,Indonesia,26.808000000000003
+2007-05,United States,15.101
+2007-06,China,18.807
+2007-06,Indonesia,26.417
+2007-06,United States,19.705
+2007-07,China,20.174
+2007-07,Indonesia,25.886
+2007-07,United States,22.352
+2007-08,China,19.787
+2007-08,Indonesia,25.869
+2007-08,United States,22.118
+2007-09,China,14.989
+2007-09,Indonesia,26.159
+2007-09,United States,17.365
+2007-10,China,8.052999999999999
+2007-10,Indonesia,26.399
+2007-10,United States,10.932
+2007-11,China,1.012
+2007-11,Indonesia,26.368
+2007-11,United States,4.502
+2007-12,China,-4.678
+2007-12,Indonesia,26.107000000000006
+2007-12,United States,-1.7479999999999998
+2008-01,China,-8.899999999999997
+2008-01,Indonesia,26.193
+2008-01,United States,-3.883000000000001
+2008-02,China,-6.205
+2008-02,Indonesia,26.033
+2008-02,United States,-1.586
+2008-03,China,4.336
+2008-03,Indonesia,25.997
+2008-03,United States,2.8280000000000003
+2008-04,China,9.603
+2008-04,Indonesia,26.039
+2008-04,United States,7.902
+2008-05,China,14.874
+2008-05,Indonesia,26.419
+2008-05,United States,13.723
+2008-06,China,18.462
+2008-06,Indonesia,25.945
+2008-06,United States,19.381
+2008-07,China,20.28
+2008-07,Indonesia,25.6
+2008-07,United States,21.69
+2008-08,China,18.826
+2008-08,Indonesia,25.747
+2008-08,United States,20.543000000000003
+2008-09,China,15.071
+2008-09,Indonesia,26.195
+2008-09,United States,16.567
+2008-10,China,8.635
+2008-10,Indonesia,26.259
+2008-10,United States,9.164
+2008-11,China,0.84
+2008-11,Indonesia,26.404
+2008-11,United States,3.62
+2008-12,China,-5.029
+2008-12,Indonesia,25.952
+2008-12,United States,-2.532
+2009-01,China,-6.920999999999999
+2009-01,Indonesia,25.999
+2009-01,United States,-3.5690000000000004
+2009-02,China,-1.879
+2009-02,Indonesia,25.966
+2009-02,United States,-0.31
+2009-03,China,2.721
+2009-03,Indonesia,26.228
+2009-03,United States,2.833
+2009-04,China,10.277
+2009-04,Indonesia,26.64
+2009-04,United States,8.172
+2009-05,China,14.555
+2009-05,Indonesia,26.852
+2009-05,United States,14.884
+2009-06,China,18.412
+2009-06,Indonesia,26.538
+2009-06,United States,18.962
+2009-07,China,20.251
+2009-07,Indonesia,26.103
+2009-07,United States,21.463
+2009-08,China,19.157
+2009-08,Indonesia,26.464
+2009-08,United States,20.436
+2009-09,China,15.26
+2009-09,Indonesia,26.923
+2009-09,United States,17.166999999999998
+2009-10,China,8.934999999999997
+2009-10,Indonesia,26.608
+2009-10,United States,8.533999999999999
+2009-11,China,-0.926
+2009-11,Indonesia,26.692
+2009-11,United States,4.251
+2009-12,China,-6.127999999999999
+2009-12,Indonesia,26.447000000000006
+2009-12,United States,-3.178
+2010-01,China,-6.718999999999999
+2010-01,Indonesia,26.201
+2010-01,United States,-3.61
+2010-02,China,-3.886
+2010-02,Indonesia,26.907
+2010-02,United States,-2.105
+2010-03,China,1.7360000000000002
+2010-03,Indonesia,26.853
+2010-03,United States,3.4360000000000004
+2010-04,China,7.349
+2010-04,Indonesia,26.969
+2010-04,United States,9.55
+2010-05,China,14.293
+2010-05,Indonesia,27.218000000000004
+2010-05,United States,14.174
+2010-06,China,18.649
+2010-06,Indonesia,26.628
+2010-06,United States,19.885
+2010-07,China,21.043000000000003
+2010-07,Indonesia,26.231
+2010-07,United States,22.078000000000003
+2010-08,China,19.657
+2010-08,Indonesia,26.369
+2010-08,United States,21.703000000000003
+2010-09,China,15.117
+2010-09,Indonesia,26.321
+2010-09,United States,17.384
+2010-10,China,7.989999999999998
+2010-10,Indonesia,26.386000000000006
+2010-10,United States,10.913
+2010-11,China,1.401
+2010-11,Indonesia,26.412
+2010-11,United States,3.6010000000000004
+2010-12,China,-6.049
+2010-12,Indonesia,25.949
+2010-12,United States,-2.942
+2011-01,China,-10.498
+2011-01,Indonesia,25.843000000000004
+2011-01,United States,-3.507000000000001
+2011-02,China,-3.0990000000000006
+2011-02,Indonesia,26.095
+2011-02,United States,-1.881
+2011-03,China,0.6679999999999999
+2011-03,Indonesia,26.096
+2011-03,United States,3.462
+2011-04,China,9.503
+2011-04,Indonesia,26.184
+2011-04,United States,8.582
+2011-05,China,14.274
+2011-05,Indonesia,26.617
+2011-05,United States,13.759
+2011-06,China,18.73
+2011-06,Indonesia,26.165
+2011-06,United States,19.578
+2011-07,China,20.449
+2011-07,Indonesia,26.021
+2011-07,United States,22.722
+2011-08,China,19.623
+2011-08,Indonesia,26.136
+2011-08,United States,21.915
+2011-09,China,14.466
+2011-09,Indonesia,26.204
+2011-09,United States,17.148
+2011-10,China,8.493
+2011-10,Indonesia,26.31600000000001
+2011-10,United States,10.49
+2011-11,China,1.891
+2011-11,Indonesia,26.53
+2011-11,United States,2.966
+2011-12,China,-6.215
+2011-12,Indonesia,26.22
+2011-12,United States,-0.6349999999999998
+2012-01,China,-9.344
+2012-01,Indonesia,26.145
+2012-01,United States,-2.2680000000000007
+2012-02,China,-5.1930000000000005
+2012-02,Indonesia,26.152
+2012-02,United States,0.5819999999999999
+2012-03,China,1.666
+2012-03,Indonesia,26.285
+2012-03,United States,6.023999999999999
+2012-04,China,9.736
+2012-04,Indonesia,26.359
+2012-04,United States,10.196000000000002
+2012-05,China,15.09
+2012-05,Indonesia,26.64
+2012-05,United States,15.422
+2012-06,China,18.236
+2012-06,Indonesia,26.312
+2012-06,United States,19.954
+2012-07,China,20.389
+2012-07,Indonesia,25.802
+2012-07,United States,23.008000000000003
+2012-08,China,19.458
+2012-08,Indonesia,26.065
+2012-08,United States,21.422
+2012-09,China,14.479
+2012-09,Indonesia,26.433000000000003
+2012-09,United States,17.035999999999998
+2012-10,China,7.683999999999998
+2012-10,Indonesia,26.595
+2012-10,United States,9.688
+2012-11,China,-0.254
+2012-11,Indonesia,26.651
+2012-11,United States,3.33
+2012-12,China,-7.021999999999999
+2012-12,Indonesia,26.426
+2012-12,United States,-1.261
+2013-01,China,-8.136999999999999
+2013-01,Indonesia,26.403
+2013-01,United States,-2.155
+2013-02,China,-3.812
+2013-02,Indonesia,26.209
+2013-02,United States,-1.216
+2013-03,China,3.819
+2013-03,Indonesia,26.934
+2013-03,United States,2.289
+2013-04,China,8.577
+2013-04,Indonesia,26.628
+2013-04,United States,6.9700000000000015
+2013-05,China,14.824000000000002
+2013-05,Indonesia,26.818
+2013-05,United States,14.073
+2013-06,China,18.636
+2013-06,Indonesia,26.881
+2013-06,United States,20.198
+2013-07,China,20.482
+2013-07,Indonesia,25.902
+2013-07,United States,22.074
+2013-08,China,19.971
+2013-08,Indonesia,25.961
+2013-08,United States,21.168000000000003
+2013-09,United States,18.273
