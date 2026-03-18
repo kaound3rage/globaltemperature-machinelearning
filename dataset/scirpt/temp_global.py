@@ -8,64 +8,91 @@ from pyspark.sql import functions as F
 from pyspark.sql.types import DoubleType
 
 # ── Init ──────────────────────────────────────────────────────────────────────
-args = getResolvedOptions(sys.argv, ["JOB_NAME"])
+args = getResolvedOptions(sys.argv, ["JOB_NAME", "file_type"])
 sc   = SparkContext()
 glueContext = GlueContext(sc)
 spark = glueContext.spark_session
 job   = Job(glueContext)
 job.init(args["JOB_NAME"], args)
 
-# ── Config ────────────────────────────────────────────────────────────────────
-INPUT_PATH  = "s3://globalandtemperature/raw-data/temp_global/"
-OUTPUT_PATH = "s3://globalandtemperature/processed-data/temp_global/"
+FILE_TYPE = args["file_type"].lower()  # global | country | city | state
 
-TEMP_COLS = [
-    "LandAverageTemperature",
-    "LandAverageTemperatureUncertainty",
-    "LandMaxTemperature",
-    "LandMaxTemperatureUncertainty",
-    "LandMinTemperature",
-    "LandMinTemperatureUncertainty",
-    "LandAndOceanAverageTemperature",
-    "LandAndOceanAverageTemperatureUncertainty",
-]
+BUCKET    = "globallandtemperature"
+INPUT_PATH  = f"s3://{BUCKET}/raw-data/{FILE_TYPE}/clean_{FILE_TYPE}.csv"
+OUTPUT_PATH = f"s3://{BUCKET}/processed-data/{FILE_TYPE}/"
 
-# ── 1. Read CSV ───────────────────────────────────────────────────────────────
+print(f"▶ Starting ETL for file_type='{FILE_TYPE}'")
+print(f"  Input  : {INPUT_PATH}")
+print(f"  Output : {OUTPUT_PATH}")
+
+# ── Read CSV ──────────────────────────────────────────────────────────────────
 df = spark.read.option("header", "true").csv(INPUT_PATH)
 
-# ── 2. Cast kolom temperatur ke Double ───────────────────────────────────────
-for col in TEMP_COLS:
-    df = df.withColumn(col, F.col(col).cast(DoubleType()))
+# =============================================================================
+# TRANSFORMASI PER FILE TYPE
+# =============================================================================
 
-# ── 3. Parse kolom tanggal & ekstrak tahun + bulan ───────────────────────────
-df = df.withColumn("dt", F.to_date(F.col("dt"), "yyyy-MM-dd")) \
-       .withColumn("year",  F.year("dt")) \
-       .withColumn("month", F.month("dt"))
+# ─────────────────────────────────────────────────────────────────────────────
+if FILE_TYPE == "global":
+    # Schema: year_global, global_avg_temp
+    df = df.withColumn("year_global",    F.col("year_global").cast("integer")) \
+           .withColumn("global_avg_temp", F.col("global_avg_temp").cast(DoubleType()))
 
-# ── 4. Bersihkan null/missing values ─────────────────────────────────────────
-# Drop baris yang kolom temperatur utamanya null
-df_clean = df.dropna(subset=[
-    "LandAverageTemperature",
-    "LandAndOceanAverageTemperature"
-])
+    df_clean = df.dropna(subset=["year_global", "global_avg_temp"])
 
-# ── 5. Agregasi rata-rata per bulan (year + month) ────────────────────────────
-df_agg = df_clean.groupBy("year", "month").agg(
-    F.round(F.avg("LandAverageTemperature"),            4).alias("avg_LandAverageTemperature"),
-    F.round(F.avg("LandAverageTemperatureUncertainty"), 4).alias("avg_LandAverageTemperatureUncertainty"),
-    F.round(F.avg("LandMaxTemperature"),                4).alias("avg_LandMaxTemperature"),
-    F.round(F.avg("LandMaxTemperatureUncertainty"),     4).alias("avg_LandMaxTemperatureUncertainty"),
-    F.round(F.avg("LandMinTemperature"),                4).alias("avg_LandMinTemperature"),
-    F.round(F.avg("LandMinTemperatureUncertainty"),     4).alias("avg_LandMinTemperatureUncertainty"),
-    F.round(F.avg("LandAndOceanAverageTemperature"),            4).alias("avg_LandAndOceanAverageTemperature"),
-    F.round(F.avg("LandAndOceanAverageTemperatureUncertainty"), 4).alias("avg_LandAndOceanAverageTemperatureUncertainty"),
-) \
-.orderBy("year", "month")
+    df_out = df_clean.groupBy("year_global").agg(
+        F.round(F.avg("global_avg_temp"), 4).alias("global_avg_temp")
+    ).orderBy("year_global")
 
-# ── 6. Tulis output ke S3 sebagai Parquet ─────────────────────────────────────
-df_agg.write \
-    .mode("overwrite") \
-    .partitionBy("year") \
-    .parquet(OUTPUT_PATH)
+    df_out.write.mode("overwrite").parquet(OUTPUT_PATH)
 
+# ─────────────────────────────────────────────────────────────────────────────
+elif FILE_TYPE == "country":
+    # Schema: year, country_name, avg_temp_country
+    df = df.withColumn("year",             F.col("year").cast("integer")) \
+           .withColumn("avg_temp_country", F.col("avg_temp_country").cast(DoubleType()))
+
+    df_clean = df.dropna(subset=["year", "country_name", "avg_temp_country"])
+
+    df_out = df_clean.groupBy("year", "country_name").agg(
+        F.round(F.avg("avg_temp_country"), 4).alias("avg_temp_country")
+    ).orderBy("year", "country_name")
+
+    df_out.write.mode("overwrite").partitionBy("year").parquet(OUTPUT_PATH)
+
+# ─────────────────────────────────────────────────────────────────────────────
+elif FILE_TYPE == "city":
+    # Schema: month, city_name, avg_temp_city
+    df = df.withColumn("month",         F.col("month").cast("integer")) \
+           .withColumn("avg_temp_city", F.col("avg_temp_city").cast(DoubleType()))
+
+    df_clean = df.dropna(subset=["month", "city_name", "avg_temp_city"])
+
+    df_out = df_clean.groupBy("month", "city_name").agg(
+        F.round(F.avg("avg_temp_city"), 4).alias("avg_temp_city")
+    ).orderBy("month", "city_name")
+
+    df_out.write.mode("overwrite").partitionBy("month").parquet(OUTPUT_PATH)
+
+# ─────────────────────────────────────────────────────────────────────────────
+elif FILE_TYPE == "state":
+    # Schema: year_month, state_name, avg_temp_state
+    df = df.withColumn("avg_temp_state", F.col("avg_temp_state").cast(DoubleType())) \
+           .withColumn("year",  F.col("year_month").substr(1, 4).cast("integer")) \
+           .withColumn("month", F.col("year_month").substr(6, 2).cast("integer"))
+
+    df_clean = df.dropna(subset=["year_month", "state_name", "avg_temp_state"])
+
+    df_out = df_clean.groupBy("year_month", "year", "month", "state_name").agg(
+        F.round(F.avg("avg_temp_state"), 4).alias("avg_temp_state")
+    ).orderBy("year_month", "state_name")
+
+    df_out.write.mode("overwrite").partitionBy("year").parquet(OUTPUT_PATH)
+
+# ─────────────────────────────────────────────────────────────────────────────
+else:
+    raise ValueError(f"file_type tidak dikenal: '{FILE_TYPE}'. Pilih: global | country | city | state")
+
+# ── Done ──────────────────────────────────────────────────────────────────────
+print(f"✅ ETL selesai untuk file_type='{FILE_TYPE}' → {OUTPUT_PATH}")
 job.commit()
