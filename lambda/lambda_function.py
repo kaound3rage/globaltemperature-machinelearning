@@ -38,7 +38,6 @@ import logging
 import numpy as np
 from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.preprocessing import MinMaxScaler
-from sklearn.metrics import mean_absolute_error, mean_squared_error
 
 # =============================================================================
 # GBTForecaster — harus didefinisikan ulang di sini agar pickle bisa di-load.
@@ -68,26 +67,8 @@ class GBTForecaster:
             random_state  = 42
         )
 
-    def fit_single(self, label, series):
-        scaler = MinMaxScaler()
-        scaled = scaler.fit_transform(series.reshape(-1, 1)).flatten()
-        X, y = [], []
-        for i in range(self.n_lags, len(scaled)):
-            X.append(scaled[i - self.n_lags:i])
-            y.append(scaled[i])
-        X, y = np.array(X), np.array(y)
-        if len(X) < 10:
-            return None, None
-        split = int(len(X) * 0.8)
-        model = self._build_model()
-        model.fit(X[:split], y[:split])
-        y_pred = scaler.inverse_transform(model.predict(X[split:]).reshape(-1, 1)).flatten()
-        y_true = scaler.inverse_transform(y[split:].reshape(-1, 1)).flatten()
-        mae  = mean_absolute_error(y_true, y_pred)
-        rmse = float(np.sqrt(mean_squared_error(y_true, y_pred)))
-        self.models[label]  = model
-        self.scalers[label] = scaler
-        return mae, rmse
+    def fit_single(self, *args, **kwargs):
+        pass  # tidak dipakai di Lambda
 
     def forecast(self, label, last_values, steps):
         model  = self.models[label]
