@@ -6,116 +6,93 @@ Function name : globaltemp-lambda
 Runtime       : Python 3.11
 Trigger       : API Gateway (API Key auth)
 
+Alur:
+  User → API Gateway → Lambda → S3 (baca forecast)
+                              → DynamoDB (simpan activity log)
+
 Endpoints:
   POST /predict   → forecast per dataset
   GET  /metadata  → info model & metrics
   GET  /list      → list semua label forecast
 
-Request format (POST /predict):
-{
-  "dataset": "global" | "country" | "city" | "state",
-  "label"  : "global" | "country_Albania" | "city_Abidjan" | ...
-}
-
-Response format:
-{
-  "label"       : "global",
-  "dataset"     : "global",
-  "forecast"    : [8.22, 8.25, ...],
-  "future_index": [2014, 2015, ...],
-  "mae"         : 0.7169,
-  "rmse"        : 0.8862
-}
+DynamoDB Table: globaltemp-activity-log
+  Partition Key : request_id (String)
+  Attributes    : user_id, endpoint, request_body,
+                  response_status, timestamp, duration_ms
 ====================================================
 """
 
 import os
 import json
+import uuid
+import time
 import boto3
-import pickle
 import logging
-
-import numpy as np
-from sklearn.ensemble import GradientBoostingRegressor
-from sklearn.preprocessing import MinMaxScaler
-
-# =============================================================================
-# GBTForecaster — harus didefinisikan ulang di sini agar pickle bisa di-load.
-# Class ini identik dengan yang ada di sagemaker_training.py.
-# Pickle menyimpan reference ke nama class, bukan kode-nya — sehingga Lambda
-# perlu tahu class ini sebelum memanggil pickle.load().
-# =============================================================================
-class GBTForecaster:
-    def __init__(self, n_lags=5, n_estimators=100, max_depth=5,
-                 learning_rate=0.05, subsample=0.8):
-        self.n_lags        = n_lags
-        self.n_estimators  = n_estimators
-        self.max_depth     = max_depth
-        self.learning_rate = learning_rate
-        self.subsample     = subsample
-        self.models        = {}
-        self.scalers       = {}
-        self.results       = {}
-        self.trained_at    = None
-
-    def _build_model(self):
-        return GradientBoostingRegressor(
-            n_estimators  = self.n_estimators,
-            max_depth     = self.max_depth,
-            learning_rate = self.learning_rate,
-            subsample     = self.subsample,
-            random_state  = 42
-        )
-
-    def fit_single(self, *args, **kwargs):
-        pass  # tidak dipakai di Lambda
-
-    def forecast(self, label, last_values, steps):
-        model  = self.models[label]
-        scaler = self.scalers[label]
-        scaled = scaler.transform(last_values.reshape(-1, 1)).flatten()
-        predictions  = []
-        current_lags = list(scaled[-self.n_lags:])
-        for _ in range(steps):
-            X_input = np.array(current_lags[-self.n_lags:]).reshape(1, -1)
-            pred    = model.predict(X_input)[0]
-            predictions.append(pred)
-            current_lags.append(pred)
-        return scaler.inverse_transform(
-            np.array(predictions).reshape(-1, 1)
-        ).flatten()
-
-    def fit_and_forecast_all(self, *args, **kwargs):
-        pass  # tidak dipakai di Lambda, hanya untuk kompatibilitas pickle
-
+from datetime import datetime, timezone
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
 # ─── Config ───────────────────────────────────────────────────────────────────
-S3_BUCKET    = os.environ.get("S3_BUCKET",    "globallandtemperature")
-MODEL_KEY    = os.environ.get("MODEL_KEY",    "models/temperature_forecast_model.pkl")
-METADATA_KEY = os.environ.get("METADATA_KEY", "models/model_metadata.json")
-LOCAL_MODEL  = "/tmp/temperature_forecast_model.pkl"
+S3_BUCKET      = os.environ.get("S3_BUCKET",      "globallandtemperature")
+RESULTS_KEY    = os.environ.get("RESULTS_KEY",    "models/forecast_results.json")
+METADATA_KEY   = os.environ.get("METADATA_KEY",   "models/model_metadata.json")
+DYNAMO_TABLE   = os.environ.get("DYNAMO_TABLE",   "globaltemp-activity-log")
 
-s3 = boto3.client("s3")
+s3     = boto3.client("s3")
+dynamo = boto3.resource("dynamodb")
+table  = dynamo.Table(DYNAMO_TABLE)
 
-# ─── Load model (cached di /tmp selama Lambda container hidup) ────────────────
-_model_cache = None
+# ─── Cache hasil forecast di memori ───────────────────────────────────────────
+_results_cache = None
 
-def load_model():
-    global _model_cache
-    if _model_cache is not None:
-        return _model_cache
+def load_results() -> dict:
+    """Load forecast_results.json dari S3, cached selama container hidup."""
+    global _results_cache
+    if _results_cache is not None:
+        return _results_cache
 
-    logger.info(f"Downloading model dari s3://{S3_BUCKET}/{MODEL_KEY}")
-    s3.download_file(S3_BUCKET, MODEL_KEY, LOCAL_MODEL)
+    logger.info(f"Loading results dari s3://{S3_BUCKET}/{RESULTS_KEY}")
+    obj = s3.get_object(Bucket=S3_BUCKET, Key=RESULTS_KEY)
+    _results_cache = json.loads(obj["Body"].read().decode("utf-8"))
+    logger.info("Results loaded successfully")
+    return _results_cache
 
-    with open(LOCAL_MODEL, "rb") as f:
-        _model_cache = pickle.load(f)
+# ─── DynamoDB: simpan activity log ───────────────────────────────────────────
+def log_activity(request_id: str, endpoint: str, method: str,
+                 request_body: dict, response_status: int,
+                 duration_ms: int, event: dict, error_msg: str = None):
+    """Catat setiap aktivitas user ke DynamoDB."""
+    try:
+        # Ambil identitas user dari API Gateway request context
+        request_context = event.get("requestContext", {})
+        identity        = request_context.get("identity", {})
 
-    logger.info("Model loaded successfully")
-    return _model_cache
+        item = {
+            "request_id"     : request_id,
+            "timestamp"      : datetime.now(timezone.utc).isoformat(),
+            "endpoint"       : endpoint,
+            "method"         : method,
+            "request_body"   : json.dumps(request_body, default=str),
+            "response_status": response_status,
+            "duration_ms"    : duration_ms,
+            # Identitas user dari API Gateway
+            "source_ip"      : identity.get("sourceIp", "unknown"),
+            "user_agent"      : identity.get("userAgent", "unknown"),
+            "api_key_id"     : request_context.get("identity", {}).get("apiKeyId", "unknown"),
+            "stage"          : request_context.get("stage", "unknown"),
+            # Error jika ada
+            "error"          : error_msg or "",
+            # TTL: log otomatis hapus setelah 90 hari (epoch seconds)
+            "ttl"            : int(time.time()) + (90 * 24 * 60 * 60),
+        }
+
+        table.put_item(Item=item)
+        logger.info(f"Activity logged: {request_id} | {endpoint} | {response_status}")
+
+    except Exception as e:
+        # Jangan sampai error DynamoDB mengganggu response ke user
+        logger.error(f"Gagal log ke DynamoDB: {e}")
 
 # ─── Response helper ──────────────────────────────────────────────────────────
 def response(status_code: int, body: dict) -> dict:
@@ -134,11 +111,7 @@ def error(status_code: int, message: str) -> dict:
 # ─── Route handlers ───────────────────────────────────────────────────────────
 
 def handle_predict(body: dict) -> dict:
-    """
-    POST /predict
-    Body: { "dataset": "global", "label": "global" }
-    """
-    dataset = body.get("dataset", "").lower()
+    dataset = body.get("dataset", "").lower().strip()
     label   = body.get("label",   "").strip()
 
     if not dataset:
@@ -146,33 +119,30 @@ def handle_predict(body: dict) -> dict:
     if not label:
         return error(400, "Field 'label' wajib diisi. Contoh: 'global', 'country_Albania'")
 
-    model_pkg = load_model()
-    results   = model_pkg["model"].results
+    data    = load_results()
+    results = data.get("results", {})
 
     if dataset not in results:
-        available = list(results.keys())
-        return error(404, f"Dataset '{dataset}' tidak ditemukan. Tersedia: {available}")
+        return error(404, f"Dataset '{dataset}' tidak ditemukan. Tersedia: {list(results.keys())}")
 
     if label not in results[dataset]:
-        available = list(results[dataset].keys())
         return error(404, f"Label '{label}' tidak ditemukan di dataset '{dataset}'. "
-                         f"Tersedia: {available}")
+                         f"Tersedia: {list(results[dataset].keys())}")
 
     metrics = results[dataset][label]
 
     return response(200, {
-        "dataset"     : dataset,
-        "label"       : label,
-        "forecast"    : [round(v, 4) for v in metrics["future_vals"]],
-        "future_index": metrics["future_index"],
-        "mae"         : metrics["mae"],
-        "rmse"        : metrics["rmse"],
+        "dataset"       : dataset,
+        "label"         : label,
+        "forecast"      : [round(v, 4) for v in metrics["future_vals"]],
+        "future_index"  : metrics["future_index"],
+        "mae"           : metrics["mae"],
+        "rmse"          : metrics["rmse"],
         "forecast_years": len(metrics["future_vals"]),
     })
 
 
 def handle_metadata() -> dict:
-    """GET /metadata — info model, versi, metrics."""
     try:
         obj  = s3.get_object(Bucket=S3_BUCKET, Key=METADATA_KEY)
         meta = json.loads(obj["Body"].read().decode("utf-8"))
@@ -183,31 +153,23 @@ def handle_metadata() -> dict:
 
 
 def handle_list(dataset: str = None) -> dict:
-    """
-    GET /list              → list semua dataset & label
-    GET /list?dataset=city → list label untuk dataset tertentu
-    """
-    model_pkg = load_model()
-    results   = model_pkg["model"].results
+    data    = load_results()
+    results = data.get("results", {})
 
     if dataset:
-        dataset = dataset.lower()
+        dataset = dataset.lower().strip()
         if dataset not in results:
-            available = list(results.keys())
-            return error(404, f"Dataset '{dataset}' tidak ditemukan. Tersedia: {available}")
+            return error(404, f"Dataset '{dataset}' tidak ditemukan. Tersedia: {list(results.keys())}")
         return response(200, {
             "dataset": dataset,
             "labels" : list(results[dataset].keys()),
             "total"  : len(results[dataset]),
         })
 
-    # Semua dataset
-    summary = {}
-    for ds, res in results.items():
-        summary[ds] = {
-            "labels": list(res.keys()),
-            "total" : len(res),
-        }
+    summary = {
+        ds: {"labels": list(res.keys()), "total": len(res)}
+        for ds, res in results.items()
+    }
     return response(200, {"datasets": summary})
 
 
@@ -216,34 +178,41 @@ def handle_list(dataset: str = None) -> dict:
 def lambda_handler(event, context):
     logger.info(f"Event: {json.dumps(event)}")
 
-    # Ambil path & method
-    http_method = event.get("httpMethod", "GET").upper()
-    path        = event.get("path", "/").rstrip("/")
+    # Generate request ID unik untuk setiap request
+    request_id   = str(uuid.uuid4())
+    start_time   = time.time()
 
-    # Query string params
+    http_method  = event.get("httpMethod", "GET").upper()
+    path         = event.get("path", "/").rstrip("/")
     query_params = event.get("queryStringParameters") or {}
     dataset_qs   = query_params.get("dataset", "")
 
-    # Body
     raw_body = event.get("body") or "{}"
     try:
         body = json.loads(raw_body) if isinstance(raw_body, str) else raw_body
     except json.JSONDecodeError:
-        return error(400, "Request body bukan JSON valid")
+        result = error(400, "Request body bukan JSON valid")
+        log_activity(request_id, path, http_method, {}, 400,
+                     int((time.time() - start_time) * 1000), event,
+                     "Invalid JSON body")
+        return result
 
     # ── Routing ───────────────────────────────────────────────────────────────
+    result     = None
+    error_msg  = None
+
     try:
         if path == "/predict" and http_method == "POST":
-            return handle_predict(body)
+            result = handle_predict(body)
 
         elif path == "/metadata" and http_method == "GET":
-            return handle_metadata()
+            result = handle_metadata()
 
         elif path == "/list" and http_method == "GET":
-            return handle_list(dataset=dataset_qs)
+            result = handle_list(dataset=dataset_qs)
 
         elif path in ("", "/") and http_method == "GET":
-            return response(200, {
+            result = response(200, {
                 "service" : "GlobalTemperature Inference API",
                 "version" : "1.0.0",
                 "endpoints": {
@@ -254,8 +223,24 @@ def lambda_handler(event, context):
             })
 
         else:
-            return error(404, f"Endpoint '{http_method} {path}' tidak ditemukan")
+            result = error(404, f"Endpoint '{http_method} {path}' tidak ditemukan")
 
     except Exception as e:
         logger.error(f"Unhandled error: {e}", exc_info=True)
-        return error(500, f"Internal server error: {str(e)}")
+        error_msg = str(e)
+        result    = error(500, f"Internal server error: {str(e)}")
+
+    # ── Log ke DynamoDB ───────────────────────────────────────────────────────
+    duration_ms = int((time.time() - start_time) * 1000)
+    log_activity(
+        request_id     = request_id,
+        endpoint       = path or "/",
+        method         = http_method,
+        request_body   = body if http_method == "POST" else {"dataset": dataset_qs},
+        response_status= result["statusCode"],
+        duration_ms    = duration_ms,
+        event          = event,
+        error_msg      = error_msg
+    )
+
+    return result
