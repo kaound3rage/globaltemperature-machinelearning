@@ -1,0 +1,5 @@
+curl https://2ekahxvxmb.execute-api.us-east-1.amazonaws.com/prod/list
+curl https://2ekahxvxmb.execute-api.us-east-1.amazonaws.com/prod/metadata
+curl -X POST https://2ekahxvxmb.execute-api.us-east-1.amazonaws.com/prod/predict \
+  -H "Content-Type: application/json" \
+  -d '{"dataset": "global", "label": "global"}'
